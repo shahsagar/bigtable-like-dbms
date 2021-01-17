@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="312px" preserveAspectRatio="none"
+     style="width:254px;height:312px;" version="1.1" viewBox="0 0 254 312" width="254px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="fn26zor9j1r08" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[9688744ae8a0f02d1019476a5dadd53d]
+class bufmgr.BufMgr-->
+        <a href="../bufmgr/BufMgr.html" target="_top" title="../bufmgr/BufMgr.html" xlink:actuate="onRequest"
+           xlink:href="../bufmgr/BufMgr.html" xlink:show="new" xlink:title="../bufmgr/BufMgr.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fn26zor9j1r08)" height="173.9844" id="bufmgr.BufMgr"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="237" x="6" y="106"/>
+            <ellipse cx="95.75" cy="124.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M98.7188,130.6094 Q98.1406,130.9063 97.5,131.0469 Q96.8594,131.2031 96.1563,131.2031 Q93.6563,131.2031 92.3281,129.5625 Q91.0156,127.9063 91.0156,124.7813 Q91.0156,121.6563 92.3281,120 Q93.6563,118.3438 96.1563,118.3438 Q96.8594,118.3438 97.5,118.5 Q98.1563,118.6563 98.7188,118.9531 L98.7188,121.6719 Q98.0938,121.0938 97.5,120.8281 Q96.9063,120.5469 96.2813,120.5469 Q94.9375,120.5469 94.25,121.625 Q93.5625,122.6875 93.5625,124.7813 Q93.5625,126.875 94.25,127.9531 Q94.9375,129.0156 96.2813,129.0156 Q96.9063,129.0156 97.5,128.75 Q98.0938,128.4688 98.7188,127.8906 L98.7188,130.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49"
+                  x="116.25" y="123.9951">BufMgr
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="36"
+                  x="122.75" y="136.5791">bufmgr
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="242" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="17" cy="154.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="104" x="26" y="158.1479">BufMgr(int, String)
+            </text>
+            <ellipse cx="17" cy="167.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="211" x="26" y="170.9526">pinPage(PageId, Page, boolean): void
+            </text>
+            <ellipse cx="17" cy="180.5469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="189" x="26" y="183.7573">unpinPage(PageId, boolean): void
+            </text>
+            <ellipse cx="17" cy="193.3516" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="155" x="26" y="196.562">newPage(Page, int): PageId
+            </text>
+            <ellipse cx="17" cy="206.1563" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="128" x="26" y="209.3667">freePage(PageId): void
+            </text>
+            <ellipse cx="17" cy="218.9609" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="133" x="26" y="222.1714">flushPage(PageId): void
+            </text>
+            <ellipse cx="17" cy="231.7656" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="115" x="26" y="234.9761">flushAllPages(): void
+            </text>
+            <ellipse cx="17" cy="244.5703" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="116" x="26" y="247.7808">getNumBuffers(): int
+            </text>
+            <ellipse cx="17" cy="257.375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="169" x="26" y="260.5854">getNumUnpinnedBuffers(): int
+            </text>
+            <ellipse cx="17" cy="270.1797" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="153" x="26" y="273.3901">frameTable(): FrameDesc[]
+            </text>
+        </a><!--MD5=[349d101bc5b57a3de1b8b252b2bcdd93]
+class global.GlobalConst-->
+        <a href="../global/GlobalConst.html" target="_top" title="../global/GlobalConst.html" xlink:actuate="onRequest"
+           xlink:href="../global/GlobalConst.html" xlink:show="new" xlink:title="../global/GlobalConst.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fn26zor9j1r08)" height="37.9375" id="global.GlobalConst"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="116" x="66.5" y="8"/>
+            <ellipse cx="81.5" cy="26.9688" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M77.4219,22.7344 L77.4219,20.5781 L84.8125,20.5781 L84.8125,22.7344 L82.3438,22.7344 L82.3438,30.8125 L84.8125,30.8125 L84.8125,32.9688 L77.4219,32.9688 L77.4219,30.8125 L79.8906,30.8125 L79.8906,22.7344 L77.4219,22.7344 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="84" x="95.5" y="25.9951">GlobalConst
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="28" x="123.5" y="38.5791">global
+            </text>
+        </a><!--MD5=[3f2cbd612c2ba0294ed90c0c42a4938c]
+reverse link global.GlobalConst to bufmgr.BufMgr-->
+        <path d="M124.5,66.1148 C124.5,78.183 124.5,91.9886 124.5,105.9474 " fill="none"
+              id="global.GlobalConst&lt;-bufmgr.BufMgr"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="117.5001,66.0423,124.5,46.0423,131.5001,66.0423,117.5001,66.0423"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="37.5" y="299.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[811541d9c1ba9a077a7279d93cab57c9]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>BufMgr\n<size:10>bufmgr" as bufmgr.BufMgr [[../bufmgr/BufMgr.html]] {
+        +BufMgr(int, String)
+        +pinPage(PageId, Page, boolean): void
+        +unpinPage(PageId, boolean): void
+        +newPage(Page, int): PageId
+        +freePage(PageId): void
+        +flushPage(PageId): void
+        +flushAllPages(): void
+        +getNumBuffers(): int
+        +getNumUnpinnedBuffers(): int
+        +frameTable(): FrameDesc[]
+    }
+
+    interface "<size:14>GlobalConst\n<size:10>global" as global.GlobalConst [[../global/GlobalConst.html]]
+
+    global.GlobalConst <|.. bufmgr.BufMgr
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

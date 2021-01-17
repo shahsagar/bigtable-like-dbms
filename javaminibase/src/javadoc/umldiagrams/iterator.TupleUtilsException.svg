@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="210px" preserveAspectRatio="none"
+     style="width:257px;height:210px;" version="1.1" viewBox="0 0 257 210" width="257px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="fuy7hzi1rgy6h" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[299001530dd6ca0625e8087c01e54d41]
+class iterator.TupleUtilsException-->
+        <a href="../iterator/TupleUtilsException.html" target="_top" title="../iterator/TupleUtilsException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/TupleUtilsException.html" xlink:show="new"
+           xlink:title="../iterator/TupleUtilsException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fuy7hzi1rgy6h)" height="71.5469" id="iterator.TupleUtilsException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="240" x="6" y="106"/>
+            <ellipse cx="53.75" cy="124.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M56.7188,130.6094 Q56.1406,130.9063 55.5,131.0469 Q54.8594,131.2031 54.1563,131.2031 Q51.6563,131.2031 50.3281,129.5625 Q49.0156,127.9063 49.0156,124.7813 Q49.0156,121.6563 50.3281,120 Q51.6563,118.3438 54.1563,118.3438 Q54.8594,118.3438 55.5,118.5 Q56.1563,118.6563 56.7188,118.9531 L56.7188,121.6719 Q56.0938,121.0938 55.5,120.8281 Q54.9063,120.5469 54.2813,120.5469 Q52.9375,120.5469 52.25,121.625 Q51.5625,122.6875 51.5625,124.7813 Q51.5625,126.875 52.25,127.9531 Q52.9375,129.0156 54.2813,129.0156 Q54.9063,129.0156 55.5,128.75 Q56.0938,128.4688 56.7188,127.8906 L56.7188,130.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="136" x="74.25" y="123.9951">TupleUtilsException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="36"
+                  x="124.25" y="136.5791">iterator
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="245" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="17" cy="154.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="152" x="26" y="158.1479">TupleUtilsException(String)
+            </text>
+            <ellipse cx="17" cy="167.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="214" x="26" y="170.9526">TupleUtilsException(Exception, String)
+            </text>
+        </a><!--MD5=[2a7cd8221fe6583b4d4c6786e4469311]
+class chainexception.ChainException-->
+        <a href="../chainexception/ChainException.html" target="_top" title="../chainexception/ChainException.html"
+           xlink:actuate="onRequest" xlink:href="../chainexception/ChainException.html" xlink:show="new"
+           xlink:title="../chainexception/ChainException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fuy7hzi1rgy6h)" height="37.9375" id="chainexception.ChainException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="139" x="56.5" y="8"/>
+            <ellipse cx="71.5" cy="26.9688" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M74.4688,32.6094 Q73.8906,32.9063 73.25,33.0469 Q72.6094,33.2031 71.9063,33.2031 Q69.4063,33.2031 68.0781,31.5625 Q66.7656,29.9063 66.7656,26.7813 Q66.7656,23.6563 68.0781,22 Q69.4063,20.3438 71.9063,20.3438 Q72.6094,20.3438 73.25,20.5 Q73.9063,20.6563 74.4688,20.9531 L74.4688,23.6719 Q73.8438,23.0938 73.25,22.8281 Q72.6563,22.5469 72.0313,22.5469 Q70.6875,22.5469 70,23.625 Q69.3125,24.6875 69.3125,26.7813 Q69.3125,28.875 70,29.9531 Q70.6875,31.0156 72.0313,31.0156 Q72.6563,31.0156 73.25,30.75 Q73.8438,30.4688 74.4688,29.8906 L74.4688,32.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="107" x="85.5" y="25.9951">ChainException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="72"
+                  x="103" y="38.5791">chainexception
+            </text>
+        </a><!--MD5=[1957a4dc6d4ad2d87384ba15802b99dd]
+reverse link chainexception.ChainException to iterator.TupleUtilsException-->
+        <path d="M126,66.5888 C126,79.3573 126,93.4348 126,105.935 " fill="none"
+              id="chainexception.ChainException&lt;-iterator.TupleUtilsException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="119.0001,66.2484,126,46.2484,133.0001,66.2484,119.0001,66.2484"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="39" y="197.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[723e618e0fe8cece607d557c3c886520]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>TupleUtilsException\n<size:10>iterator" as iterator.TupleUtilsException [[../iterator/TupleUtilsException.html]] {
+        +TupleUtilsException(String)
+        +TupleUtilsException(Exception, String)
+    }
+
+    class "<size:14>ChainException\n<size:10>chainexception" as chainexception.ChainException [[../chainexception/ChainException.html]]
+
+    chainexception.ChainException <|- - iterator.TupleUtilsException
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

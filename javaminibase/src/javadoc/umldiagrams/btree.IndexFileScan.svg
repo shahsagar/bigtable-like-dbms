@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="121px" preserveAspectRatio="none"
+     style="width:198px;height:121px;" version="1.1" viewBox="0 0 198 121" width="198px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1jnlmxpi5pnrs" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[ee6183bcfabaa4523dd04fcfe455ef21]
+class btree.IndexFileScan-->
+        <a href="../btree/IndexFileScan.html" target="_top" title="../btree/IndexFileScan.html"
+           xlink:actuate="onRequest" xlink:href="../btree/IndexFileScan.html" xlink:show="new"
+           xlink:title="../btree/IndexFileScan.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1jnlmxpi5pnrs)" height="84.3516" id="btree.IndexFileScan"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="165" x="10.5" y="7"/>
+            <ellipse cx="43.05" cy="25.9688" fill="#A9DCDF" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M43.1594,21.3125 L42.0031,26.3906 L44.3313,26.3906 L43.1594,21.3125 Z M41.675,19.0781 L44.6594,19.0781 L48.0188,31.4688 L45.5656,31.4688 L44.8,28.4063 L41.5188,28.4063 L40.7688,31.4688 L38.3313,31.4688 L41.675,19.0781 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="94" x="60.95" y="24.9951">IndexFileScan
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="26" x="94.95" y="37.5791">btree
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="11.5" x2="174.5" y1="44.9375" y2="44.9375"/>
+            <ellipse cx="21.5" cy="55.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="139" x="30.5" y="59.1479">get_next(): KeyDataEntry
+            </text>
+            <ellipse cx="21.5" cy="68.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="121" x="30.5" y="71.9526">delete_current(): void
+            </text>
+            <ellipse cx="21.5" cy="81.5469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="71" x="30.5" y="84.7573">keysize(): int
+            </text>
+        </a>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="0" y="107.6338">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[e37e6726ff58a89760f32f06137b547a]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    abstract class "<size:14>IndexFileScan\n<size:10>btree" as btree.IndexFileScan [[../btree/IndexFileScan.html]] {
+        {abstract} +get_next(): KeyDataEntry
+        {abstract} +delete_current(): void
+        {abstract} +keysize(): int
+    }
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

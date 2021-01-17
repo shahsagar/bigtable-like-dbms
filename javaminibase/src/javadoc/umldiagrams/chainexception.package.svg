@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="298px" preserveAspectRatio="none"
+     style="width:268px;height:298px;" version="1.1" viewBox="0 0 268 298" width="268px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1t6foipwumj0f" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[ab80658c1fb3faec1b403bb153b4493b]
+cluster chainexception-->
+        <polygon fill="#FFFFFF" filter="url(#f1t6foipwumj0f)"
+                 points="14,124,140,124,147,146.2969,246,146.2969,246,258,14,258,14,124"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="14" x2="147" y1="146.2969" y2="146.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="120" x="18" y="138.9951">chainexception
+        </text><!--MD5=[aa8f7b917213fcc1c2766e2d59b49067]
+cluster java.lang-->
+        <polygon fill="#FFFFFF" filter="url(#f1t6foipwumj0f)"
+                 points="76,16,151,16,158,38.2969,184,38.2969,184,99,76,99,76,16"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="76" x2="158" y1="38.2969" y2="38.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="69" x="80" y="30.9951">java.lang
+        </text><!--MD5=[2a7cd8221fe6583b4d4c6786e4469311]
+class chainexception.ChainException-->
+        <a href="../chainexception/ChainException.html" target="_top" title="../chainexception/ChainException.html"
+           xlink:actuate="onRequest" xlink:href="../chainexception/ChainException.html" xlink:show="new"
+           xlink:title="../chainexception/ChainException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1t6foipwumj0f)" height="99.2188" id="chainexception.ChainException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="216" x="22" y="151"/>
+            <ellipse cx="77.75" cy="167" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M80.7188,172.6406 Q80.1406,172.9375 79.5,173.0781 Q78.8594,173.2344 78.1563,173.2344 Q75.6563,173.2344 74.3281,171.5938 Q73.0156,169.9375 73.0156,166.8125 Q73.0156,163.6875 74.3281,162.0313 Q75.6563,160.375 78.1563,160.375 Q78.8594,160.375 79.5,160.5313 Q80.1563,160.6875 80.7188,160.9844 L80.7188,163.7031 Q80.0938,163.125 79.5,162.8594 Q78.9063,162.5781 78.2813,162.5781 Q76.9375,162.5781 76.25,163.6563 Q75.5625,164.7188 75.5625,166.8125 Q75.5625,168.9063 76.25,169.9844 Q76.9375,171.0469 78.2813,171.0469 Q78.9063,171.0469 79.5,170.7813 Q80.0938,170.5 80.7188,169.9219 L80.7188,172.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="98.25" y="171.1543">ChainException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="237" y1="183" y2="183"/>
+            <ellipse cx="33" cy="194" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="87"
+                  x="42" y="197.2104">prev: Exception
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="237" y1="203.8047" y2="203.8047"/>
+            <ellipse cx="33" cy="214.8047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="190" x="42" y="218.0151">ChainException(Exception, String)
+            </text>
+            <ellipse cx="33" cy="227.6094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="94"
+                  x="42" y="230.8198">ChainException()
+            </text>
+            <ellipse cx="33" cy="240.4141" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="128" x="42" y="243.6245">printStackTrace(): void
+            </text>
+        </a><!--MD5=[46c05dfe24a0851e179497c4631d3ff2]
+class java.lang.Exception-->
+        <rect fill="#FEFECE" filter="url(#f1t6foipwumj0f)" height="48" id="java.lang.Exception"
+              style="stroke: #A80036; stroke-width: 1.5;" width="93" x="83.5" y="43"/>
+        <ellipse cx="98.5" cy="59" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M101.4688,64.6406 Q100.8906,64.9375 100.25,65.0781 Q99.6094,65.2344 98.9063,65.2344 Q96.4063,65.2344 95.0781,63.5938 Q93.7656,61.9375 93.7656,58.8125 Q93.7656,55.6875 95.0781,54.0313 Q96.4063,52.375 98.9063,52.375 Q99.6094,52.375 100.25,52.5313 Q100.9063,52.6875 101.4688,52.9844 L101.4688,55.7031 Q100.8438,55.125 100.25,54.8594 Q99.6563,54.5781 99.0313,54.5781 Q97.6875,54.5781 97,55.6563 Q96.3125,56.7188 96.3125,58.8125 Q96.3125,60.9063 97,61.9844 Q97.6875,63.0469 99.0313,63.0469 Q99.6563,63.0469 100.25,62.7813 Q100.8438,62.5 101.4688,61.9219 L101.4688,64.6406 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="61"
+              x="112.5" y="63.1543">Exception
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="84.5" x2="175.5" y1="75" y2="75"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="84.5" x2="175.5" y1="83" y2="83"/><!--MD5=[64821b09bdb5b002a762fa962d147606]
+reverse link java.lang.Exception to chainexception.ChainException-->
+        <path d="M130,111.4973 C130,124.101 130,137.9 130,150.7903 " fill="none"
+              id="java.lang.Exception&lt;-chainexception.ChainException" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="123.0001,111.1759,130,91.1758,137.0001,111.1758,123.0001,111.1759"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="43" y="285.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[6bce9bc471dda4a24ef8b2c7f2b41270]
+@startuml
+    namespace chainexception {
+
+        class ChainException [[../chainexception/ChainException.html]] {
+            +prev: Exception
+            +ChainException(Exception, String)
+            +ChainException()
+            +printStackTrace(): void
+        }
+
+        java.lang.Exception <|- - ChainException
+    }
+
+    namespace java.lang {
+        class Exception {
+        }
+    }
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

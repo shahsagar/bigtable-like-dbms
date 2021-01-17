@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="235px" preserveAspectRatio="none"
+     style="width:234px;height:235px;" version="1.1" viewBox="0 0 234 235" width="234px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="fnxp5dkguimks" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[2274ad5821e56c5f365d5bcbb84652dc]
+class btree.BTSortedPage-->
+        <a href="../btree/BTSortedPage.html" target="_top" title="../btree/BTSortedPage.html" xlink:actuate="onRequest"
+           xlink:href="../btree/BTSortedPage.html" xlink:show="new" xlink:title="../btree/BTSortedPage.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fnxp5dkguimks)" height="97.1563" id="btree.BTSortedPage"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="217" x="6" y="106"/>
+            <ellipse cx="60.25" cy="124.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M63.2188,130.6094 Q62.6406,130.9063 62,131.0469 Q61.3594,131.2031 60.6563,131.2031 Q58.1563,131.2031 56.8281,129.5625 Q55.5156,127.9063 55.5156,124.7813 Q55.5156,121.6563 56.8281,120 Q58.1563,118.3438 60.6563,118.3438 Q61.3594,118.3438 62,118.5 Q62.6563,118.6563 63.2188,118.9531 L63.2188,121.6719 Q62.5938,121.0938 62,120.8281 Q61.4063,120.5469 60.7813,120.5469 Q59.4375,120.5469 58.75,121.625 Q58.0625,122.6875 58.0625,124.7813 Q58.0625,126.875 58.75,127.9531 Q59.4375,129.0156 60.7813,129.0156 Q61.4063,129.0156 62,128.75 Q62.5938,128.4688 63.2188,127.8906 L63.2188,130.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="100" x="80.75" y="123.9951">BTSortedPage
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="26"
+                  x="117.75" y="136.5791">btree
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="222" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="17" cy="154.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="149" x="26" y="158.1479">BTSortedPage(PageId, int)
+            </text>
+            <ellipse cx="17" cy="167.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="139" x="26" y="170.9526">BTSortedPage(Page, int)
+            </text>
+            <ellipse cx="17" cy="180.5469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="103" x="26" y="183.7573">BTSortedPage(int)
+            </text>
+            <ellipse cx="17" cy="193.3516" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="191" x="26" y="196.562">deleteSortedRecord(RID): boolean
+            </text>
+        </a><!--MD5=[44ab6431109e630d8022b44145accdff]
+class heap.HFPage-->
+        <a href="../heap/HFPage.html" target="_top" title="../heap/HFPage.html" xlink:actuate="onRequest"
+           xlink:href="../heap/HFPage.html" xlink:show="new" xlink:title="../heap/HFPage.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fnxp5dkguimks)" height="37.9375" id="heap.HFPage"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="85" x="72" y="8"/>
+            <ellipse cx="87" cy="26.9688" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M89.9688,32.6094 Q89.3906,32.9063 88.75,33.0469 Q88.1094,33.2031 87.4063,33.2031 Q84.9063,33.2031 83.5781,31.5625 Q82.2656,29.9063 82.2656,26.7813 Q82.2656,23.6563 83.5781,22 Q84.9063,20.3438 87.4063,20.3438 Q88.1094,20.3438 88.75,20.5 Q89.4063,20.6563 89.9688,20.9531 L89.9688,23.6719 Q89.3438,23.0938 88.75,22.8281 Q88.1563,22.5469 87.5313,22.5469 Q86.1875,22.5469 85.5,23.625 Q84.8125,24.6875 84.8125,26.7813 Q84.8125,28.875 85.5,29.9531 Q86.1875,31.0156 87.5313,31.0156 Q88.1563,31.0156 88.75,30.75 Q89.3438,30.4688 89.9688,29.8906 L89.9688,32.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="53"
+                  x="101" y="25.9951">HFPage
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="24"
+                  x="115.5" y="38.5791">heap
+            </text>
+        </a><!--MD5=[1c45f2cfda89d6d523f87f3299b64963]
+reverse link heap.HFPage to btree.BTSortedPage-->
+        <path d="M114.5,66.4138 C114.5,78.8609 114.5,92.7643 114.5,105.7811 " fill="none"
+              id="heap.HFPage&lt;-btree.BTSortedPage" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="107.5001,66.0881,114.5,46.088,121.5001,66.088,107.5001,66.0881"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="27.5" y="222.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[ebcde8d295a98e46643240a365ee8ce3]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>BTSortedPage\n<size:10>btree" as btree.BTSortedPage [[../btree/BTSortedPage.html]] {
+        +BTSortedPage(PageId, int)
+        +BTSortedPage(Page, int)
+        +BTSortedPage(int)
+        +deleteSortedRecord(RID): boolean
+    }
+
+    class "<size:14>HFPage\n<size:10>heap" as heap.HFPage [[../heap/HFPage.html]]
+
+    heap.HFPage <|- - btree.BTSortedPage
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

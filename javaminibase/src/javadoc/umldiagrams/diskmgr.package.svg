@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="631px" preserveAspectRatio="none"
+     style="width:2823px;height:631px;" version="1.1" viewBox="0 0 2823 631" width="2823px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f8x27mnkabipe" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[4cfedc7fef08b78619dafb6ab63a8418]
+cluster diskmgr-->
+        <polygon fill="#FFFFFF" filter="url(#f8x27mnkabipe)"
+                 points="14,290,83,290,90,312.2969,2801,312.2969,2801,591,14,591,14,290"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="14" x2="90" y1="312.2969" y2="312.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="63" x="18" y="304.9951">diskmgr
+        </text><!--MD5=[ab80658c1fb3faec1b403bb153b4493b]
+cluster chainexception-->
+        <polygon fill="#FFFFFF" filter="url(#f8x27mnkabipe)"
+                 points="1125,92.5,1251,92.5,1258,114.7969,1269,114.7969,1269,188.5,1125,188.5,1125,92.5"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="1125" x2="1258" y1="114.7969" y2="114.7969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="120" x="1129" y="107.4951">chainexception
+        </text><!--MD5=[b9ab6c91daa042623ac722868ebc2597]
+cluster global-->
+        <polygon fill="#FFFFFF" filter="url(#f8x27mnkabipe)"
+                 points="2420,16,2473,16,2480,38.2969,2702,38.2969,2702,265,2420,265,2420,16"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="2420" x2="2480" y1="38.2969" y2="38.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="47" x="2424" y="30.9951">global
+        </text><!--MD5=[43b302d6fc5211223bf51957bdb46554]
+class diskmgr.FileNameTooLongException-->
+        <a href="../diskmgr/FileNameTooLongException.html" target="_top"
+           title="../diskmgr/FileNameTooLongException.html" xlink:actuate="onRequest"
+           xlink:href="../diskmgr/FileNameTooLongException.html" xlink:show="new"
+           xlink:title="../diskmgr/FileNameTooLongException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="60.8047" id="diskmgr.FileNameTooLongException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="284" x="2071" y="419.5"/>
+            <ellipse cx="2123.25" cy="435.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2126.2188,441.1406 Q2125.6406,441.4375 2125,441.5781 Q2124.3594,441.7344 2123.6563,441.7344 Q2121.1563,441.7344 2119.8281,440.0938 Q2118.5156,438.4375 2118.5156,435.3125 Q2118.5156,432.1875 2119.8281,430.5313 Q2121.1563,428.875 2123.6563,428.875 Q2124.3594,428.875 2125,429.0313 Q2125.6563,429.1875 2126.2188,429.4844 L2126.2188,432.2031 Q2125.5938,431.625 2125,431.3594 Q2124.4063,431.0781 2123.7813,431.0781 Q2122.4375,431.0781 2121.75,432.1563 Q2121.0625,433.2188 2121.0625,435.3125 Q2121.0625,437.4063 2121.75,438.4844 Q2122.4375,439.5469 2123.7813,439.5469 Q2124.4063,439.5469 2125,439.2813 Q2125.5938,439 2126.2188,438.4219 L2126.2188,441.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="171" x="2143.75" y="439.6543">FileNameTooLongException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2072" x2="2354" y1="451.5" y2="451.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2072" x2="2354" y1="459.5" y2="459.5"/>
+            <ellipse cx="2082" cy="470.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="258" x="2091" y="473.7104">FileNameTooLongException(Exception, String)
+            </text>
+        </a><!--MD5=[89399e6336e8223e139cedc02bba7555]
+class diskmgr.InvalidRunSizeException-->
+        <a href="../diskmgr/InvalidRunSizeException.html" target="_top" title="../diskmgr/InvalidRunSizeException.html"
+           xlink:actuate="onRequest" xlink:href="../diskmgr/InvalidRunSizeException.html" xlink:show="new"
+           xlink:title="../diskmgr/InvalidRunSizeException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="60.8047" id="diskmgr.InvalidRunSizeException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="264" x="1772" y="419.5"/>
+            <ellipse cx="1825.75" cy="435.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1828.7188,441.1406 Q1828.1406,441.4375 1827.5,441.5781 Q1826.8594,441.7344 1826.1563,441.7344 Q1823.6563,441.7344 1822.3281,440.0938 Q1821.0156,438.4375 1821.0156,435.3125 Q1821.0156,432.1875 1822.3281,430.5313 Q1823.6563,428.875 1826.1563,428.875 Q1826.8594,428.875 1827.5,429.0313 Q1828.1563,429.1875 1828.7188,429.4844 L1828.7188,432.2031 Q1828.0938,431.625 1827.5,431.3594 Q1826.9063,431.0781 1826.2813,431.0781 Q1824.9375,431.0781 1824.25,432.1563 Q1823.5625,433.2188 1823.5625,435.3125 Q1823.5625,437.4063 1824.25,438.4844 Q1824.9375,439.5469 1826.2813,439.5469 Q1826.9063,439.5469 1827.5,439.2813 Q1828.0938,439 1828.7188,438.4219 L1828.7188,441.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="148" x="1846.25" y="439.6543">InvalidRunSizeException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1773" x2="2035" y1="451.5" y2="451.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1773" x2="2035" y1="459.5" y2="459.5"/>
+            <ellipse cx="1783" cy="470.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="238" x="1792" y="473.7104">InvalidRunSizeException(Exception, String)
+            </text>
+        </a><!--MD5=[778d134f6ce6391db1e63b213d2efb02]
+class diskmgr.DB-->
+        <a href="../diskmgr/DB.html" target="_top" title="../diskmgr/DB.html" xlink:actuate="onRequest"
+           xlink:href="../diskmgr/DB.html" xlink:show="new" xlink:title="../diskmgr/DB.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="265.6797" id="diskmgr.DB"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="224" x="2569" y="317"/>
+            <ellipse cx="2668.25" cy="333" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2671.2188,338.6406 Q2670.6406,338.9375 2670,339.0781 Q2669.3594,339.2344 2668.6563,339.2344 Q2666.1563,339.2344 2664.8281,337.5938 Q2663.5156,335.9375 2663.5156,332.8125 Q2663.5156,329.6875 2664.8281,328.0313 Q2666.1563,326.375 2668.6563,326.375 Q2669.3594,326.375 2670,326.5313 Q2670.6563,326.6875 2671.2188,326.9844 L2671.2188,329.7031 Q2670.5938,329.125 2670,328.8594 Q2669.4063,328.5781 2668.7813,328.5781 Q2667.4375,328.5781 2666.75,329.6563 Q2666.0625,330.7188 2666.0625,332.8125 Q2666.0625,334.9063 2666.75,335.9844 Q2667.4375,337.0469 2668.7813,337.0469 Q2669.4063,337.0469 2670,336.7813 Q2670.5938,336.5 2671.2188,335.9219 L2671.2188,338.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="17"
+                  x="2688.75" y="337.1543">DB
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2570" x2="2792" y1="349" y2="349"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2570" x2="2792" y1="357" y2="357"/>
+            <ellipse cx="2580" cy="368" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="117" x="2589" y="371.2104">openDB(String): void
+            </text>
+            <ellipse cx="2580" cy="380.8047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="139" x="2589" y="384.0151">openDB(String, int): void
+            </text>
+            <ellipse cx="2580" cy="393.6094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="85"
+                  x="2589" y="396.8198">closeDB(): void
+            </text>
+            <ellipse cx="2580" cy="406.4141" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="99"
+                  x="2589" y="409.6245">DBDestroy(): void
+            </text>
+            <ellipse cx="2580" cy="419.2188" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="173" x="2589" y="422.4292">read_page(PageId, Page): void
+            </text>
+            <ellipse cx="2580" cy="432.0234" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="175" x="2589" y="435.2339">write_page(PageId, Page): void
+            </text>
+            <ellipse cx="2580" cy="444.8281" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="155" x="2589" y="448.0386">allocate_page(PageId): void
+            </text>
+            <ellipse cx="2580" cy="457.6328" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="177" x="2589" y="460.8433">allocate_page(PageId, int): void
+            </text>
+            <ellipse cx="2580" cy="470.4375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="191" x="2589" y="473.6479">deallocate_page(PageId, int): void
+            </text>
+            <ellipse cx="2580" cy="483.2422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="169" x="2589" y="486.4526">deallocate_page(PageId): void
+            </text>
+            <ellipse cx="2580" cy="496.0469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="198" x="2589" y="499.2573">add_file_entry(String, PageId): void
+            </text>
+            <ellipse cx="2580" cy="508.8516" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="166" x="2589" y="512.062">delete_file_entry(String): void
+            </text>
+            <ellipse cx="2580" cy="521.6563" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="164" x="2589" y="524.8667">get_file_entry(String): PageId
+            </text>
+            <ellipse cx="2580" cy="534.4609" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="102" x="2589" y="537.6714">db_name(): String
+            </text>
+            <ellipse cx="2580" cy="547.2656" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="116" x="2589" y="550.4761">db_num_pages(): int
+            </text>
+            <ellipse cx="2580" cy="560.0703" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="106" x="2589" y="563.2808">db_page_size(): int
+            </text>
+            <ellipse cx="2580" cy="572.875" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="142" x="2589" y="576.0854">dump_space_map(): void
+            </text>
+        </a><!--MD5=[870256cac00f1d4fec4a51c782cc0a0a]
+class diskmgr.DuplicateEntryException-->
+        <a href="../diskmgr/DuplicateEntryException.html" target="_top" title="../diskmgr/DuplicateEntryException.html"
+           xlink:actuate="onRequest" xlink:href="../diskmgr/DuplicateEntryException.html" xlink:show="new"
+           xlink:title="../diskmgr/DuplicateEntryException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="60.8047" id="diskmgr.DuplicateEntryException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="265" x="1221.5" y="419.5"/>
+            <ellipse cx="1273.75" cy="435.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1276.7188,441.1406 Q1276.1406,441.4375 1275.5,441.5781 Q1274.8594,441.7344 1274.1563,441.7344 Q1271.6563,441.7344 1270.3281,440.0938 Q1269.0156,438.4375 1269.0156,435.3125 Q1269.0156,432.1875 1270.3281,430.5313 Q1271.6563,428.875 1274.1563,428.875 Q1274.8594,428.875 1275.5,429.0313 Q1276.1563,429.1875 1276.7188,429.4844 L1276.7188,432.2031 Q1276.0938,431.625 1275.5,431.3594 Q1274.9063,431.0781 1274.2813,431.0781 Q1272.9375,431.0781 1272.25,432.1563 Q1271.5625,433.2188 1271.5625,435.3125 Q1271.5625,437.4063 1272.25,438.4844 Q1272.9375,439.5469 1274.2813,439.5469 Q1274.9063,439.5469 1275.5,439.2813 Q1276.0938,439 1276.7188,438.4219 L1276.7188,441.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="152" x="1294.25" y="439.6543">DuplicateEntryException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1222.5" x2="1485.5" y1="451.5" y2="451.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1222.5" x2="1485.5" y1="459.5" y2="459.5"/>
+            <ellipse cx="1232.5" cy="470.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="239" x="1241.5" y="473.7104">DuplicateEntryException(Exception, String)
+            </text>
+        </a><!--MD5=[7bd2969ac2e1365d6237604ccfb15f7f]
+class diskmgr.Page-->
+        <a href="../diskmgr/Page.html" target="_top" title="../diskmgr/Page.html" xlink:actuate="onRequest"
+           xlink:href="../diskmgr/Page.html" xlink:show="new" xlink:title="../diskmgr/Page.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="99.2188" id="diskmgr.Page"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="143" x="2390.5" y="400.5"/>
+            <ellipse cx="2441.75" cy="416.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2444.7188,422.1406 Q2444.1406,422.4375 2443.5,422.5781 Q2442.8594,422.7344 2442.1563,422.7344 Q2439.6563,422.7344 2438.3281,421.0938 Q2437.0156,419.4375 2437.0156,416.3125 Q2437.0156,413.1875 2438.3281,411.5313 Q2439.6563,409.875 2442.1563,409.875 Q2442.8594,409.875 2443.5,410.0313 Q2444.1563,410.1875 2444.7188,410.4844 L2444.7188,413.2031 Q2444.0938,412.625 2443.5,412.3594 Q2442.9063,412.0781 2442.2813,412.0781 Q2440.9375,412.0781 2440.25,413.1563 Q2439.5625,414.2188 2439.5625,416.3125 Q2439.5625,418.4063 2440.25,419.4844 Q2440.9375,420.5469 2442.2813,420.5469 Q2442.9063,420.5469 2443.5,420.2813 Q2444.0938,420 2444.7188,419.4219 L2444.7188,422.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="32"
+                  x="2462.25" y="420.6543">Page
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2391.5" x2="2532.5" y1="432.5" y2="432.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2391.5" x2="2532.5" y1="440.5" y2="440.5"/>
+            <ellipse cx="2401.5" cy="451.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="36"
+                  x="2410.5" y="454.7104">Page()
+            </text>
+            <ellipse cx="2401.5" cy="464.3047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="68"
+                  x="2410.5" y="467.5151">Page(byte[])
+            </text>
+            <ellipse cx="2401.5" cy="477.1094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="94"
+                  x="2410.5" y="480.3198">getpage(): byte[]
+            </text>
+            <ellipse cx="2401.5" cy="489.9141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="117" x="2410.5" y="493.1245">setpage(byte[]): void
+            </text>
+        </a><!--MD5=[53ef5c5ae11b72de28b66d6b292116a0]
+class diskmgr.DiskMgrException-->
+        <a href="../diskmgr/DiskMgrException.html" target="_top" title="../diskmgr/DiskMgrException.html"
+           xlink:actuate="onRequest" xlink:href="../diskmgr/DiskMgrException.html" xlink:show="new"
+           xlink:title="../diskmgr/DiskMgrException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="60.8047" id="diskmgr.DiskMgrException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="229" x="629.5" y="419.5"/>
+            <ellipse cx="684.75" cy="435.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M687.7188,441.1406 Q687.1406,441.4375 686.5,441.5781 Q685.8594,441.7344 685.1563,441.7344 Q682.6563,441.7344 681.3281,440.0938 Q680.0156,438.4375 680.0156,435.3125 Q680.0156,432.1875 681.3281,430.5313 Q682.6563,428.875 685.1563,428.875 Q685.8594,428.875 686.5,429.0313 Q687.1563,429.1875 687.7188,429.4844 L687.7188,432.2031 Q687.0938,431.625 686.5,431.3594 Q685.9063,431.0781 685.2813,431.0781 Q683.9375,431.0781 683.25,432.1563 Q682.5625,433.2188 682.5625,435.3125 Q682.5625,437.4063 683.25,438.4844 Q683.9375,439.5469 685.2813,439.5469 Q685.9063,439.5469 686.5,439.2813 Q687.0938,439 687.7188,438.4219 L687.7188,441.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="110" x="705.25" y="439.6543">DiskMgrException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="630.5" x2="857.5" y1="451.5" y2="451.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="630.5" x2="857.5" y1="459.5" y2="459.5"/>
+            <ellipse cx="640.5" cy="470.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="203" x="649.5" y="473.7104">DiskMgrException(Exception, String)
+            </text>
+        </a><!--MD5=[5a15cc1771b0ce7540c5a9b3faf79793]
+class diskmgr.FileEntryNotFoundException-->
+        <a href="../diskmgr/FileEntryNotFoundException.html" target="_top"
+           title="../diskmgr/FileEntryNotFoundException.html" xlink:actuate="onRequest"
+           xlink:href="../diskmgr/FileEntryNotFoundException.html" xlink:show="new"
+           xlink:title="../diskmgr/FileEntryNotFoundException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="60.8047" id="diskmgr.FileEntryNotFoundException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="285" x="309.5" y="419.5"/>
+            <ellipse cx="360.25" cy="435.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M363.2188,441.1406 Q362.6406,441.4375 362,441.5781 Q361.3594,441.7344 360.6563,441.7344 Q358.1563,441.7344 356.8281,440.0938 Q355.5156,438.4375 355.5156,435.3125 Q355.5156,432.1875 356.8281,430.5313 Q358.1563,428.875 360.6563,428.875 Q361.3594,428.875 362,429.0313 Q362.6563,429.1875 363.2188,429.4844 L363.2188,432.2031 Q362.5938,431.625 362,431.3594 Q361.4063,431.0781 360.7813,431.0781 Q359.4375,431.0781 358.75,432.1563 Q358.0625,433.2188 358.0625,435.3125 Q358.0625,437.4063 358.75,438.4844 Q359.4375,439.5469 360.7813,439.5469 Q361.4063,439.5469 362,439.2813 Q362.5938,439 363.2188,438.4219 L363.2188,441.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="175" x="380.75" y="439.6543">FileEntryNotFoundException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="310.5" x2="593.5" y1="451.5" y2="451.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="310.5" x2="593.5" y1="459.5" y2="459.5"/>
+            <ellipse cx="320.5" cy="470.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="259" x="329.5" y="473.7104">FileEntryNotFoundException(Exception, String)
+            </text>
+        </a><!--MD5=[bbdebd05e1520d447d4fd2fe515a13ed]
+class diskmgr.OutOfSpaceException-->
+        <a href="../diskmgr/OutOfSpaceException.html" target="_top" title="../diskmgr/OutOfSpaceException.html"
+           xlink:actuate="onRequest" xlink:href="../diskmgr/OutOfSpaceException.html" xlink:show="new"
+           xlink:title="../diskmgr/OutOfSpaceException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="60.8047" id="diskmgr.OutOfSpaceException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="252" x="22" y="419.5"/>
+            <ellipse cx="76.25" cy="435.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M79.2188,441.1406 Q78.6406,441.4375 78,441.5781 Q77.3594,441.7344 76.6563,441.7344 Q74.1563,441.7344 72.8281,440.0938 Q71.5156,438.4375 71.5156,435.3125 Q71.5156,432.1875 72.8281,430.5313 Q74.1563,428.875 76.6563,428.875 Q77.3594,428.875 78,429.0313 Q78.6563,429.1875 79.2188,429.4844 L79.2188,432.2031 Q78.5938,431.625 78,431.3594 Q77.4063,431.0781 76.7813,431.0781 Q75.4375,431.0781 74.75,432.1563 Q74.0625,433.2188 74.0625,435.3125 Q74.0625,437.4063 74.75,438.4844 Q75.4375,439.5469 76.7813,439.5469 Q77.4063,439.5469 78,439.2813 Q78.5938,439 79.2188,438.4219 L79.2188,441.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="135" x="96.75" y="439.6543">OutOfSpaceException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="273" y1="451.5" y2="451.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="273" y1="459.5" y2="459.5"/>
+            <ellipse cx="33" cy="470.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="226" x="42" y="473.7104">OutOfSpaceException(Exception, String)
+            </text>
+        </a><!--MD5=[2f46f245f89eda8e1069d6f70955b287]
+class diskmgr.FileIOException-->
+        <a href="../diskmgr/FileIOException.html" target="_top" title="../diskmgr/FileIOException.html"
+           xlink:actuate="onRequest" xlink:href="../diskmgr/FileIOException.html" xlink:show="new"
+           xlink:title="../diskmgr/FileIOException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="60.8047" id="diskmgr.FileIOException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="215" x="1521.5" y="419.5"/>
+            <ellipse cx="1577.75" cy="435.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1580.7188,441.1406 Q1580.1406,441.4375 1579.5,441.5781 Q1578.8594,441.7344 1578.1563,441.7344 Q1575.6563,441.7344 1574.3281,440.0938 Q1573.0156,438.4375 1573.0156,435.3125 Q1573.0156,432.1875 1574.3281,430.5313 Q1575.6563,428.875 1578.1563,428.875 Q1578.8594,428.875 1579.5,429.0313 Q1580.1563,429.1875 1580.7188,429.4844 L1580.7188,432.2031 Q1580.0938,431.625 1579.5,431.3594 Q1578.9063,431.0781 1578.2813,431.0781 Q1576.9375,431.0781 1576.25,432.1563 Q1575.5625,433.2188 1575.5625,435.3125 Q1575.5625,437.4063 1576.25,438.4844 Q1576.9375,439.5469 1578.2813,439.5469 Q1578.9063,439.5469 1579.5,439.2813 Q1580.0938,439 1580.7188,438.4219 L1580.7188,441.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="94"
+                  x="1598.25" y="439.6543">FileIOException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1522.5" x2="1735.5" y1="451.5" y2="451.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1522.5" x2="1735.5" y1="459.5" y2="459.5"/>
+            <ellipse cx="1532.5" cy="470.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="189" x="1541.5" y="473.7104">FileIOException(Exception, String)
+            </text>
+        </a><!--MD5=[8673352ea553623c420dbb768be1c70c]
+class diskmgr.InvalidPageNumberException-->
+        <a href="../diskmgr/InvalidPageNumberException.html" target="_top"
+           title="../diskmgr/InvalidPageNumberException.html" xlink:actuate="onRequest"
+           xlink:href="../diskmgr/InvalidPageNumberException.html" xlink:show="new"
+           xlink:title="../diskmgr/InvalidPageNumberException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="60.8047" id="diskmgr.InvalidPageNumberException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="293" x="893.5" y="419.5"/>
+            <ellipse cx="945.25" cy="435.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M948.2188,441.1406 Q947.6406,441.4375 947,441.5781 Q946.3594,441.7344 945.6563,441.7344 Q943.1563,441.7344 941.8281,440.0938 Q940.5156,438.4375 940.5156,435.3125 Q940.5156,432.1875 941.8281,430.5313 Q943.1563,428.875 945.6563,428.875 Q946.3594,428.875 947,429.0313 Q947.6563,429.1875 948.2188,429.4844 L948.2188,432.2031 Q947.5938,431.625 947,431.3594 Q946.4063,431.0781 945.7813,431.0781 Q944.4375,431.0781 943.75,432.1563 Q943.0625,433.2188 943.0625,435.3125 Q943.0625,437.4063 943.75,438.4844 Q944.4375,439.5469 945.7813,439.5469 Q946.4063,439.5469 947,439.2813 Q947.5938,439 948.2188,438.4219 L948.2188,441.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="181" x="965.75" y="439.6543">InvalidPageNumberException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="894.5" x2="1185.5" y1="451.5" y2="451.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="894.5" x2="1185.5" y1="459.5" y2="459.5"/>
+            <ellipse cx="904.5" cy="470.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="267" x="913.5" y="473.7104">InvalidPageNumberException(Exception, String)
+            </text>
+        </a><!--MD5=[2a7cd8221fe6583b4d4c6786e4469311]
+class chainexception.ChainException-->
+        <a href="../chainexception/ChainException.html" target="_top" title="../chainexception/ChainException.html"
+           xlink:actuate="onRequest" xlink:href="../chainexception/ChainException.html" xlink:show="new"
+           xlink:title="../chainexception/ChainException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="60.8047" id="chainexception.ChainException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="128" x="1133" y="119.5"/>
+            <ellipse cx="1148" cy="135.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1150.9688,141.1406 Q1150.3906,141.4375 1149.75,141.5781 Q1149.1094,141.7344 1148.4063,141.7344 Q1145.9063,141.7344 1144.5781,140.0938 Q1143.2656,138.4375 1143.2656,135.3125 Q1143.2656,132.1875 1144.5781,130.5313 Q1145.9063,128.875 1148.4063,128.875 Q1149.1094,128.875 1149.75,129.0313 Q1150.4063,129.1875 1150.9688,129.4844 L1150.9688,132.2031 Q1150.3438,131.625 1149.75,131.3594 Q1149.1563,131.0781 1148.5313,131.0781 Q1147.1875,131.0781 1146.5,132.1563 Q1145.8125,133.2188 1145.8125,135.3125 Q1145.8125,137.4063 1146.5,138.4844 Q1147.1875,139.5469 1148.5313,139.5469 Q1149.1563,139.5469 1149.75,139.2813 Q1150.3438,139 1150.9688,138.4219 L1150.9688,141.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="1162" y="139.6543">ChainException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1134" x2="1260" y1="151.5" y2="151.5"/>
+            <ellipse cx="1144" cy="162.5" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="87"
+                  x="1153" y="165.7104">prev: Exception
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1134" x2="1260" y1="172.3047" y2="172.3047"/>
+        </a><!--MD5=[349d101bc5b57a3de1b8b252b2bcdd93]
+class global.GlobalConst-->
+        <a href="../global/GlobalConst.html" target="_top" title="../global/GlobalConst.html" xlink:actuate="onRequest"
+           xlink:href="../global/GlobalConst.html" xlink:show="new" xlink:title="../global/GlobalConst.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f8x27mnkabipe)" height="214.4609" id="global.GlobalConst"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="265" x="2428.5" y="43"/>
+            <ellipse cx="2519.25" cy="59" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2515.1719,54.7656 L2515.1719,52.6094 L2522.5625,52.6094 L2522.5625,54.7656 L2520.0938,54.7656 L2520.0938,62.8438 L2522.5625,62.8438 L2522.5625,65 L2515.1719,65 L2515.1719,62.8438 L2517.6406,62.8438 L2517.6406,54.7656 L2515.1719,54.7656 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="75" x="2539.75" y="63.1543">GlobalConst
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2429.5" x2="2692.5" y1="75" y2="75"/>
+            <ellipse cx="2439.5" cy="86" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="152" x="2448.5" y="89.2104">MINIBASE_MAXARRSIZE: int
+            </text>
+            <ellipse cx="2439.5" cy="98.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="69" x="2448.5" y="102.0151">NUMBUF: int
+            </text>
+            <ellipse cx="2439.5" cy="111.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="138" x="2448.5" y="114.8198">MINIBASE_PAGESIZE: int
+            </text>
+            <ellipse cx="2439.5" cy="124.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="193" x="2448.5" y="127.6245">MINIBASE_BUFFER_POOL_SIZE: int
+            </text>
+            <ellipse cx="2439.5" cy="137.2188" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="88" x="2448.5" y="140.4292">MAX_SPACE: int
+            </text>
+            <ellipse cx="2439.5" cy="150.0234" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="130" x="2448.5" y="153.2339">MINIBASE_DB_SIZE: int
+            </text>
+            <ellipse cx="2439.5" cy="162.8281" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="197" x="2448.5" y="166.0386">MINIBASE_MAX_TRANSACTIONS: int
+            </text>
+            <ellipse cx="2439.5" cy="175.6328" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="239" x="2448.5" y="178.8433">MINIBASE_DEFAULT_SHAREDMEM_SIZE:
+                int
+            </text>
+            <ellipse cx="2439.5" cy="188.4375" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="98" x="2448.5" y="191.6479">MAXFILENAME: int
+            </text>
+            <ellipse cx="2439.5" cy="201.2422" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="109" x="2448.5" y="204.4526">MAXINDEXNAME: int
+            </text>
+            <ellipse cx="2439.5" cy="214.0469" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="104" x="2448.5" y="217.2573">MAXATTRNAME: int
+            </text>
+            <ellipse cx="2439.5" cy="226.8516" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="82" x="2448.5" y="230.062">MAX_NAME: int
+            </text>
+            <ellipse cx="2439.5" cy="239.6563" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="100" x="2448.5" y="242.8667">INVALID_PAGE: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2429.5" x2="2692.5" y1="249.4609" y2="249.4609"/>
+        </a><!--MD5=[51e57079ec1c7ed9ecac75588661d7fb]
+reverse link chainexception.ChainException to diskmgr.FileNameTooLongException-->
+        <path d="M1281.1297,157.1102 C1469.5707,174.091 1919.5435,220.8134 2054,290 C2113.719,320.7293 2164.7823,382.0934 2191.9856,419.2553 "
+              fill="none" id="chainexception.ChainException&lt;-diskmgr.FileNameTooLongException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1280.3715,164.0705,1261.0702,155.3263,1281.6117,150.1256,1280.3715,164.0705"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1bc4c304ce90317f47f93752130185a0]
+reverse link chainexception.ChainException to diskmgr.InvalidRunSizeException-->
+        <path d="M1281.3369,156.3379 C1395.5523,168.0936 1602.5213,200.8498 1754,290 C1809.949,322.9278 1857.9087,382.967 1883.7034,419.3984 "
+              fill="none" id="chainexception.ChainException&lt;-diskmgr.InvalidRunSizeException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1280.3552,163.2756,1261.124,154.3783,1281.7062,149.3409,1280.3552,163.2756"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1eb6ee3f9a88469602753ca50c29a803]
+reverse link global.GlobalConst to diskmgr.DB-->
+        <path d="M2611.362,275.905 C2616.7643,289.4109 2622.2737,303.1843 2627.7087,316.7718 " fill="none"
+              id="global.GlobalConst&lt;-diskmgr.DB"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="2604.7431,278.2056,2603.8145,257.0363,2617.7417,273.0061,2604.7431,278.2056"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9936dda2aa986e620c96bc8ebcc41105]
+reverse link chainexception.ChainException to diskmgr.DuplicateEntryException-->
+        <path d="M1222.3778,198.4925 C1254.9496,260.7317 1310.5083,366.8948 1337.8414,419.1237 " fill="none"
+              id="chainexception.ChainException&lt;-diskmgr.DuplicateEntryException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1216.1355,201.6613,1213.0639,180.6954,1228.5395,195.1698,1216.1355,201.6613"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f3826a40fc9b858943c10bde6789180a]
+reverse link global.GlobalConst to diskmgr.Page-->
+        <path d="M2519.3578,276.1885 C2504.9495,319.8499 2489.6298,366.2732 2478.4507,400.1494 " fill="none"
+              id="global.GlobalConst&lt;-diskmgr.Page"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="2512.763,273.8352,2525.678,257.0363,2526.0578,278.2226,2512.763,273.8352"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9062da74ddd71a4ccfd1f7ede7660531]
+reverse link chainexception.ChainException to diskmgr.DiskMgrException-->
+        <path d="M1113.6033,174.3242 C1045.2542,196.958 948.3475,235.4415 876,290 C827.6971,326.4261 785.9441,383.9492 762.9466,419.1921 "
+              fill="none" id="chainexception.ChainException&lt;-diskmgr.DiskMgrException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1111.7749,167.5589,1132.9581,168.0846,1116.0706,180.8836,1111.7749,167.5589"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d9be1e58ab3e1b1b1050d83b8a667b4f]
+reverse link chainexception.ChainException to diskmgr.FileEntryNotFoundException-->
+        <path d="M1112.4658,155.7798 C993.8208,166.9817 774.2714,199.2005 612,290 C553.5495,322.7062 501.9846,382.819 474.0608,419.3242 "
+              fill="none" id="chainexception.ChainException&lt;-diskmgr.FileEntryNotFoundException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1112.1702,148.7786,1132.7112,153.9812,1113.4091,162.7237,1112.1702,148.7786"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9ff047df66efeb7bfe46aabce069eae3]
+reverse link chainexception.ChainException to diskmgr.OutOfSpaceException-->
+        <path d="M1112.7315,155.8122 C916.1906,170.5086 433.4126,213.5281 292,290 C235.6237,320.4867 190.1563,381.9332 166.283,419.176 "
+              fill="none" id="chainexception.ChainException&lt;-diskmgr.OutOfSpaceException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1112.3104,148.8243,1132.77,154.3382,1113.3375,162.7866,1112.3104,148.8243"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9554d6c3ad3496e1072acc02ca1937b6]
+reverse link chainexception.ChainException to diskmgr.FileIOException-->
+        <path d="M1280.2327,175.6816 C1345.5967,198.6021 1436.5322,236.7979 1504,290 C1550.5014,326.6689 1589.8027,384.1161 1611.3276,419.2781 "
+              fill="none" id="chainexception.ChainException&lt;-diskmgr.FileIOException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1277.9128,182.2864,1261.247,169.2,1282.436,169.0372,1277.9128,182.2864"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2143e359963f0c41009cd58e38b4f5f4]
+reverse link chainexception.ChainException to diskmgr.InvalidPageNumberException-->
+        <path d="M1171.6222,198.4925 C1139.0504,260.7317 1083.4917,366.8948 1056.1586,419.1237 " fill="none"
+              id="chainexception.ChainException&lt;-diskmgr.InvalidPageNumberException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1165.4605,195.1698,1180.9361,180.6954,1177.8645,201.6613,1165.4605,195.1698"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="1320.5" y="618.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[f2327aa76c04b2cdaf9352cc652990ae]
+@startuml
+    namespace diskmgr {
+
+        class FileNameTooLongException [[../diskmgr/FileNameTooLongException.html]] {
+            +FileNameTooLongException(Exception, String)
+        }
+
+        class InvalidRunSizeException [[../diskmgr/InvalidRunSizeException.html]] {
+            +InvalidRunSizeException(Exception, String)
+        }
+
+        class DB [[../diskmgr/DB.html]] {
+            +openDB(String): void
+            +openDB(String, int): void
+            +closeDB(): void
+            +DBDestroy(): void
+            +read_page(PageId, Page): void
+            +write_page(PageId, Page): void
+            +allocate_page(PageId): void
+            +allocate_page(PageId, int): void
+            +deallocate_page(PageId, int): void
+            +deallocate_page(PageId): void
+            +add_file_entry(String, PageId): void
+            +delete_file_entry(String): void
+            +get_file_entry(String): PageId
+            +db_name(): String
+            +db_num_pages(): int
+            +db_page_size(): int
+            +dump_space_map(): void
+        }
+
+        class DuplicateEntryException [[../diskmgr/DuplicateEntryException.html]] {
+            +DuplicateEntryException(Exception, String)
+        }
+
+        class Page [[../diskmgr/Page.html]] {
+            +Page()
+            +Page(byte[])
+            +getpage(): byte[]
+            +setpage(byte[]): void
+        }
+
+        class DiskMgrException [[../diskmgr/DiskMgrException.html]] {
+            +DiskMgrException(Exception, String)
+        }
+
+        class FileEntryNotFoundException [[../diskmgr/FileEntryNotFoundException.html]] {
+            +FileEntryNotFoundException(Exception, String)
+        }
+
+        class OutOfSpaceException [[../diskmgr/OutOfSpaceException.html]] {
+            +OutOfSpaceException(Exception, String)
+        }
+
+        class FileIOException [[../diskmgr/FileIOException.html]] {
+            +FileIOException(Exception, String)
+        }
+
+        class InvalidPageNumberException [[../diskmgr/InvalidPageNumberException.html]] {
+            +InvalidPageNumberException(Exception, String)
+        }
+
+        chainexception.ChainException <|- - FileNameTooLongException
+        chainexception.ChainException <|- - InvalidRunSizeException
+        global.GlobalConst <|.. DB
+        chainexception.ChainException <|- - DuplicateEntryException
+        global.GlobalConst <|.. Page
+        chainexception.ChainException <|- - DiskMgrException
+        chainexception.ChainException <|- - FileEntryNotFoundException
+        chainexception.ChainException <|- - OutOfSpaceException
+        chainexception.ChainException <|- - FileIOException
+        chainexception.ChainException <|- - InvalidPageNumberException
+    }
+
+    namespace chainexception {
+        class ChainException [[../chainexception/ChainException.html]] {
+            +prev: Exception
+        }
+    }
+
+    namespace global {
+        interface GlobalConst [[../global/GlobalConst.html]] {
+            {static} +MINIBASE_MAXARRSIZE: int
+            {static} +NUMBUF: int
+            {static} +MINIBASE_PAGESIZE: int
+            {static} +MINIBASE_BUFFER_POOL_SIZE: int
+            {static} +MAX_SPACE: int
+            {static} +MINIBASE_DB_SIZE: int
+            {static} +MINIBASE_MAX_TRANSACTIONS: int
+            {static} +MINIBASE_DEFAULT_SHAREDMEM_SIZE: int
+            {static} +MAXFILENAME: int
+            {static} +MAXINDEXNAME: int
+            {static} +MAXATTRNAME: int
+            {static} +MAX_NAME: int
+            {static} +INVALID_PAGE: int
+        }
+    }
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

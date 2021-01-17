@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="256px" preserveAspectRatio="none"
+     style="width:402px;height:256px;" version="1.1" viewBox="0 0 402 256" width="402px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f42j3fca0q8vq" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[94d123850c435edc7746e8b6d5a6c86e]
+class iterator.Sort-->
+        <a href="../iterator/Sort.html" target="_top" title="../iterator/Sort.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/Sort.html" xlink:show="new" xlink:title="../iterator/Sort.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f42j3fca0q8vq)" height="84.3516" id="iterator.Sort"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="385" x="6" y="140"/>
+            <ellipse cx="176.25" cy="158.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M179.2188,164.6094 Q178.6406,164.9063 178,165.0469 Q177.3594,165.2031 176.6563,165.2031 Q174.1563,165.2031 172.8281,163.5625 Q171.5156,161.9063 171.5156,158.7813 Q171.5156,155.6563 172.8281,154 Q174.1563,152.3438 176.6563,152.3438 Q177.3594,152.3438 178,152.5 Q178.6563,152.6563 179.2188,152.9531 L179.2188,155.6719 Q178.5938,155.0938 178,154.8281 Q177.4063,154.5469 176.7813,154.5469 Q175.4375,154.5469 174.75,155.625 Q174.0625,156.6875 174.0625,158.7813 Q174.0625,160.875 174.75,161.9531 Q175.4375,163.0156 176.7813,163.0156 Q177.4063,163.0156 178,162.75 Q178.5938,162.4688 179.2188,161.8906 L179.2188,164.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28"
+                  x="200.75" y="157.9951">Sort
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="36"
+                  x="196.75" y="170.5791">iterator
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="390" y1="177.9375" y2="177.9375"/>
+            <ellipse cx="17" cy="188.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="359" x="26" y="192.1479">Sort(AttrType[], short, short[], Iterator, int, TupleOrder, int,
+                int)
+            </text>
+            <ellipse cx="17" cy="201.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95"
+                  x="26" y="204.9526">get_next(): Tuple
+            </text>
+            <ellipse cx="17" cy="214.5469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="26" y="217.7573">close(): void
+            </text>
+        </a><!--MD5=[b0ecc7d2f56746be8636affc17cd54d4]
+class iterator.Iterator-->
+        <a href="../iterator/Iterator.html" target="_top" title="../iterator/Iterator.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/Iterator.html" xlink:show="new" xlink:title="../iterator/Iterator.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f42j3fca0q8vq)" height="71.5469" id="iterator.Iterator"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="121" x="61" y="8"/>
+            <ellipse cx="94" cy="26.9688" fill="#A9DCDF" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M94.1094,22.3125 L92.9531,27.3906 L95.2813,27.3906 L94.1094,22.3125 Z M92.625,20.0781 L95.6094,20.0781 L98.9688,32.4688 L96.5156,32.4688 L95.75,29.4063 L92.4688,29.4063 L91.7188,32.4688 L89.2813,32.4688 L92.625,20.0781 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="49" x="112" y="25.9951">Iterator
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="36" x="118.5" y="38.5791">iterator
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="62" x2="181" y1="45.9375" y2="45.9375"/>
+            <ellipse cx="72" cy="56.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="95" x="81" y="60.1479">get_next(): Tuple
+            </text>
+            <ellipse cx="72" cy="69.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="69" x="81" y="72.9526">close(): void
+            </text>
+        </a><!--MD5=[349d101bc5b57a3de1b8b252b2bcdd93]
+class global.GlobalConst-->
+        <a href="../global/GlobalConst.html" target="_top" title="../global/GlobalConst.html" xlink:actuate="onRequest"
+           xlink:href="../global/GlobalConst.html" xlink:show="new" xlink:title="../global/GlobalConst.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f42j3fca0q8vq)" height="37.9375" id="global.GlobalConst"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="116" x="217.5" y="25"/>
+            <ellipse cx="232.5" cy="43.9688" fill="#B4A7E5" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M228.4219,39.7344 L228.4219,37.5781 L235.8125,37.5781 L235.8125,39.7344 L233.3438,39.7344 L233.3438,47.8125 L235.8125,47.8125 L235.8125,49.9688 L228.4219,49.9688 L228.4219,47.8125 L230.8906,47.8125 L230.8906,39.7344 L228.4219,39.7344 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="84" x="246.5" y="42.9951">GlobalConst
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="28" x="274.5" y="55.5791">global
+            </text>
+        </a><!--MD5=[1ec692cedb54d6693934f786bab30570]
+reverse link iterator.Iterator to iterator.Sort-->
+        <path d="M151.5197,97.8016 C159.2627,111.6786 167.4872,126.4185 174.8545,139.6223 " fill="none"
+              id="iterator.Iterator&lt;-iterator.Sort" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="145.3631,101.1339,141.7308,80.2579,157.5888,94.3123,145.3631,101.1339"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[03bffca7c43464e4707734d0c67e4dfd]
+reverse link global.GlobalConst to iterator.Sort-->
+        <path d="M255.0068,80.728 C244.8807,98.8762 232.6094,120.8689 222.093,139.7164 " fill="none"
+              id="global.GlobalConst&lt;-iterator.Sort"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="248.9355,77.2427,264.7935,63.1883,261.1612,84.0643,248.9355,77.2427"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="111.5" y="243.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[5517b0710623728fe1aa8dda95843265]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>Sort\n<size:10>iterator" as iterator.Sort [[../iterator/Sort.html]] {
+        +Sort(AttrType[], short, short[], Iterator, int, TupleOrder, int, int)
+        +get_next(): Tuple
+        +close(): void
+    }
+
+    abstract class "<size:14>Iterator\n<size:10>iterator" as iterator.Iterator [[../iterator/Iterator.html]] {
+        {abstract} +get_next(): Tuple
+        {abstract} +close(): void
+    }
+    interface "<size:14>GlobalConst\n<size:10>global" as global.GlobalConst [[../global/GlobalConst.html]]
+
+    iterator.Iterator <|- - iterator.Sort
+    global.GlobalConst <|.. iterator.Sort
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

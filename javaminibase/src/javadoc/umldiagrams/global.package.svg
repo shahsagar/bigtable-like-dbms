@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="996px" preserveAspectRatio="none"
+     style="width:1427px;height:996px;" version="1.1" viewBox="0 0 1427 996" width="1427px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1v6roc2ybzsjp" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[b9ab6c91daa042623ac722868ebc2597]
+cluster global-->
+        <polygon fill="#FFFFFF" filter="url(#f1v6roc2ybzsjp)"
+                 points="14,16,67,16,74,38.2969,1405,38.2969,1405,956,14,956,14,16"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="14" x2="74" y1="38.2969" y2="38.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="47" x="18" y="30.9951">global
+        </text><!--MD5=[cab052b5c2ab16e5510e7cce580d2572]
+class global.SystemDefs-->
+        <a href="../global/SystemDefs.html" target="_top" title="../global/SystemDefs.html" xlink:actuate="onRequest"
+           xlink:href="../global/SystemDefs.html" xlink:show="new" xlink:title="../global/SystemDefs.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="176.0469" id="global.SystemDefs"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="266" x="273" y="62"/>
+            <ellipse cx="365.25" cy="78" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M368.2188,83.6406 Q367.6406,83.9375 367,84.0781 Q366.3594,84.2344 365.6563,84.2344 Q363.1563,84.2344 361.8281,82.5938 Q360.5156,80.9375 360.5156,77.8125 Q360.5156,74.6875 361.8281,73.0313 Q363.1563,71.375 365.6563,71.375 Q366.3594,71.375 367,71.5313 Q367.6563,71.6875 368.2188,71.9844 L368.2188,74.7031 Q367.5938,74.125 367,73.8594 Q366.4063,73.5781 365.7813,73.5781 Q364.4375,73.5781 363.75,74.6563 Q363.0625,75.7188 363.0625,77.8125 Q363.0625,79.9063 363.75,80.9844 Q364.4375,82.0469 365.7813,82.0469 Q366.4063,82.0469 367,81.7813 Q367.5938,81.5 368.2188,80.9219 L368.2188,83.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="73"
+                  x="385.75" y="82.1543">SystemDefs
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="274" x2="538" y1="94" y2="94"/>
+            <ellipse cx="284" cy="105" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="116" x="293" y="108.2104">JavabaseBM: BufMgr
+            </text>
+            <ellipse cx="284" cy="117.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="91" x="293" y="121.0151">JavabaseDB: DB
+            </text>
+            <ellipse cx="284" cy="130.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="145" x="293" y="133.8198">JavabaseCatalog: Catalog
+            </text>
+            <ellipse cx="284" cy="143.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="142" x="293" y="146.6245">JavabaseDBName: String
+            </text>
+            <ellipse cx="284" cy="156.2188" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="146" x="293" y="159.4292">JavabaseLogName: String
+            </text>
+            <ellipse cx="284" cy="169.0234" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="196" x="293" y="172.2339">MINIBASE_RESTART_FLAG: boolean
+            </text>
+            <ellipse cx="284" cy="181.8281" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="148" x="293" y="185.0386">MINIBASE_DBNAME: String
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="274" x2="538" y1="191.6328" y2="191.6328"/>
+            <ellipse cx="284" cy="202.6328" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="77"
+                  x="293" y="205.8433">SystemDefs()
+            </text>
+            <ellipse cx="284" cy="215.4375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="197" x="293" y="218.6479">SystemDefs(String, int, int, String)
+            </text>
+            <ellipse cx="284" cy="228.2422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="240" x="293" y="231.4526">init(String, String, int, int, int, String): void
+            </text>
+        </a><!--MD5=[3c334b8fb29b6c07f652500c90b1935c]
+class global.RID-->
+        <a href="../global/RID.html" target="_top" title="../global/RID.html" xlink:actuate="onRequest"
+           xlink:href="../global/RID.html" xlink:show="new" xlink:title="../global/RID.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="112.0234" id="global.RID"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="216" x="22" y="94"/>
+            <ellipse cx="115.75" cy="110" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M118.7188,115.6406 Q118.1406,115.9375 117.5,116.0781 Q116.8594,116.2344 116.1563,116.2344 Q113.6563,116.2344 112.3281,114.5938 Q111.0156,112.9375 111.0156,109.8125 Q111.0156,106.6875 112.3281,105.0313 Q113.6563,103.375 116.1563,103.375 Q116.8594,103.375 117.5,103.5313 Q118.1563,103.6875 118.7188,103.9844 L118.7188,106.7031 Q118.0938,106.125 117.5,105.8594 Q116.9063,105.5781 116.2813,105.5781 Q114.9375,105.5781 114.25,106.6563 Q113.5625,107.7188 113.5625,109.8125 Q113.5625,111.9063 114.25,112.9844 Q114.9375,114.0469 116.2813,114.0469 Q116.9063,114.0469 117.5,113.7813 Q118.0938,113.5 118.7188,112.9219 L118.7188,115.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="20"
+                  x="136.25" y="114.1543">RID
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="237" y1="126" y2="126"/>
+            <ellipse cx="33" cy="137" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="58"
+                  x="42" y="140.2104">slotNo: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="237" y1="146.8047" y2="146.8047"/>
+            <ellipse cx="33" cy="157.8047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="26"
+                  x="42" y="161.0151">RID()
+            </text>
+            <ellipse cx="33" cy="170.6094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="86"
+                  x="42" y="173.8198">RID(PageId, int)
+            </text>
+            <ellipse cx="33" cy="183.4141" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="100" x="42" y="186.6245">copyRid(RID): void
+            </text>
+            <ellipse cx="33" cy="196.2188" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="190" x="42" y="199.4292">writeToByteArray(byte[], int): void
+            </text>
+        </a><!--MD5=[cdbade98f80417a0266bdaa8c4fc8827]
+class global.AttrType-->
+        <a href="../global/AttrType.html" target="_top" title="../global/AttrType.html" xlink:actuate="onRequest"
+           xlink:href="../global/AttrType.html" xlink:show="new" xlink:title="../global/AttrType.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="137.6328" id="global.AttrType"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="110" x="574" y="81"/>
+            <ellipse cx="600.7" cy="97" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M603.6688,102.6406 Q603.0906,102.9375 602.45,103.0781 Q601.8094,103.2344 601.1063,103.2344 Q598.6063,103.2344 597.2781,101.5938 Q595.9656,99.9375 595.9656,96.8125 Q595.9656,93.6875 597.2781,92.0313 Q598.6063,90.375 601.1063,90.375 Q601.8094,90.375 602.45,90.5313 Q603.1063,90.6875 603.6688,90.9844 L603.6688,93.7031 Q603.0438,93.125 602.45,92.8594 Q601.8563,92.5781 601.2313,92.5781 Q599.8875,92.5781 599.2,93.6563 Q598.5125,94.7188 598.5125,96.8125 Q598.5125,98.9063 599.2,99.9844 Q599.8875,101.0469 601.2313,101.0469 Q601.8563,101.0469 602.45,100.7813 Q603.0438,100.5 603.6688,99.9219 L603.6688,102.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="52"
+                  x="617.3" y="101.1543">AttrType
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="575" x2="683" y1="113" y2="113"/>
+            <ellipse cx="585" cy="124" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="76" x="594" y="127.2104">attrString: int
+            </text>
+            <ellipse cx="585" cy="136.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="82" x="594" y="140.0151">attrInteger: int
+            </text>
+            <ellipse cx="585" cy="149.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="66" x="594" y="152.8198">attrReal: int
+            </text>
+            <ellipse cx="585" cy="162.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="84" x="594" y="165.6245">attrSymbol: int
+            </text>
+            <ellipse cx="585" cy="175.2188" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="63" x="594" y="178.4292">attrNull: int
+            </text>
+            <ellipse cx="585" cy="188.0234" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="594" y="191.2339">attrType: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="575" x2="683" y1="197.8281" y2="197.8281"/>
+            <ellipse cx="585" cy="208.8281" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="594" y="212.0386">AttrType(int)
+            </text>
+        </a><!--MD5=[349d101bc5b57a3de1b8b252b2bcdd93]
+class global.GlobalConst-->
+        <a href="../global/GlobalConst.html" target="_top" title="../global/GlobalConst.html" xlink:actuate="onRequest"
+           xlink:href="../global/GlobalConst.html" xlink:show="new" xlink:title="../global/GlobalConst.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="214.4609" id="global.GlobalConst"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="265" x="719.5" y="43"/>
+            <ellipse cx="810.25" cy="59" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M806.1719,54.7656 L806.1719,52.6094 L813.5625,52.6094 L813.5625,54.7656 L811.0938,54.7656 L811.0938,62.8438 L813.5625,62.8438 L813.5625,65 L806.1719,65 L806.1719,62.8438 L808.6406,62.8438 L808.6406,54.7656 L806.1719,54.7656 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="75" x="830.75" y="63.1543">GlobalConst
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="720.5" x2="983.5" y1="75" y2="75"/>
+            <ellipse cx="730.5" cy="86" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="152" x="739.5" y="89.2104">MINIBASE_MAXARRSIZE: int
+            </text>
+            <ellipse cx="730.5" cy="98.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="69" x="739.5" y="102.0151">NUMBUF: int
+            </text>
+            <ellipse cx="730.5" cy="111.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="138" x="739.5" y="114.8198">MINIBASE_PAGESIZE: int
+            </text>
+            <ellipse cx="730.5" cy="124.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="193" x="739.5" y="127.6245">MINIBASE_BUFFER_POOL_SIZE: int
+            </text>
+            <ellipse cx="730.5" cy="137.2188" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="88" x="739.5" y="140.4292">MAX_SPACE: int
+            </text>
+            <ellipse cx="730.5" cy="150.0234" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="130" x="739.5" y="153.2339">MINIBASE_DB_SIZE: int
+            </text>
+            <ellipse cx="730.5" cy="162.8281" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="197" x="739.5" y="166.0386">MINIBASE_MAX_TRANSACTIONS: int
+            </text>
+            <ellipse cx="730.5" cy="175.6328" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="239" x="739.5" y="178.8433">MINIBASE_DEFAULT_SHAREDMEM_SIZE:
+                int
+            </text>
+            <ellipse cx="730.5" cy="188.4375" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="98" x="739.5" y="191.6479">MAXFILENAME: int
+            </text>
+            <ellipse cx="730.5" cy="201.2422" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="109" x="739.5" y="204.4526">MAXINDEXNAME: int
+            </text>
+            <ellipse cx="730.5" cy="214.0469" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="104" x="739.5" y="217.2573">MAXATTRNAME: int
+            </text>
+            <ellipse cx="730.5" cy="226.8516" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="82" x="739.5" y="230.062">MAX_NAME: int
+            </text>
+            <ellipse cx="730.5" cy="239.6563" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="100" x="739.5" y="242.8667">INVALID_PAGE: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="720.5" x2="983.5" y1="249.4609" y2="249.4609"/>
+        </a><!--MD5=[81a2649ffeb507235ddc5a1bf645da73]
+class global.Convert-->
+        <a href="../global/Convert.html" target="_top" title="../global/Convert.html" xlink:actuate="onRequest"
+           xlink:href="../global/Convert.html" xlink:show="new" xlink:title="../global/Convert.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="176.0469" id="global.Convert"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="237" x="1019.5" y="62"/>
+            <ellipse cx="1109.75" cy="78" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1112.7188,83.6406 Q1112.1406,83.9375 1111.5,84.0781 Q1110.8594,84.2344 1110.1563,84.2344 Q1107.6563,84.2344 1106.3281,82.5938 Q1105.0156,80.9375 1105.0156,77.8125 Q1105.0156,74.6875 1106.3281,73.0313 Q1107.6563,71.375 1110.1563,71.375 Q1110.8594,71.375 1111.5,71.5313 Q1112.1563,71.6875 1112.7188,71.9844 L1112.7188,74.7031 Q1112.0938,74.125 1111.5,73.8594 Q1110.9063,73.5781 1110.2813,73.5781 Q1108.9375,73.5781 1108.25,74.6563 Q1107.5625,75.7188 1107.5625,77.8125 Q1107.5625,79.9063 1108.25,80.9844 Q1108.9375,82.0469 1110.2813,82.0469 Q1110.9063,82.0469 1111.5,81.7813 Q1112.0938,81.5 1112.7188,80.9219 L1112.7188,83.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="48"
+                  x="1130.25" y="82.1543">Convert
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1020.5" x2="1255.5" y1="94" y2="94"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1020.5" x2="1255.5" y1="102" y2="102"/>
+            <ellipse cx="1030.5" cy="113" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="147" x="1039.5" y="116.2104">getIntValue(int, byte[]): int
+            </text>
+            <ellipse cx="1030.5" cy="125.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="160" x="1039.5" y="129.0151">getFloValue(int, byte[]): float
+            </text>
+            <ellipse cx="1030.5" cy="138.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="180" x="1039.5" y="141.8198">getShortValue(int, byte[]): short
+            </text>
+            <ellipse cx="1030.5" cy="151.4141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="192" x="1039.5" y="154.6245">getStrValue(int, byte[], int):
+                String
+            </text>
+            <ellipse cx="1030.5" cy="164.2188" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="171" x="1039.5" y="167.4292">getCharValue(int, byte[]): char
+            </text>
+            <ellipse cx="1030.5" cy="177.0234" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="178" x="1039.5" y="180.2339">setIntValue(int, int, byte[]):
+                void
+            </text>
+            <ellipse cx="1030.5" cy="189.8281" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="191" x="1039.5" y="193.0386">setFloValue(float, int, byte[]):
+                void
+            </text>
+            <ellipse cx="1030.5" cy="202.6328" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="211" x="1039.5" y="205.8433">setShortValue(short, int,
+                byte[]): void
+            </text>
+            <ellipse cx="1030.5" cy="215.4375" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="201" x="1039.5" y="218.6479">setStrValue(String, int, byte[]):
+                void
+            </text>
+            <ellipse cx="1030.5" cy="228.2422" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="202" x="1039.5" y="231.4526">setCharValue(char, int, byte[]):
+                void
+            </text>
+        </a><!--MD5=[c288af23d7c92a0d98af92066f4ae2b2]
+class global.ExtendedSystemDefs-->
+        <a href="../global/ExtendedSystemDefs.html" target="_top" title="../global/ExtendedSystemDefs.html"
+           xlink:actuate="onRequest" xlink:href="../global/ExtendedSystemDefs.html" xlink:show="new"
+           xlink:title="../global/ExtendedSystemDefs.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="137.6328" id="global.ExtendedSystemDefs"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="339" x="273.5" y="447"/>
+            <ellipse cx="372.75" cy="463" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M375.7188,468.6406 Q375.1406,468.9375 374.5,469.0781 Q373.8594,469.2344 373.1563,469.2344 Q370.6563,469.2344 369.3281,467.5938 Q368.0156,465.9375 368.0156,462.8125 Q368.0156,459.6875 369.3281,458.0313 Q370.6563,456.375 373.1563,456.375 Q373.8594,456.375 374.5,456.5313 Q375.1563,456.6875 375.7188,456.9844 L375.7188,459.7031 Q375.0938,459.125 374.5,458.8594 Q373.9063,458.5781 373.2813,458.5781 Q371.9375,458.5781 371.25,459.6563 Q370.5625,460.7188 370.5625,462.8125 Q370.5625,464.9063 371.25,465.9844 Q371.9375,467.0469 373.2813,467.0469 Q373.9063,467.0469 374.5,466.7813 Q375.0938,466.5 375.7188,465.9219 L375.7188,468.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="132" x="393.25" y="467.1543">ExtendedSystemDefs
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="274.5" x2="611.5" y1="479" y2="479"/>
+            <ellipse cx="284.5" cy="490" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="184" x="293.5" y="493.2104">MINIBASE_CATALOGPTR: Catalog
+            </text>
+            <ellipse cx="284.5" cy="502.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="180" x="293.5" y="506.0151">MINIBASE_ATTRCAT: AttrCatalog
+            </text>
+            <ellipse cx="284.5" cy="515.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="169" x="293.5" y="518.8198">MINIBASE_RELCAT: RelCatalog
+            </text>
+            <ellipse cx="284.5" cy="528.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="181" x="293.5" y="531.6245">MINIBASE_INDCAT: IndexCatalog
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="274.5" x2="611.5" y1="538.2188" y2="538.2188"/>
+            <ellipse cx="284.5" cy="549.2188" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="249" x="293.5" y="552.4292">ExtendedSystemDefs(String, int, int, String)
+            </text>
+            <ellipse cx="284.5" cy="562.0234" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="313" x="293.5" y="565.2339">ExtendedSystemDefs(String, String, int, int, int, String)
+            </text>
+            <ellipse cx="284.5" cy="574.8281" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="70"
+                  x="293.5" y="578.0386">init(int): void
+            </text>
+        </a><!--MD5=[2800f56cb0f609446fed2cf83182752e]
+class global.IndexType-->
+        <a href="../global/IndexType.html" target="_top" title="../global/IndexType.html" xlink:actuate="onRequest"
+           xlink:href="../global/IndexType.html" xlink:show="new" xlink:title="../global/IndexType.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="112.0234" id="global.IndexType"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="105" x="1291.5" y="94"/>
+            <ellipse cx="1311.45" cy="110" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1314.4188,115.6406 Q1313.8406,115.9375 1313.2,116.0781 Q1312.5594,116.2344 1311.8563,116.2344 Q1309.3563,116.2344 1308.0281,114.5938 Q1306.7156,112.9375 1306.7156,109.8125 Q1306.7156,106.6875 1308.0281,105.0313 Q1309.3563,103.375 1311.8563,103.375 Q1312.5594,103.375 1313.2,103.5313 Q1313.8563,103.6875 1314.4188,103.9844 L1314.4188,106.7031 Q1313.7938,106.125 1313.2,105.8594 Q1312.6063,105.5781 1311.9813,105.5781 Q1310.6375,105.5781 1309.95,106.6563 Q1309.2625,107.7188 1309.2625,109.8125 Q1309.2625,111.9063 1309.95,112.9844 Q1310.6375,114.0469 1311.9813,114.0469 Q1312.6063,114.0469 1313.2,113.7813 Q1313.7938,113.5 1314.4188,112.9219 L1314.4188,115.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="62"
+                  x="1326.55" y="114.1543">IndexType
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1292.5" x2="1395.5" y1="126" y2="126"/>
+            <ellipse cx="1302.5" cy="137" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="51" x="1311.5" y="140.2104">None: int
+            </text>
+            <ellipse cx="1302.5" cy="149.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="66" x="1311.5" y="153.0151">B_Index: int
+            </text>
+            <ellipse cx="1302.5" cy="162.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="51" x="1311.5" y="165.8198">Hash: int
+            </text>
+            <ellipse cx="1302.5" cy="175.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="79"
+                  x="1311.5" y="178.6245">indexType: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1292.5" x2="1395.5" y1="185.2188" y2="185.2188"/>
+            <ellipse cx="1302.5" cy="196.2188" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="79"
+                  x="1311.5" y="199.4292">IndexType(int)
+            </text>
+        </a><!--MD5=[4c01ce6fd6248ddaba724fdcea9b4474]
+class global.PageId-->
+        <a href="../global/PageId.html" target="_top" title="../global/PageId.html" xlink:actuate="onRequest"
+           xlink:href="../global/PageId.html" xlink:show="new" xlink:title="../global/PageId.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="112.0234" id="global.PageId"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="216" x="22" y="460"/>
+            <ellipse cx="104.25" cy="476" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M107.2188,481.6406 Q106.6406,481.9375 106,482.0781 Q105.3594,482.2344 104.6563,482.2344 Q102.1563,482.2344 100.8281,480.5938 Q99.5156,478.9375 99.5156,475.8125 Q99.5156,472.6875 100.8281,471.0313 Q102.1563,469.375 104.6563,469.375 Q105.3594,469.375 106,469.5313 Q106.6563,469.6875 107.2188,469.9844 L107.2188,472.7031 Q106.5938,472.125 106,471.8594 Q105.4063,471.5781 104.7813,471.5781 Q103.4375,471.5781 102.75,472.6563 Q102.0625,473.7188 102.0625,475.8125 Q102.0625,477.9063 102.75,478.9844 Q103.4375,480.0469 104.7813,480.0469 Q105.4063,480.0469 106,479.7813 Q106.5938,479.5 107.2188,478.9219 L107.2188,481.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="43"
+                  x="124.75" y="480.1543">PageId
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="237" y1="492" y2="492"/>
+            <ellipse cx="33" cy="503" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="39"
+                  x="42" y="506.2104">pid: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="237" y1="512.8047" y2="512.8047"/>
+            <ellipse cx="33" cy="523.8047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="46"
+                  x="42" y="527.0151">PageId()
+            </text>
+            <ellipse cx="33" cy="536.6094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="60"
+                  x="42" y="539.8198">PageId(int)
+            </text>
+            <ellipse cx="33" cy="549.4141" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="141" x="42" y="552.6245">copyPageId(PageId): void
+            </text>
+            <ellipse cx="33" cy="562.2188" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="190" x="42" y="565.4292">writeToByteArray(byte[], int): void
+            </text>
+        </a><!--MD5=[f419cf2c77e6f912aad533062758033e]
+class global.Flags-->
+        <a href="../global/Flags.html" target="_top" title="../global/Flags.html" xlink:actuate="onRequest"
+           xlink:href="../global/Flags.html" xlink:show="new" xlink:title="../global/Flags.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="73.6094" id="global.Flags"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="119" x="647.5" y="479"/>
+            <ellipse cx="686.8" cy="495" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M682.7219,490.7656 L682.7219,488.6094 L690.1125,488.6094 L690.1125,490.7656 L687.6438,490.7656 L687.6438,498.8438 L690.1125,498.8438 L690.1125,501 L682.7219,501 L682.7219,498.8438 L685.1906,498.8438 L685.1906,490.7656 L682.7219,490.7656 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="33" x="706.2" y="499.1543">Flags
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="648.5" x2="765.5" y1="511" y2="511"/>
+            <ellipse cx="658.5" cy="522" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="82" x="667.5" y="525.2104">TEST: boolean
+            </text>
+            <ellipse cx="658.5" cy="534.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="93" x="667.5" y="538.0151">DEBUG: boolean
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="648.5" x2="765.5" y1="544.6094" y2="544.6094"/>
+        </a><!--MD5=[2a97234ed601506430c6185c17412f29]
+class global.LogicalOperator-->
+        <a href="../global/LogicalOperator.html" target="_top" title="../global/LogicalOperator.html"
+           xlink:actuate="onRequest" xlink:href="../global/LogicalOperator.html" xlink:show="new"
+           xlink:title="../global/LogicalOperator.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="112.0234" id="global.LogicalOperator"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="138" x="802" y="460"/>
+            <ellipse cx="820.15" cy="476" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M823.1188,481.6406 Q822.5406,481.9375 821.9,482.0781 Q821.2594,482.2344 820.5563,482.2344 Q818.0563,482.2344 816.7281,480.5938 Q815.4156,478.9375 815.4156,475.8125 Q815.4156,472.6875 816.7281,471.0313 Q818.0563,469.375 820.5563,469.375 Q821.2594,469.375 821.9,469.5313 Q822.5563,469.6875 823.1188,469.9844 L823.1188,472.7031 Q822.4938,472.125 821.9,471.8594 Q821.3063,471.5781 820.6813,471.5781 Q819.3375,471.5781 818.65,472.6563 Q817.9625,473.7188 817.9625,475.8125 Q817.9625,477.9063 818.65,478.9844 Q819.3375,480.0469 820.6813,480.0469 Q821.3063,480.0469 821.9,479.7813 Q822.4938,479.5 823.1188,478.9219 L823.1188,481.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="99"
+                  x="834.85" y="480.1543">LogicalOperator
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="803" x2="939" y1="492" y2="492"/>
+            <ellipse cx="813" cy="503" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="62" x="822" y="506.2104">lopAND: int
+            </text>
+            <ellipse cx="813" cy="515.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="55" x="822" y="519.0151">lopOR: int
+            </text>
+            <ellipse cx="813" cy="528.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="63" x="822" y="531.8198">lopNOT: int
+            </text>
+            <ellipse cx="813" cy="541.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="109" x="822" y="544.6245">logicalOperator: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="803" x2="939" y1="551.2188" y2="551.2188"/>
+            <ellipse cx="813" cy="562.2188" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="112" x="822" y="565.4292">LogicalOperator(int)
+            </text>
+        </a><!--MD5=[33d737c776231722c239c03890cb3ee8]
+class global.SelectType-->
+        <a href="../global/SelectType.html" target="_top" title="../global/SelectType.html" xlink:actuate="onRequest"
+           xlink:href="../global/SelectType.html" xlink:show="new" xlink:title="../global/SelectType.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="124.8281" id="global.SelectType"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="122" x="975" y="453.5"/>
+            <ellipse cx="999.9" cy="469.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1002.8688,475.1406 Q1002.2906,475.4375 1001.65,475.5781 Q1001.0094,475.7344 1000.3063,475.7344 Q997.8063,475.7344 996.4781,474.0938 Q995.1656,472.4375 995.1656,469.3125 Q995.1656,466.1875 996.4781,464.5313 Q997.8063,462.875 1000.3063,462.875 Q1001.0094,462.875 1001.65,463.0313 Q1002.3063,463.1875 1002.8688,463.4844 L1002.8688,466.2031 Q1002.2438,465.625 1001.65,465.3594 Q1001.0563,465.0781 1000.4313,465.0781 Q999.0875,465.0781 998.4,466.1563 Q997.7125,467.2188 997.7125,469.3125 Q997.7125,471.4063 998.4,472.4844 Q999.0875,473.5469 1000.4313,473.5469 Q1001.0563,473.5469 1001.65,473.2813 Q1002.2438,473 1002.8688,472.4219 L1002.8688,475.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="68"
+                  x="1016.1" y="473.6543">SelectType
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="976" x2="1096" y1="485.5" y2="485.5"/>
+            <ellipse cx="986" cy="496.5" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="74" x="995" y="499.7104">selRange: int
+            </text>
+            <ellipse cx="986" cy="509.3047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="69" x="995" y="512.5151">selExact: int
+            </text>
+            <ellipse cx="986" cy="522.1094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="65" x="995" y="525.3198">selBoth: int
+            </text>
+            <ellipse cx="986" cy="534.9141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="96" x="995" y="538.1245">selUndefined: int
+            </text>
+            <ellipse cx="986" cy="547.7188" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="83"
+                  x="995" y="550.9292">selectType: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="976" x2="1096" y1="557.5234" y2="557.5234"/>
+            <ellipse cx="986" cy="568.5234" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="84"
+                  x="995" y="571.7339">SelectType(int)
+            </text>
+        </a><!--MD5=[a1c655325a2e88e39f80f1d7ea99e3b1]
+class global.Catalogglobal-->
+        <a href="../global/Catalogglobal.html" target="_top" title="../global/Catalogglobal.html"
+           xlink:actuate="onRequest" xlink:href="../global/Catalogglobal.html" xlink:show="new"
+           xlink:title="../global/Catalogglobal.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="240.0703" id="global.Catalogglobal"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="178" x="1132" y="396"/>
+            <ellipse cx="1174" cy="412" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1169.9219,407.7656 L1169.9219,405.6094 L1177.3125,405.6094 L1177.3125,407.7656 L1174.8438,407.7656 L1174.8438,415.8438 L1177.3125,415.8438 L1177.3125,418 L1169.9219,418 L1169.9219,415.8438 L1172.3906,415.8438 L1172.3906,407.7656 L1169.9219,407.7656 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="86" x="1194" y="416.1543">Catalogglobal
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1133" x2="1309" y1="428" y2="428"/>
+            <ellipse cx="1143" cy="439" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="152" x="1152" y="442.2104">MINIBASE_MAXARRSIZE: int
+            </text>
+            <ellipse cx="1143" cy="451.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="115" x="1152" y="455.0151">RELCATNAME: String
+            </text>
+            <ellipse cx="1143" cy="464.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="123" x="1152" y="467.8198">ATTRCATNAME: String
+            </text>
+            <ellipse cx="1143" cy="477.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="128" x="1152" y="480.6245">INDEXCATNAME: String
+            </text>
+            <ellipse cx="1143" cy="490.2188" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="93" x="1152" y="493.4292">RELNAME: String
+            </text>
+            <ellipse cx="1143" cy="503.0234" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="76" x="1152" y="506.2339">MAXNAME: int
+            </text>
+            <ellipse cx="1143" cy="515.8281" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="108" x="1152" y="519.0386">MAXSTRINGLEN: int
+            </text>
+            <ellipse cx="1143" cy="528.6328" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="112" x="1152" y="531.8433">NUMTUPLESFILE: int
+            </text>
+            <ellipse cx="1143" cy="541.4375" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="107" x="1152" y="544.6479">NUMPAGESFILE: int
+            </text>
+            <ellipse cx="1143" cy="554.2422" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="103" x="1152" y="557.4526">DISTINCTKEYS: int
+            </text>
+            <ellipse cx="1143" cy="567.0469" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="93" x="1152" y="570.2573">INDEXPAGES: int
+            </text>
+            <ellipse cx="1143" cy="579.8516" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="124" x="1152" y="583.062">MINSTRINGVAL: String
+            </text>
+            <ellipse cx="1143" cy="592.6563" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="127" x="1152" y="595.8667">MAXSTRINGVAL: String
+            </text>
+            <ellipse cx="1143" cy="605.4609" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="87" x="1152" y="608.6714">MINNUMVAL: int
+            </text>
+            <ellipse cx="1143" cy="618.2656" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="90" x="1152" y="621.4761">MAXNUMVAL: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1133" x2="1309" y1="628.0703" y2="628.0703"/>
+        </a><!--MD5=[2218ca011717e466d278ed9f56bc946a]
+class global.TupleOrder-->
+        <a href="../global/TupleOrder.html" target="_top" title="../global/TupleOrder.html" xlink:actuate="onRequest"
+           xlink:href="../global/TupleOrder.html" xlink:show="new" xlink:title="../global/TupleOrder.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="112.0234" id="global.TupleOrder"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="114" x="650" y="797.5"/>
+            <ellipse cx="670.85" cy="813.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M673.8188,819.1406 Q673.2406,819.4375 672.6,819.5781 Q671.9594,819.7344 671.2563,819.7344 Q668.7563,819.7344 667.4281,818.0938 Q666.1156,816.4375 666.1156,813.3125 Q666.1156,810.1875 667.4281,808.5313 Q668.7563,806.875 671.2563,806.875 Q671.9594,806.875 672.6,807.0313 Q673.2563,807.1875 673.8188,807.4844 L673.8188,810.2031 Q673.1938,809.625 672.6,809.3594 Q672.0063,809.0781 671.3813,809.0781 Q670.0375,809.0781 669.35,810.1563 Q668.6625,811.2188 668.6625,813.3125 Q668.6625,815.4063 669.35,816.4844 Q670.0375,817.5469 671.3813,817.5469 Q672.0063,817.5469 672.6,817.2813 Q673.1938,817 673.8188,816.4219 L673.8188,819.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="686.15" y="817.6543">TupleOrder
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="651" x2="763" y1="829.5" y2="829.5"/>
+            <ellipse cx="661" cy="840.5" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="80" x="670" y="843.7104">Ascending: int
+            </text>
+            <ellipse cx="661" cy="853.3047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="88" x="670" y="856.5151">Descending: int
+            </text>
+            <ellipse cx="661" cy="866.1094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="68" x="670" y="869.3198">Random: int
+            </text>
+            <ellipse cx="661" cy="878.9141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="83"
+                  x="670" y="882.1245">tupleOrder: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="651" x2="763" y1="888.7188" y2="888.7188"/>
+            <ellipse cx="661" cy="899.7188" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="86"
+                  x="670" y="902.9292">TupleOrder(int)
+            </text>
+        </a><!--MD5=[3001f4f1cf9a0762c3be701a21da02f6]
+class global.AttrOperator-->
+        <a href="../global/AttrOperator.html" target="_top" title="../global/AttrOperator.html"
+           xlink:actuate="onRequest" xlink:href="../global/AttrOperator.html" xlink:show="new"
+           xlink:title="../global/AttrOperator.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1v6roc2ybzsjp)" height="188.8516" id="global.AttrOperator"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="119" x="799.5" y="759"/>
+            <ellipse cx="818.1" cy="775" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M821.0688,780.6406 Q820.4906,780.9375 819.85,781.0781 Q819.2094,781.2344 818.5063,781.2344 Q816.0063,781.2344 814.6781,779.5938 Q813.3656,777.9375 813.3656,774.8125 Q813.3656,771.6875 814.6781,770.0313 Q816.0063,768.375 818.5063,768.375 Q819.2094,768.375 819.85,768.5313 Q820.5063,768.6875 821.0688,768.9844 L821.0688,771.7031 Q820.4438,771.125 819.85,770.8594 Q819.2563,770.5781 818.6313,770.5781 Q817.2875,770.5781 816.6,771.6563 Q815.9125,772.7188 815.9125,774.8125 Q815.9125,776.9063 816.6,777.9844 Q817.2875,779.0469 818.6313,779.0469 Q819.2563,779.0469 819.85,778.7813 Q820.4438,778.5 821.0688,777.9219 L821.0688,780.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="79"
+                  x="832.9" y="779.1543">AttrOperator
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="800.5" x2="917.5" y1="791" y2="791"/>
+            <ellipse cx="810.5" cy="802" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="59" x="819.5" y="805.2104">aopEQ: int
+            </text>
+            <ellipse cx="810.5" cy="814.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="56" x="819.5" y="818.0151">aopLT: int
+            </text>
+            <ellipse cx="810.5" cy="827.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="59" x="819.5" y="830.8198">aopGT: int
+            </text>
+            <ellipse cx="810.5" cy="840.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="58" x="819.5" y="843.6245">aopNE: int
+            </text>
+            <ellipse cx="810.5" cy="853.2188" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="56" x="819.5" y="856.4292">aopLE: int
+            </text>
+            <ellipse cx="810.5" cy="866.0234" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="59" x="819.5" y="869.2339">aopGE: int
+            </text>
+            <ellipse cx="810.5" cy="878.8281" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="67" x="819.5" y="882.0386">aopNOT: int
+            </text>
+            <ellipse cx="810.5" cy="891.6328" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="67" x="819.5" y="894.8433">aopNOP: int
+            </text>
+            <ellipse cx="810.5" cy="904.4375" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="74" x="819.5" y="907.6479">opRANGE: int
+            </text>
+            <ellipse cx="810.5" cy="917.2422" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93"
+                  x="819.5" y="920.4526">attrOperator: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="800.5" x2="917.5" y1="927.0469" y2="927.0469"/>
+            <ellipse cx="810.5" cy="938.0469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93"
+                  x="819.5" y="941.2573">AttrOperator(int)
+            </text>
+        </a><!--MD5=[e387088f7c632c0ed7239cc30e02614d]
+link global.RID to global.PageId-->
+        <path d="M130,206.3854 C130,273.515 130,385.2293 130,454.5233 " fill="none" id="global.RID-&gt;global.PageId"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="130,459.8511,134,450.8511,130,454.8511,126,450.8511,130,459.8511"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="50"
+              x="131" y="331.0669">pageNo
+        </text><!--MD5=[cc458b470281678b602e6acaf7f00b54]
+reverse link global.SystemDefs to global.ExtendedSystemDefs-->
+        <path d="M416.9457,258.2735 C423.1178,319.3279 430.6445,393.7809 436.0181,446.9356 " fill="none"
+              id="global.SystemDefs&lt;-global.ExtendedSystemDefs" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="409.9567,258.7345,414.9095,238.1319,423.8857,257.3264,409.9567,258.7345"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d4f931bb99accd8cc2dc56db630d6f59]
+link global.AttrType to global.GlobalConst--><!--MD5=[ab4082bb41de6c0dd1dea69d3aa0fe11]
+link global.GlobalConst to global.Convert--><!--MD5=[adef3cd145e883db2398710b91226953]
+link global.Convert to global.IndexType--><!--MD5=[8d8ed971281554f0fab8ffbc5120379d]
+link global.AttrType to global.Flags--><!--MD5=[84601c99e8be2e36429d3972df8c89c9]
+link global.Flags to global.LogicalOperator--><!--MD5=[1c80503a15483802305b057c08f985c6]
+link global.LogicalOperator to global.SelectType--><!--MD5=[01aa041ed8826a9a250121d2351bb1a9]
+link global.SelectType to global.Catalogglobal--><!--MD5=[f798c8d8a7cb214185730eabf53ebdf7]
+link global.Flags to global.TupleOrder--><!--MD5=[584f93342ce2fdb2e538876f714d018e]
+link global.TupleOrder to global.AttrOperator-->
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="622.5" y="983.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[2e1bf68c6ab599616d884f53021cbb26]
+@startuml
+    namespace global {
+
+        class SystemDefs [[../global/SystemDefs.html]] {
+            {static} +JavabaseBM: BufMgr
+            {static} +JavabaseDB: DB
+            {static} +JavabaseCatalog: Catalog
+            {static} +JavabaseDBName: String
+            {static} +JavabaseLogName: String
+            {static} +MINIBASE_RESTART_FLAG: boolean
+            {static} +MINIBASE_DBNAME: String
+            +SystemDefs()
+            +SystemDefs(String, int, int, String)
+            +init(String, String, int, int, int, String): void
+        }
+
+        class RID [[../global/RID.html]] {
+            +slotNo: int
+            +RID()
+            +RID(PageId, int)
+            +copyRid(RID): void
+            +writeToByteArray(byte[], int): void
+        }
+
+        class AttrType [[../global/AttrType.html]] {
+            {static} +attrString: int
+            {static} +attrInteger: int
+            {static} +attrReal: int
+            {static} +attrSymbol: int
+            {static} +attrNull: int
+            +attrType: int
+            +AttrType(int)
+        }
+
+        interface GlobalConst [[../global/GlobalConst.html]] {
+            {static} +MINIBASE_MAXARRSIZE: int
+            {static} +NUMBUF: int
+            {static} +MINIBASE_PAGESIZE: int
+            {static} +MINIBASE_BUFFER_POOL_SIZE: int
+            {static} +MAX_SPACE: int
+            {static} +MINIBASE_DB_SIZE: int
+            {static} +MINIBASE_MAX_TRANSACTIONS: int
+            {static} +MINIBASE_DEFAULT_SHAREDMEM_SIZE: int
+            {static} +MAXFILENAME: int
+            {static} +MAXINDEXNAME: int
+            {static} +MAXATTRNAME: int
+            {static} +MAX_NAME: int
+            {static} +INVALID_PAGE: int
+        }
+
+        class Convert [[../global/Convert.html]] {
+            {static} +getIntValue(int, byte[]): int
+            {static} +getFloValue(int, byte[]): float
+            {static} +getShortValue(int, byte[]): short
+            {static} +getStrValue(int, byte[], int): String
+            {static} +getCharValue(int, byte[]): char
+            {static} +setIntValue(int, int, byte[]): void
+            {static} +setFloValue(float, int, byte[]): void
+            {static} +setShortValue(short, int, byte[]): void
+            {static} +setStrValue(String, int, byte[]): void
+            {static} +setCharValue(char, int, byte[]): void
+        }
+
+        class ExtendedSystemDefs [[../global/ExtendedSystemDefs.html]] {
+            {static} +MINIBASE_CATALOGPTR: Catalog
+            {static} +MINIBASE_ATTRCAT: AttrCatalog
+            {static} +MINIBASE_RELCAT: RelCatalog
+            {static} +MINIBASE_INDCAT: IndexCatalog
+            +ExtendedSystemDefs(String, int, int, String)
+            +ExtendedSystemDefs(String, String, int, int, int, String)
+            +init(int): void
+        }
+
+        class IndexType [[../global/IndexType.html]] {
+            {static} +None: int
+            {static} +B_Index: int
+            {static} +Hash: int
+            +indexType: int
+            +IndexType(int)
+        }
+
+        class PageId [[../global/PageId.html]] {
+            +pid: int
+            +PageId()
+            +PageId(int)
+            +copyPageId(PageId): void
+            +writeToByteArray(byte[], int): void
+        }
+
+        interface Flags [[../global/Flags.html]] {
+            {static} +TEST: boolean
+            {static} +DEBUG: boolean
+        }
+
+        class LogicalOperator [[../global/LogicalOperator.html]] {
+            {static} +lopAND: int
+            {static} +lopOR: int
+            {static} +lopNOT: int
+            +logicalOperator: int
+            +LogicalOperator(int)
+        }
+
+        class SelectType [[../global/SelectType.html]] {
+            {static} +selRange: int
+            {static} +selExact: int
+            {static} +selBoth: int
+            {static} +selUndefined: int
+            +selectType: int
+            +SelectType(int)
+        }
+
+        interface Catalogglobal [[../global/Catalogglobal.html]] {
+            {static} +MINIBASE_MAXARRSIZE: int
+            {static} +RELCATNAME: String
+            {static} +ATTRCATNAME: String
+            {static} +INDEXCATNAME: String
+            {static} +RELNAME: String
+            {static} +MAXNAME: int
+            {static} +MAXSTRINGLEN: int
+            {static} +NUMTUPLESFILE: int
+            {static} +NUMPAGESFILE: int
+            {static} +DISTINCTKEYS: int
+            {static} +INDEXPAGES: int
+            {static} +MINSTRINGVAL: String
+            {static} +MAXSTRINGVAL: String
+            {static} +MINNUMVAL: int
+            {static} +MAXNUMVAL: int
+        }
+
+        class TupleOrder [[../global/TupleOrder.html]] {
+            {static} +Ascending: int
+            {static} +Descending: int
+            {static} +Random: int
+            +tupleOrder: int
+            +TupleOrder(int)
+        }
+
+        class AttrOperator [[../global/AttrOperator.html]] {
+            {static} +aopEQ: int
+            {static} +aopLT: int
+            {static} +aopGT: int
+            {static} +aopNE: int
+            {static} +aopLE: int
+            {static} +aopGE: int
+            {static} +aopNOT: int
+            {static} +aopNOP: int
+            {static} +opRANGE: int
+            +attrOperator: int
+            +AttrOperator(int)
+        }
+
+        RID - -> PageId: pageNo
+        SystemDefs <|- - ExtendedSystemDefs
+    }
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

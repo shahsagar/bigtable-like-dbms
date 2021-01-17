@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="197px" preserveAspectRatio="none"
+     style="width:282px;height:197px;" version="1.1" viewBox="0 0 282 197" width="282px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="fchemi0820w1z" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[870256cac00f1d4fec4a51c782cc0a0a]
+class diskmgr.DuplicateEntryException-->
+        <a href="../diskmgr/DuplicateEntryException.html" target="_top" title="../diskmgr/DuplicateEntryException.html"
+           xlink:actuate="onRequest" xlink:href="../diskmgr/DuplicateEntryException.html" xlink:show="new"
+           xlink:title="../diskmgr/DuplicateEntryException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fchemi0820w1z)" height="58.7422" id="diskmgr.DuplicateEntryException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="265" x="6" y="106"/>
+            <ellipse cx="50.25" cy="124.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M53.2188,130.6094 Q52.6406,130.9063 52,131.0469 Q51.3594,131.2031 50.6563,131.2031 Q48.1563,131.2031 46.8281,129.5625 Q45.5156,127.9063 45.5156,124.7813 Q45.5156,121.6563 46.8281,120 Q48.1563,118.3438 50.6563,118.3438 Q51.3594,118.3438 52,118.5 Q52.6563,118.6563 53.2188,118.9531 L53.2188,121.6719 Q52.5938,121.0938 52,120.8281 Q51.4063,120.5469 50.7813,120.5469 Q49.4375,120.5469 48.75,121.625 Q48.0625,122.6875 48.0625,124.7813 Q48.0625,126.875 48.75,127.9531 Q49.4375,129.0156 50.7813,129.0156 Q51.4063,129.0156 52,128.75 Q52.5938,128.4688 53.2188,127.8906 L53.2188,130.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="168" x="70.75" y="123.9951">DuplicateEntryException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="38"
+                  x="135.75" y="136.5791">diskmgr
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="270" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="17" cy="154.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="239" x="26" y="158.1479">DuplicateEntryException(Exception, String)
+            </text>
+        </a><!--MD5=[2a7cd8221fe6583b4d4c6786e4469311]
+class chainexception.ChainException-->
+        <a href="../chainexception/ChainException.html" target="_top" title="../chainexception/ChainException.html"
+           xlink:actuate="onRequest" xlink:href="../chainexception/ChainException.html" xlink:show="new"
+           xlink:title="../chainexception/ChainException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fchemi0820w1z)" height="37.9375" id="chainexception.ChainException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="139" x="69" y="8"/>
+            <ellipse cx="84" cy="26.9688" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M86.9688,32.6094 Q86.3906,32.9063 85.75,33.0469 Q85.1094,33.2031 84.4063,33.2031 Q81.9063,33.2031 80.5781,31.5625 Q79.2656,29.9063 79.2656,26.7813 Q79.2656,23.6563 80.5781,22 Q81.9063,20.3438 84.4063,20.3438 Q85.1094,20.3438 85.75,20.5 Q86.4063,20.6563 86.9688,20.9531 L86.9688,23.6719 Q86.3438,23.0938 85.75,22.8281 Q85.1563,22.5469 84.5313,22.5469 Q83.1875,22.5469 82.5,23.625 Q81.8125,24.6875 81.8125,26.7813 Q81.8125,28.875 82.5,29.9531 Q83.1875,31.0156 84.5313,31.0156 Q85.1563,31.0156 85.75,30.75 Q86.3438,30.4688 86.9688,29.8906 L86.9688,32.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="107" x="98" y="25.9951">ChainException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="72"
+                  x="115.5" y="38.5791">chainexception
+            </text>
+        </a><!--MD5=[9936dda2aa986e620c96bc8ebcc41105]
+reverse link chainexception.ChainException to diskmgr.DuplicateEntryException-->
+        <path d="M138.5,66.3533 C138.5,79.4123 138.5,93.7197 138.5,105.9146 " fill="none"
+              id="chainexception.ChainException&lt;-diskmgr.DuplicateEntryException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="131.5001,66.1479,138.5,46.1479,145.5001,66.1478,131.5001,66.1479"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="51.5" y="184.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[cbc92e1b4052c857facb88cd0f94e5c3]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>DuplicateEntryException\n<size:10>diskmgr" as diskmgr.DuplicateEntryException [[../diskmgr/DuplicateEntryException.html]] {
+        +DuplicateEntryException(Exception, String)
+    }
+
+    class "<size:14>ChainException\n<size:10>chainexception" as chainexception.ChainException [[../chainexception/ChainException.html]]
+
+    chainexception.ChainException <|- - diskmgr.DuplicateEntryException
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

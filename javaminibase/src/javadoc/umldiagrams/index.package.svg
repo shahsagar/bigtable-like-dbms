@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="336px" preserveAspectRatio="none"
+     style="width:1866px;height:336px;" version="1.1" viewBox="0 0 1866 336" width="1866px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f36tjoygh0gmz" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[2265efe58f509802ec1fe9822d1e6e2b]
+cluster index-->
+        <polygon fill="#FFFFFF" filter="url(#f36tjoygh0gmz)"
+                 points="14,162,63,162,70,184.2969,1844,184.2969,1844,296,14,296,14,162"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="14" x2="70" y1="184.2969" y2="184.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="43" x="18" y="176.9951">index
+        </text><!--MD5=[ab80658c1fb3faec1b403bb153b4493b]
+cluster chainexception-->
+        <polygon fill="#FFFFFF" filter="url(#f36tjoygh0gmz)"
+                 points="335,28.5,461,28.5,468,50.7969,479,50.7969,479,124.5,335,124.5,335,28.5"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="335" x2="468" y1="50.7969" y2="50.7969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="120" x="339" y="43.4951">chainexception
+        </text><!--MD5=[0ed13126c106e7c587d6bd4e148c8c92]
+cluster iterator-->
+        <polygon fill="#FFFFFF" filter="url(#f36tjoygh0gmz)"
+                 points="1467,16,1532,16,1539,38.2969,1615,38.2969,1615,137,1467,137,1467,16"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="1467" x2="1539" y1="38.2969" y2="38.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="59" x="1471" y="30.9951">iterator
+        </text><!--MD5=[d8dd9a92a933f2441d524597e72ec5f3]
+class index.InvalidSelectionException-->
+        <a href="../index/InvalidSelectionException.html" target="_top" title="../index/InvalidSelectionException.html"
+           xlink:actuate="onRequest" xlink:href="../index/InvalidSelectionException.html" xlink:show="new"
+           xlink:title="../index/InvalidSelectionException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f36tjoygh0gmz)" height="86.4141" id="index.InvalidSelectionException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="272" x="271" y="195.5"/>
+            <ellipse cx="323.75" cy="211.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M326.7188,217.1406 Q326.1406,217.4375 325.5,217.5781 Q324.8594,217.7344 324.1563,217.7344 Q321.6563,217.7344 320.3281,216.0938 Q319.0156,214.4375 319.0156,211.3125 Q319.0156,208.1875 320.3281,206.5313 Q321.6563,204.875 324.1563,204.875 Q324.8594,204.875 325.5,205.0313 Q326.1563,205.1875 326.7188,205.4844 L326.7188,208.2031 Q326.0938,207.625 325.5,207.3594 Q324.9063,207.0781 324.2813,207.0781 Q322.9375,207.0781 322.25,208.1563 Q321.5625,209.2188 321.5625,211.3125 Q321.5625,213.4063 322.25,214.4844 Q322.9375,215.5469 324.2813,215.5469 Q324.9063,215.5469 325.5,215.2813 Q326.0938,215 326.7188,214.4219 L326.7188,217.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="158" x="344.25" y="215.6543">InvalidSelectionException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="272" x2="542" y1="227.5" y2="227.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="272" x2="542" y1="235.5" y2="235.5"/>
+            <ellipse cx="282" cy="246.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="150" x="291" y="249.7104">InvalidSelectionException()
+            </text>
+            <ellipse cx="282" cy="259.3047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="184" x="291" y="262.5151">InvalidSelectionException(String)
+            </text>
+            <ellipse cx="282" cy="272.1094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="246" x="291" y="275.3198">InvalidSelectionException(Exception, String)
+            </text>
+        </a><!--MD5=[08a6d1e0a9624b97e92c66599a1648c3]
+class index.IndexUtils-->
+        <a href="../index/IndexUtils.html" target="_top" title="../index/IndexUtils.html" xlink:actuate="onRequest"
+           xlink:href="../index/IndexUtils.html" xlink:show="new" xlink:title="../index/IndexUtils.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f36tjoygh0gmz)" height="60.8047" id="index.IndexUtils"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="305" x="905.5" y="208"/>
+            <ellipse cx="1023.75" cy="224" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1026.7188,229.6406 Q1026.1406,229.9375 1025.5,230.0781 Q1024.8594,230.2344 1024.1563,230.2344 Q1021.6563,230.2344 1020.3281,228.5938 Q1019.0156,226.9375 1019.0156,223.8125 Q1019.0156,220.6875 1020.3281,219.0313 Q1021.6563,217.375 1024.1563,217.375 Q1024.8594,217.375 1025.5,217.5313 Q1026.1563,217.6875 1026.7188,217.9844 L1026.7188,220.7031 Q1026.0938,220.125 1025.5,219.8594 Q1024.9063,219.5781 1024.2813,219.5781 Q1022.9375,219.5781 1022.25,220.6563 Q1021.5625,221.7188 1021.5625,223.8125 Q1021.5625,225.9063 1022.25,226.9844 Q1022.9375,228.0469 1024.2813,228.0469 Q1024.9063,228.0469 1025.5,227.7813 Q1026.0938,227.5 1026.7188,226.9219 L1026.7188,229.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="60"
+                  x="1044.25" y="228.1543">IndexUtils
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="906.5" x2="1209.5" y1="240" y2="240"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="906.5" x2="1209.5" y1="248" y2="248"/>
+            <ellipse cx="916.5" cy="259" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="279" x="925.5" y="262.2104">BTree_scan(CondExpr[], IndexFile):
+                IndexFileScan
+            </text>
+        </a><!--MD5=[89885c742d47cbb0beea133ac8a15042]
+class index.IndexException-->
+        <a href="../index/IndexException.html" target="_top" title="../index/IndexException.html"
+           xlink:actuate="onRequest" xlink:href="../index/IndexException.html" xlink:show="new"
+           xlink:title="../index/IndexException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f36tjoygh0gmz)" height="86.4141" id="index.IndexException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="214" x="22" y="195.5"/>
+            <ellipse cx="77.75" cy="211.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M80.7188,217.1406 Q80.1406,217.4375 79.5,217.5781 Q78.8594,217.7344 78.1563,217.7344 Q75.6563,217.7344 74.3281,216.0938 Q73.0156,214.4375 73.0156,211.3125 Q73.0156,208.1875 74.3281,206.5313 Q75.6563,204.875 78.1563,204.875 Q78.8594,204.875 79.5,205.0313 Q80.1563,205.1875 80.7188,205.4844 L80.7188,208.2031 Q80.0938,207.625 79.5,207.3594 Q78.9063,207.0781 78.2813,207.0781 Q76.9375,207.0781 76.25,208.1563 Q75.5625,209.2188 75.5625,211.3125 Q75.5625,213.4063 76.25,214.4844 Q76.9375,215.5469 78.2813,215.5469 Q78.9063,215.5469 79.5,215.2813 Q80.0938,215 80.7188,214.4219 L80.7188,217.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="94"
+                  x="98.25" y="215.6543">IndexException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="235" y1="227.5" y2="227.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="23" x2="235" y1="235.5" y2="235.5"/>
+            <ellipse cx="33" cy="246.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="92"
+                  x="42" y="249.7104">IndexException()
+            </text>
+            <ellipse cx="33" cy="259.3047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="126" x="42" y="262.5151">IndexException(String)
+            </text>
+            <ellipse cx="33" cy="272.1094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="188" x="42" y="275.3198">IndexException(Exception, String)
+            </text>
+        </a><!--MD5=[b9709a7628674bc80b979da8a0413560]
+class index.UnknownIndexTypeException-->
+        <a href="../index/UnknownIndexTypeException.html" target="_top" title="../index/UnknownIndexTypeException.html"
+           xlink:actuate="onRequest" xlink:href="../index/UnknownIndexTypeException.html" xlink:show="new"
+           xlink:title="../index/UnknownIndexTypeException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f36tjoygh0gmz)" height="86.4141" id="index.UnknownIndexTypeException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="292" x="578" y="195.5"/>
+            <ellipse cx="629.75" cy="211.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M632.7188,217.1406 Q632.1406,217.4375 631.5,217.5781 Q630.8594,217.7344 630.1563,217.7344 Q627.6563,217.7344 626.3281,216.0938 Q625.0156,214.4375 625.0156,211.3125 Q625.0156,208.1875 626.3281,206.5313 Q627.6563,204.875 630.1563,204.875 Q630.8594,204.875 631.5,205.0313 Q632.1563,205.1875 632.7188,205.4844 L632.7188,208.2031 Q632.0938,207.625 631.5,207.3594 Q630.9063,207.0781 630.2813,207.0781 Q628.9375,207.0781 628.25,208.1563 Q627.5625,209.2188 627.5625,211.3125 Q627.5625,213.4063 628.25,214.4844 Q628.9375,215.5469 630.2813,215.5469 Q630.9063,215.5469 631.5,215.2813 Q632.0938,215 632.7188,214.4219 L632.7188,217.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="180" x="650.25" y="215.6543">UnknownIndexTypeException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="579" x2="869" y1="227.5" y2="227.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="579" x2="869" y1="235.5" y2="235.5"/>
+            <ellipse cx="589" cy="246.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="170" x="598" y="249.7104">UnknownIndexTypeException()
+            </text>
+            <ellipse cx="589" cy="259.3047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="204" x="598" y="262.5151">UnknownIndexTypeException(String)
+            </text>
+            <ellipse cx="589" cy="272.1094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="266" x="598" y="275.3198">UnknownIndexTypeException(Exception, String)
+            </text>
+        </a><!--MD5=[ecdde5f865d1050b8ecd2615ba021e68]
+class index.IndexScan-->
+        <a href="../index/IndexScan.html" target="_top" title="../index/IndexScan.html" xlink:actuate="onRequest"
+           xlink:href="../index/IndexScan.html" xlink:show="new" xlink:title="../index/IndexScan.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f36tjoygh0gmz)" height="99.2188" id="index.IndexScan"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="591" x="1245.5" y="189"/>
+            <ellipse cx="1504.75" cy="205" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1507.7188,210.6406 Q1507.1406,210.9375 1506.5,211.0781 Q1505.8594,211.2344 1505.1563,211.2344 Q1502.6563,211.2344 1501.3281,209.5938 Q1500.0156,207.9375 1500.0156,204.8125 Q1500.0156,201.6875 1501.3281,200.0313 Q1502.6563,198.375 1505.1563,198.375 Q1505.8594,198.375 1506.5,198.5313 Q1507.1563,198.6875 1507.7188,198.9844 L1507.7188,201.7031 Q1507.0938,201.125 1506.5,200.8594 Q1505.9063,200.5781 1505.2813,200.5781 Q1503.9375,200.5781 1503.25,201.6563 Q1502.5625,202.7188 1502.5625,204.8125 Q1502.5625,206.9063 1503.25,207.9844 Q1503.9375,209.0469 1505.2813,209.0469 Q1505.9063,209.0469 1506.5,208.7813 Q1507.0938,208.5 1507.7188,207.9219 L1507.7188,210.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="64"
+                  x="1525.25" y="209.1543">IndexScan
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1246.5" x2="1835.5" y1="221" y2="221"/>
+            <ellipse cx="1256.5" cy="232" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="118" x="1265.5" y="235.2104">perm_mat: FldSpec[]
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1246.5" x2="1835.5" y1="241.8047" y2="241.8047"/>
+            <ellipse cx="1256.5" cy="252.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="565" x="1265.5" y="256.0151">IndexScan(IndexType, String, String, AttrType[], short[],
+                int, int, FldSpec[], CondExpr[], int, boolean)
+            </text>
+            <ellipse cx="1256.5" cy="265.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95"
+                  x="1265.5" y="268.8198">get_next(): Tuple
+            </text>
+            <ellipse cx="1256.5" cy="278.4141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="1265.5" y="281.6245">close(): void
+            </text>
+        </a><!--MD5=[2a7cd8221fe6583b4d4c6786e4469311]
+class chainexception.ChainException-->
+        <a href="../chainexception/ChainException.html" target="_top" title="../chainexception/ChainException.html"
+           xlink:actuate="onRequest" xlink:href="../chainexception/ChainException.html" xlink:show="new"
+           xlink:title="../chainexception/ChainException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f36tjoygh0gmz)" height="60.8047" id="chainexception.ChainException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="128" x="343" y="55.5"/>
+            <ellipse cx="358" cy="71.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M360.9688,77.1406 Q360.3906,77.4375 359.75,77.5781 Q359.1094,77.7344 358.4063,77.7344 Q355.9063,77.7344 354.5781,76.0938 Q353.2656,74.4375 353.2656,71.3125 Q353.2656,68.1875 354.5781,66.5313 Q355.9063,64.875 358.4063,64.875 Q359.1094,64.875 359.75,65.0313 Q360.4063,65.1875 360.9688,65.4844 L360.9688,68.2031 Q360.3438,67.625 359.75,67.3594 Q359.1563,67.0781 358.5313,67.0781 Q357.1875,67.0781 356.5,68.1563 Q355.8125,69.2188 355.8125,71.3125 Q355.8125,73.4063 356.5,74.4844 Q357.1875,75.5469 358.5313,75.5469 Q359.1563,75.5469 359.75,75.2813 Q360.3438,75 360.9688,74.4219 L360.9688,77.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="372" y="75.6543">ChainException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="344" x2="470" y1="87.5" y2="87.5"/>
+            <ellipse cx="354" cy="98.5" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="87"
+                  x="363" y="101.7104">prev: Exception
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="344" x2="470" y1="108.3047" y2="108.3047"/>
+        </a><!--MD5=[b0ecc7d2f56746be8636affc17cd54d4]
+class iterator.Iterator-->
+        <a href="../iterator/Iterator.html" target="_top" title="../iterator/Iterator.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/Iterator.html" xlink:show="new" xlink:title="../iterator/Iterator.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f36tjoygh0gmz)" height="86.4141" id="iterator.Iterator"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="132" x="1475" y="43"/>
+            <ellipse cx="1513.85" cy="59" fill="#A9DCDF" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1513.9594,54.3438 L1512.8031,59.4219 L1515.1313,59.4219 L1513.9594,54.3438 Z M1512.475,52.1094 L1515.4594,52.1094 L1518.8188,64.5 L1516.3656,64.5 L1515.6,61.4375 L1512.3188,61.4375 L1511.5688,64.5 L1509.1313,64.5 L1512.475,52.1094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="47" x="1533.15" y="63.1543">Iterator
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1476" x2="1606" y1="75" y2="75"/>
+            <ellipse cx="1486" cy="86" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="106" x="1495" y="89.2104">closeFlag: boolean
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1476" x2="1606" y1="95.8047" y2="95.8047"/>
+            <ellipse cx="1486" cy="106.8047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="95" x="1495" y="110.0151">get_next(): Tuple
+            </text>
+            <ellipse cx="1486" cy="119.6094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="69" x="1495" y="122.8198">close(): void
+            </text>
+        </a><!--MD5=[ec4f188eeabaeda1f84a31673f18e187]
+reverse link chainexception.ChainException to index.InvalidSelectionException-->
+        <path d="M407,136.9282 C407,155.8416 407,177.0999 407,195.2616 " fill="none"
+              id="chainexception.ChainException&lt;-index.InvalidSelectionException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="400.0001,136.8607,407,116.8607,414.0001,136.8606,400.0001,136.8607"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[3a39e422ea7a3b71719d9148863ed115]
+reverse link chainexception.ChainException to index.IndexException-->
+        <path d="M324.6761,125.233 C301.5942,136.6803 276.6307,149.4861 254,162 C235.2969,172.3421 215.4095,184.1336 197.1286,195.3099 "
+              fill="none" id="chainexception.ChainException&lt;-index.IndexException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="321.6663,118.9126,342.7035,116.3753,327.8402,131.4778,321.6663,118.9126"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4008f84e6ff5937a1ba6120134dd4780]
+reverse link chainexception.ChainException to index.UnknownIndexTypeException-->
+        <path d="M488.8626,125.3819 C533.4781,146.8451 588.7628,173.4411 634.5142,195.4508 " fill="none"
+              id="chainexception.ChainException&lt;-index.UnknownIndexTypeException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="485.7566,131.6556,470.7684,116.6772,491.8259,119.0396,485.7566,131.6556"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d0cea869a2842c21720b0d6d93bbea8a]
+reverse link iterator.Iterator to index.IndexScan-->
+        <path d="M1541,149.363 C1541,162.5636 1541,176.2948 1541,188.9119 " fill="none"
+              id="iterator.Iterator&lt;-index.IndexScan" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1534.0001,149.2925,1541,129.2925,1548.0001,149.2924,1534.0001,149.2925"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="842" y="323.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[6f3d3fb0f8013f1011f561880c2149fa]
+@startuml
+    namespace index {
+
+        class InvalidSelectionException [[../index/InvalidSelectionException.html]] {
+            +InvalidSelectionException()
+            +InvalidSelectionException(String)
+            +InvalidSelectionException(Exception, String)
+        }
+
+        class IndexUtils [[../index/IndexUtils.html]] {
+            {static} +BTree_scan(CondExpr[], IndexFile): IndexFileScan
+        }
+
+        class IndexException [[../index/IndexException.html]] {
+            +IndexException()
+            +IndexException(String)
+            +IndexException(Exception, String)
+        }
+
+        class UnknownIndexTypeException [[../index/UnknownIndexTypeException.html]] {
+            +UnknownIndexTypeException()
+            +UnknownIndexTypeException(String)
+            +UnknownIndexTypeException(Exception, String)
+        }
+
+        class IndexScan [[../index/IndexScan.html]] {
+            +perm_mat: FldSpec[]
+            +IndexScan(IndexType, String, String, AttrType[], short[], int, int, FldSpec[], CondExpr[], int, boolean)
+            +get_next(): Tuple
+            +close(): void
+        }
+
+        chainexception.ChainException <|- - InvalidSelectionException
+        chainexception.ChainException <|- - IndexException
+        chainexception.ChainException <|- - UnknownIndexTypeException
+        iterator.Iterator <|- - IndexScan
+    }
+
+    namespace chainexception {
+        class ChainException [[../chainexception/ChainException.html]] {
+            +prev: Exception
+        }
+    }
+
+    namespace iterator {
+        abstract class Iterator [[../iterator/Iterator.html]] {
+            +closeFlag: boolean
+            {abstract} +get_next(): Tuple
+            {abstract} +close(): void
+        }
+    }
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

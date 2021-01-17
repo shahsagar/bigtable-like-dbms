@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="1264px" preserveAspectRatio="none"
+     style="width:7270px;height:1264px;" version="1.1" viewBox="0 0 7270 1264" width="7270px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f6nagfzvb8g6j" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[0ed13126c106e7c587d6bd4e148c8c92]
+cluster iterator-->
+        <polygon fill="#FFFFFF" filter="url(#f6nagfzvb8g6j)"
+                 points="138.2383,296,203.2383,296,210.2383,318.2969,7248.2383,318.2969,7248.2383,1224,138.2383,1224,138.2383,296"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="138.2383" x2="210.2383" y1="318.2969" y2="318.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="59" x="142.2383" y="310.9951">iterator
+        </text><!--MD5=[ab80658c1fb3faec1b403bb153b4493b]
+cluster chainexception-->
+        <polygon fill="#FFFFFF" filter="url(#f6nagfzvb8g6j)"
+                 points="4152.2383,92.5,4278.2383,92.5,4285.2383,114.7969,4296.2383,114.7969,4296.2383,188.5,4152.2383,188.5,4152.2383,92.5"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="4152.2383" x2="4285.2383" y1="114.7969" y2="114.7969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="120" x="4156.2383" y="107.4951">chainexception
+        </text><!--MD5=[b9ab6c91daa042623ac722868ebc2597]
+cluster global-->
+        <polygon fill="#FFFFFF" filter="url(#f6nagfzvb8g6j)"
+                 points="223.2383,16,276.2383,16,283.2383,38.2969,659.2383,38.2969,659.2383,265,223.2383,265,223.2383,16"
+                 style="stroke: #000000; stroke-width: 1.5;"/>
+        <line style="stroke: #000000; stroke-width: 1.5;" x1="223.2383" x2="283.2383" y1="38.2969" y2="38.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs"
+              textLength="47" x="227.2383" y="30.9951">global
+        </text><!--MD5=[0454b2a328735a2abea7c7bd749c8a7c]
+class iterator.SortException-->
+        <a href="../iterator/SortException.html" target="_top" title="../iterator/SortException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/SortException.html" xlink:show="new"
+           xlink:title="../iterator/SortException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.SortException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="208" x="4780.2383" y="361"/>
+            <ellipse cx="4836.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M4839.4571,382.6406 Q4838.8789,382.9375 4838.2383,383.0781 Q4837.5977,383.2344 4836.8946,383.2344 Q4834.3946,383.2344 4833.0664,381.5938 Q4831.7539,379.9375 4831.7539,376.8125 Q4831.7539,373.6875 4833.0664,372.0313 Q4834.3946,370.375 4836.8946,370.375 Q4837.5977,370.375 4838.2383,370.5313 Q4838.8946,370.6875 4839.4571,370.9844 L4839.4571,373.7031 Q4838.8321,373.125 4838.2383,372.8594 Q4837.6446,372.5781 4837.0196,372.5781 Q4835.6758,372.5781 4834.9883,373.6563 Q4834.3008,374.7188 4834.3008,376.8125 Q4834.3008,378.9063 4834.9883,379.9844 Q4835.6758,381.0469 4837.0196,381.0469 Q4837.6446,381.0469 4838.2383,380.7813 Q4838.8321,380.5 4839.4571,379.9219 L4839.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="87"
+                  x="4856.9883" y="381.1543">SortException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="4781.2383" x2="4987.2383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="4781.2383" x2="4987.2383" y1="401" y2="401"/>
+            <ellipse cx="4791.2383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="120" x="4800.2383" y="415.2104">SortException(String)
+            </text>
+            <ellipse cx="4791.2383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="182" x="4800.2383" y="428.0151">SortException(Exception, String)
+            </text>
+        </a><!--MD5=[f2751ba620d67b9450d5b038328e41ff]
+class iterator.IoBuf-->
+        <a href="../iterator/IoBuf.html" target="_top" title="../iterator/IoBuf.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/IoBuf.html" xlink:show="new" xlink:title="../iterator/IoBuf.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="150.4375" id="iterator.IoBuf"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="212" x="146.2383" y="323"/>
+            <ellipse cx="232.4883" cy="339" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M235.4571,344.6406 Q234.8789,344.9375 234.2383,345.0781 Q233.5977,345.2344 232.8946,345.2344 Q230.3946,345.2344 229.0664,343.5938 Q227.7539,341.9375 227.7539,338.8125 Q227.7539,335.6875 229.0664,334.0313 Q230.3946,332.375 232.8946,332.375 Q233.5977,332.375 234.2383,332.5313 Q234.8946,332.6875 235.4571,332.9844 L235.4571,335.7031 Q234.8321,335.125 234.2383,334.8594 Q233.6446,334.5781 233.0196,334.5781 Q231.6758,334.5781 230.9883,335.6563 Q230.3008,336.7188 230.3008,338.8125 Q230.3008,340.9063 230.9883,341.9844 Q231.6758,343.0469 233.0196,343.0469 Q233.6446,343.0469 234.2383,342.7813 Q234.8321,342.5 235.4571,341.9219 L235.4571,344.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="31"
+                  x="252.9883" y="343.1543">IoBuf
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="147.2383" x2="357.2383" y1="355" y2="355"/>
+            <ellipse cx="157.2383" cy="366" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="103" x="166.2383" y="369.2104">WRITE_BUFFER: int
+            </text>
+            <ellipse cx="157.2383" cy="378.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="99" x="166.2383" y="382.0151">READ_BUFFER: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="147.2383" x2="357.2383" y1="388.6094" y2="388.6094"/>
+            <ellipse cx="157.2383" cy="399.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="68"
+                  x="166.2383" y="402.8198">IoBuf(): void
+            </text>
+            <ellipse cx="157.2383" cy="412.4141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="186" x="166.2383" y="415.6245">init(byte[], int, int, Heapfile): void
+            </text>
+            <ellipse cx="157.2383" cy="425.2188" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="88"
+                  x="166.2383" y="428.4292">Put(Tuple): void
+            </text>
+            <ellipse cx="157.2383" cy="438.0234" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98"
+                  x="166.2383" y="441.2339">Get(Tuple): Tuple
+            </text>
+            <ellipse cx="157.2383" cy="450.8281" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="68"
+                  x="166.2383" y="454.0386">flush(): long
+            </text>
+            <ellipse cx="157.2383" cy="463.6328" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="77"
+                  x="166.2383" y="466.8433">reread(): void
+            </text>
+        </a><!--MD5=[b0ecc7d2f56746be8636affc17cd54d4]
+class iterator.Iterator-->
+        <a href="../iterator/Iterator.html" target="_top" title="../iterator/Iterator.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/Iterator.html" xlink:show="new" xlink:title="../iterator/Iterator.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="112.0234" id="iterator.Iterator"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="272" x="963.2383" y="342"/>
+            <ellipse cx="1071.4883" cy="358" fill="#A9DCDF" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1071.5977,353.3438 L1070.4414,358.4219 L1072.7696,358.4219 L1071.5977,353.3438 Z M1070.1133,351.1094 L1073.0977,351.1094 L1076.4571,363.5 L1074.0039,363.5 L1073.2383,360.4375 L1069.9571,360.4375 L1069.2071,363.5 L1066.7696,363.5 L1070.1133,351.1094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="47" x="1091.9883" y="362.1543">Iterator
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="964.2383" x2="1234.2383" y1="374" y2="374"/>
+            <ellipse cx="974.2383" cy="385" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="106" x="983.2383" y="388.2104">closeFlag: boolean
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="964.2383" x2="1234.2383" y1="394.8047" y2="394.8047"/>
+            <ellipse cx="974.2383" cy="405.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="95" x="983.2383" y="409.0151">get_next(): Tuple
+            </text>
+            <ellipse cx="974.2383" cy="418.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="69" x="983.2383" y="421.8198">close(): void
+            </text>
+            <ellipse cx="974.2383" cy="431.4141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="246" x="983.2383" y="434.6245">get_buffer_pages(int, PageId[], byte[]): void
+            </text>
+            <ellipse cx="974.2383" cy="444.2188" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="211" x="983.2383" y="447.4292">free_buffer_pages(int, PageId[]): void
+            </text>
+        </a><!--MD5=[3fe375d989be0622ef96a219755dbd45]
+class iterator.UnknownKeyTypeException-->
+        <a href="../iterator/UnknownKeyTypeException.html" target="_top"
+           title="../iterator/UnknownKeyTypeException.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/UnknownKeyTypeException.html" xlink:show="new"
+           xlink:title="../iterator/UnknownKeyTypeException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="86.4141" id="iterator.UnknownKeyTypeException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="282" x="5023.2383" y="355"/>
+            <ellipse cx="5075.9883" cy="371" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M5078.9571,376.6406 Q5078.3789,376.9375 5077.7383,377.0781 Q5077.0977,377.2344 5076.3946,377.2344 Q5073.8946,377.2344 5072.5664,375.5938 Q5071.2539,373.9375 5071.2539,370.8125 Q5071.2539,367.6875 5072.5664,366.0313 Q5073.8946,364.375 5076.3946,364.375 Q5077.0977,364.375 5077.7383,364.5313 Q5078.3946,364.6875 5078.9571,364.9844 L5078.9571,367.7031 Q5078.3321,367.125 5077.7383,366.8594 Q5077.1446,366.5781 5076.5196,366.5781 Q5075.1758,366.5781 5074.4883,367.6563 Q5073.8008,368.7188 5073.8008,370.8125 Q5073.8008,372.9063 5074.4883,373.9844 Q5075.1758,375.0469 5076.5196,375.0469 Q5077.1446,375.0469 5077.7383,374.7813 Q5078.3321,374.5 5078.9571,373.9219 L5078.9571,376.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="168" x="5096.4883" y="375.1543">UnknownKeyTypeException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="5024.2383" x2="5304.2383" y1="387" y2="387"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="5024.2383" x2="5304.2383" y1="395" y2="395"/>
+            <ellipse cx="5034.2383" cy="406" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="160" x="5043.2383" y="409.2104">UnknownKeyTypeException()
+            </text>
+            <ellipse cx="5034.2383" cy="418.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="194" x="5043.2383" y="422.0151">UnknownKeyTypeException(String)
+            </text>
+            <ellipse cx="5034.2383" cy="431.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="256" x="5043.2383" y="434.8198">UnknownKeyTypeException(Exception, String)
+            </text>
+        </a><!--MD5=[fbe60b4df91c4d92553baad62b4953b6]
+class iterator.DuplElim-->
+        <a href="../iterator/DuplElim.html" target="_top" title="../iterator/DuplElim.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/DuplElim.html" xlink:show="new" xlink:title="../iterator/DuplElim.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="86.4141" id="iterator.DuplElim"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="347" x="1488.7383" y="653"/>
+            <ellipse cx="1631.4883" cy="669" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1634.4571,674.6406 Q1633.8789,674.9375 1633.2383,675.0781 Q1632.5977,675.2344 1631.8946,675.2344 Q1629.3946,675.2344 1628.0664,673.5938 Q1626.7539,671.9375 1626.7539,668.8125 Q1626.7539,665.6875 1628.0664,664.0313 Q1629.3946,662.375 1631.8946,662.375 Q1632.5977,662.375 1633.2383,662.5313 Q1633.8946,662.6875 1634.4571,662.9844 L1634.4571,665.7031 Q1633.8321,665.125 1633.2383,664.8594 Q1632.6446,664.5781 1632.0196,664.5781 Q1630.6758,664.5781 1629.9883,665.6563 Q1629.3008,666.7188 1629.3008,668.8125 Q1629.3008,670.9063 1629.9883,671.9844 Q1630.6758,673.0469 1632.0196,673.0469 Q1632.6446,673.0469 1633.2383,672.7813 Q1633.8321,672.5 1634.4571,671.9219 L1634.4571,674.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="53"
+                  x="1651.9883" y="673.1543">DuplElim
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1489.7383" x2="1834.7383" y1="685" y2="685"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1489.7383" x2="1834.7383" y1="693" y2="693"/>
+            <ellipse cx="1499.7383" cy="704" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="321" x="1508.7383" y="707.2104">DuplElim(AttrType[], short, short[], Iterator, int,
+                boolean)
+            </text>
+            <ellipse cx="1499.7383" cy="716.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95"
+                  x="1508.7383" y="720.0151">get_next(): Tuple
+            </text>
+            <ellipse cx="1499.7383" cy="729.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="1508.7383" y="732.8198">close(): void
+            </text>
+        </a><!--MD5=[e943496de2fe8a87bccf507daa1cbf97]
+class iterator.SortMerge-->
+        <a href="../iterator/SortMerge.html" target="_top" title="../iterator/SortMerge.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/SortMerge.html" xlink:show="new" xlink:title="../iterator/SortMerge.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="86.4141" id="iterator.SortMerge"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="887" x="146.7383" y="653"/>
+            <ellipse cx="553.4883" cy="669" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M556.4571,674.6406 Q555.8789,674.9375 555.2383,675.0781 Q554.5977,675.2344 553.8946,675.2344 Q551.3946,675.2344 550.0664,673.5938 Q548.7539,671.9375 548.7539,668.8125 Q548.7539,665.6875 550.0664,664.0313 Q551.3946,662.375 553.8946,662.375 Q554.5977,662.375 555.2383,662.5313 Q555.8946,662.6875 556.4571,662.9844 L556.4571,665.7031 Q555.8321,665.125 555.2383,664.8594 Q554.6446,664.5781 554.0196,664.5781 Q552.6758,664.5781 551.9883,665.6563 Q551.3008,666.7188 551.3008,668.8125 Q551.3008,670.9063 551.9883,671.9844 Q552.6758,673.0469 554.0196,673.0469 Q554.6446,673.0469 555.2383,672.7813 Q555.8321,672.5 556.4571,671.9219 L556.4571,674.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="65"
+                  x="573.9883" y="673.1543">SortMerge
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="147.7383" x2="1032.7383" y1="685" y2="685"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="147.7383" x2="1032.7383" y1="693" y2="693"/>
+            <ellipse cx="157.7383" cy="704" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="861" x="166.7383" y="707.2104">SortMerge(AttrType[], int, short[], AttrType[], int,
+                short[], int, int, int, int, int, Iterator, Iterator, boolean, boolean, TupleOrder, CondExpr[],
+                FldSpec[], int)
+            </text>
+            <ellipse cx="157.7383" cy="716.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95"
+                  x="166.7383" y="720.0151">get_next(): Tuple
+            </text>
+            <ellipse cx="157.7383" cy="729.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="166.7383" y="732.8198">close(): void
+            </text>
+        </a><!--MD5=[94d123850c435edc7746e8b6d5a6c86e]
+class iterator.Sort-->
+        <a href="../iterator/Sort.html" target="_top" title="../iterator/Sort.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/Sort.html" xlink:show="new" xlink:title="../iterator/Sort.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="86.4141" id="iterator.Sort"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="385" x="1068.7383" y="653"/>
+            <ellipse cx="1243.9883" cy="669" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1246.9571,674.6406 Q1246.3789,674.9375 1245.7383,675.0781 Q1245.0977,675.2344 1244.3946,675.2344 Q1241.8946,675.2344 1240.5664,673.5938 Q1239.2539,671.9375 1239.2539,668.8125 Q1239.2539,665.6875 1240.5664,664.0313 Q1241.8946,662.375 1244.3946,662.375 Q1245.0977,662.375 1245.7383,662.5313 Q1246.3946,662.6875 1246.9571,662.9844 L1246.9571,665.7031 Q1246.3321,665.125 1245.7383,664.8594 Q1245.1446,664.5781 1244.5196,664.5781 Q1243.1758,664.5781 1242.4883,665.6563 Q1241.8008,666.7188 1241.8008,668.8125 Q1241.8008,670.9063 1242.4883,671.9844 Q1243.1758,673.0469 1244.5196,673.0469 Q1245.1446,673.0469 1245.7383,672.7813 Q1246.3321,672.5 1246.9571,671.9219 L1246.9571,674.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="26"
+                  x="1264.4883" y="673.1543">Sort
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1069.7383" x2="1452.7383" y1="685" y2="685"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1069.7383" x2="1452.7383" y1="693" y2="693"/>
+            <ellipse cx="1079.7383" cy="704" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="359" x="1088.7383" y="707.2104">Sort(AttrType[], short, short[], Iterator, int,
+                TupleOrder, int, int)
+            </text>
+            <ellipse cx="1079.7383" cy="716.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95"
+                  x="1088.7383" y="720.0151">get_next(): Tuple
+            </text>
+            <ellipse cx="1079.7383" cy="729.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="1088.7383" y="732.8198">close(): void
+            </text>
+        </a><!--MD5=[14de2b80f1c3092258029f484c37c7c6]
+class iterator.FileScan-->
+        <a href="../iterator/FileScan.html" target="_top" title="../iterator/FileScan.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/FileScan.html" xlink:show="new" xlink:title="../iterator/FileScan.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="99.2188" id="iterator.FileScan"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="414" x="1871.2383" y="646.5"/>
+            <ellipse cx="2047.9883" cy="662.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2050.9571,668.1406 Q2050.3789,668.4375 2049.7383,668.5781 Q2049.0977,668.7344 2048.3946,668.7344 Q2045.8946,668.7344 2044.5664,667.0938 Q2043.2539,665.4375 2043.2539,662.3125 Q2043.2539,659.1875 2044.5664,657.5313 Q2045.8946,655.875 2048.3946,655.875 Q2049.0977,655.875 2049.7383,656.0313 Q2050.3946,656.1875 2050.9571,656.4844 L2050.9571,659.2031 Q2050.3321,658.625 2049.7383,658.3594 Q2049.1446,658.0781 2048.5196,658.0781 Q2047.1758,658.0781 2046.4883,659.1563 Q2045.8008,660.2188 2045.8008,662.3125 Q2045.8008,664.4063 2046.4883,665.4844 Q2047.1758,666.5469 2048.5196,666.5469 Q2049.1446,666.5469 2049.7383,666.2813 Q2050.3321,666 2050.9571,665.4219 L2050.9571,668.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="52"
+                  x="2068.4883" y="666.6543">FileScan
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1872.2383" x2="2284.2383" y1="678.5" y2="678.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1872.2383" x2="2284.2383" y1="686.5" y2="686.5"/>
+            <ellipse cx="1882.2383" cy="697.5" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="388" x="1891.2383" y="700.7104">FileScan(String, AttrType[], short[], short, int,
+                FldSpec[], CondExpr[])
+            </text>
+            <ellipse cx="1882.2383" cy="710.3047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98"
+                  x="1891.2383" y="713.5151">show(): FldSpec[]
+            </text>
+            <ellipse cx="1882.2383" cy="723.1094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95"
+                  x="1891.2383" y="726.3198">get_next(): Tuple
+            </text>
+            <ellipse cx="1882.2383" cy="735.9141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="1891.2383" y="739.1245">close(): void
+            </text>
+        </a><!--MD5=[a5948c4d5224638377929e572f95cae0]
+class iterator.FileScanException-->
+        <a href="../iterator/FileScanException.html" target="_top" title="../iterator/FileScanException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/FileScanException.html" xlink:show="new"
+           xlink:title="../iterator/FileScanException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.FileScanException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="231" x="5340.7383" y="361"/>
+            <ellipse cx="5395.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M5398.4571,382.6406 Q5397.8789,382.9375 5397.2383,383.0781 Q5396.5977,383.2344 5395.8946,383.2344 Q5393.3946,383.2344 5392.0664,381.5938 Q5390.7539,379.9375 5390.7539,376.8125 Q5390.7539,373.6875 5392.0664,372.0313 Q5393.3946,370.375 5395.8946,370.375 Q5396.5977,370.375 5397.2383,370.5313 Q5397.8946,370.6875 5398.4571,370.9844 L5398.4571,373.7031 Q5397.8321,373.125 5397.2383,372.8594 Q5396.6446,372.5781 5396.0196,372.5781 Q5394.6758,372.5781 5393.9883,373.6563 Q5393.3008,374.7188 5393.3008,376.8125 Q5393.3008,378.9063 5393.9883,379.9844 Q5394.6758,381.0469 5396.0196,381.0469 Q5396.6446,381.0469 5397.2383,380.7813 Q5397.8321,380.5 5398.4571,379.9219 L5398.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="113" x="5415.9883" y="381.1543">FileScanException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="5341.7383" x2="5570.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="5341.7383" x2="5570.7383" y1="401" y2="401"/>
+            <ellipse cx="5351.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="143" x="5360.7383" y="415.2104">FileScanException(String)
+            </text>
+            <ellipse cx="5351.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="205" x="5360.7383" y="428.0151">FileScanException(Exception, String)
+            </text>
+        </a><!--MD5=[01a433db84ed0ab7ff2413af5d43039c]
+class iterator.UnknowAttrType-->
+        <a href="../iterator/UnknowAttrType.html" target="_top" title="../iterator/UnknowAttrType.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/UnknowAttrType.html" xlink:show="new"
+           xlink:title="../iterator/UnknowAttrType.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.UnknowAttrType"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="221" x="5606.7383" y="361"/>
+            <ellipse cx="5662.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M5665.4571,382.6406 Q5664.8789,382.9375 5664.2383,383.0781 Q5663.5977,383.2344 5662.8946,383.2344 Q5660.3946,383.2344 5659.0664,381.5938 Q5657.7539,379.9375 5657.7539,376.8125 Q5657.7539,373.6875 5659.0664,372.0313 Q5660.3946,370.375 5662.8946,370.375 Q5663.5977,370.375 5664.2383,370.5313 Q5664.8946,370.6875 5665.4571,370.9844 L5665.4571,373.7031 Q5664.8321,373.125 5664.2383,372.8594 Q5663.6446,372.5781 5663.0196,372.5781 Q5661.6758,372.5781 5660.9883,373.6563 Q5660.3008,374.7188 5660.3008,376.8125 Q5660.3008,378.9063 5660.9883,379.9844 Q5661.6758,381.0469 5663.0196,381.0469 Q5663.6446,381.0469 5664.2383,380.7813 Q5664.8321,380.5 5665.4571,379.9219 L5665.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="101" x="5682.9883" y="381.1543">UnknowAttrType
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="5607.7383" x2="5826.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="5607.7383" x2="5826.7383" y1="401" y2="401"/>
+            <ellipse cx="5617.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="133" x="5626.7383" y="415.2104">UnknowAttrType(String)
+            </text>
+            <ellipse cx="5617.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="195" x="5626.7383" y="428.0151">UnknowAttrType(Exception, String)
+            </text>
+        </a><!--MD5=[a5a9e306c1d3c993667d05b6e3bd6148]
+class iterator.IteratorBMException-->
+        <a href="../iterator/IteratorBMException.html" target="_top" title="../iterator/IteratorBMException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/IteratorBMException.html" xlink:show="new"
+           xlink:title="../iterator/IteratorBMException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.IteratorBMException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="243" x="5862.7383" y="361"/>
+            <ellipse cx="5916.9883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M5919.9571,382.6406 Q5919.3789,382.9375 5918.7383,383.0781 Q5918.0977,383.2344 5917.3946,383.2344 Q5914.8946,383.2344 5913.5664,381.5938 Q5912.2539,379.9375 5912.2539,376.8125 Q5912.2539,373.6875 5913.5664,372.0313 Q5914.8946,370.375 5917.3946,370.375 Q5918.0977,370.375 5918.7383,370.5313 Q5919.3946,370.6875 5919.9571,370.9844 L5919.9571,373.7031 Q5919.3321,373.125 5918.7383,372.8594 Q5918.1446,372.5781 5917.5196,372.5781 Q5916.1758,372.5781 5915.4883,373.6563 Q5914.8008,374.7188 5914.8008,376.8125 Q5914.8008,378.9063 5915.4883,379.9844 Q5916.1758,381.0469 5917.5196,381.0469 Q5918.1446,381.0469 5918.7383,380.7813 Q5919.3321,380.5 5919.9571,379.9219 L5919.9571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="126" x="5937.4883" y="381.1543">IteratorBMException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="5863.7383" x2="6104.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="5863.7383" x2="6104.7383" y1="401" y2="401"/>
+            <ellipse cx="5873.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="155" x="5882.7383" y="415.2104">IteratorBMException(String)
+            </text>
+            <ellipse cx="5873.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="217" x="5882.7383" y="428.0151">IteratorBMException(Exception, String)
+            </text>
+        </a><!--MD5=[ac8538e89fb04c20283c81e35308813d]
+class iterator.NestedLoopException-->
+        <a href="../iterator/NestedLoopException.html" target="_top" title="../iterator/NestedLoopException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/NestedLoopException.html" xlink:show="new"
+           xlink:title="../iterator/NestedLoopException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.NestedLoopException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="251" x="6140.7383" y="361"/>
+            <ellipse cx="6193.9883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M6196.9571,382.6406 Q6196.3789,382.9375 6195.7383,383.0781 Q6195.0977,383.2344 6194.3946,383.2344 Q6191.8946,383.2344 6190.5664,381.5938 Q6189.2539,379.9375 6189.2539,376.8125 Q6189.2539,373.6875 6190.5664,372.0313 Q6191.8946,370.375 6194.3946,370.375 Q6195.0977,370.375 6195.7383,370.5313 Q6196.3946,370.6875 6196.9571,370.9844 L6196.9571,373.7031 Q6196.3321,373.125 6195.7383,372.8594 Q6195.1446,372.5781 6194.5196,372.5781 Q6193.1758,372.5781 6192.4883,373.6563 Q6191.8008,374.7188 6191.8008,376.8125 Q6191.8008,378.9063 6192.4883,379.9844 Q6193.1758,381.0469 6194.5196,381.0469 Q6195.1446,381.0469 6195.7383,380.7813 Q6196.3321,380.5 6196.9571,379.9219 L6196.9571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="136" x="6214.4883" y="381.1543">NestedLoopException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="6141.7383" x2="6390.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="6141.7383" x2="6390.7383" y1="401" y2="401"/>
+            <ellipse cx="6151.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="163" x="6160.7383" y="415.2104">NestedLoopException(String)
+            </text>
+            <ellipse cx="6151.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="225" x="6160.7383" y="428.0151">NestedLoopException(Exception, String)
+            </text>
+        </a><!--MD5=[a33d57f7cf7053eab6dfed989f033e77]
+class iterator.DuplElimException-->
+        <a href="../iterator/DuplElimException.html" target="_top" title="../iterator/DuplElimException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/DuplElimException.html" xlink:show="new"
+           xlink:title="../iterator/DuplElimException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.DuplElimException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="233" x="1270.7383" y="361"/>
+            <ellipse cx="1325.9883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1328.9571,382.6406 Q1328.3789,382.9375 1327.7383,383.0781 Q1327.0977,383.2344 1326.3946,383.2344 Q1323.8946,383.2344 1322.5664,381.5938 Q1321.2539,379.9375 1321.2539,376.8125 Q1321.2539,373.6875 1322.5664,372.0313 Q1323.8946,370.375 1326.3946,370.375 Q1327.0977,370.375 1327.7383,370.5313 Q1328.3946,370.6875 1328.9571,370.9844 L1328.9571,373.7031 Q1328.3321,373.125 1327.7383,372.8594 Q1327.1446,372.5781 1326.5196,372.5781 Q1325.1758,372.5781 1324.4883,373.6563 Q1323.8008,374.7188 1323.8008,376.8125 Q1323.8008,378.9063 1324.4883,379.9844 Q1325.1758,381.0469 1326.5196,381.0469 Q1327.1446,381.0469 1327.7383,380.7813 Q1328.3321,380.5 1328.9571,379.9219 L1328.9571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="114" x="1346.4883" y="381.1543">DuplElimException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1271.7383" x2="1502.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1271.7383" x2="1502.7383" y1="401" y2="401"/>
+            <ellipse cx="1281.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="145" x="1290.7383" y="415.2104">DuplElimException(String)
+            </text>
+            <ellipse cx="1281.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="207" x="1290.7383" y="428.0151">DuplElimException(Exception, String)
+            </text>
+        </a><!--MD5=[248ff3c5e7a19e42ba9756bf7bf8b0a5]
+class iterator.RelSpec-->
+        <a href="../iterator/RelSpec.html" target="_top" title="../iterator/RelSpec.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/RelSpec.html" xlink:show="new" xlink:title="../iterator/RelSpec.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="99.2188" id="iterator.RelSpec"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="94" x="2441.2383" y="1117"/>
+            <ellipse cx="2461.6383" cy="1133" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2464.6071,1138.6406 Q2464.0289,1138.9375 2463.3883,1139.0781 Q2462.7477,1139.2344 2462.0446,1139.2344 Q2459.5446,1139.2344 2458.2164,1137.5938 Q2456.9039,1135.9375 2456.9039,1132.8125 Q2456.9039,1129.6875 2458.2164,1128.0313 Q2459.5446,1126.375 2462.0446,1126.375 Q2462.7477,1126.375 2463.3883,1126.5313 Q2464.0446,1126.6875 2464.6071,1126.9844 L2464.6071,1129.7031 Q2463.9821,1129.125 2463.3883,1128.8594 Q2462.7946,1128.5781 2462.1696,1128.5781 Q2460.8258,1128.5781 2460.1383,1129.6563 Q2459.4508,1130.7188 2459.4508,1132.8125 Q2459.4508,1134.9063 2460.1383,1135.9844 Q2460.8258,1137.0469 2462.1696,1137.0469 Q2462.7946,1137.0469 2463.3883,1136.7813 Q2463.9821,1136.5 2464.6071,1135.9219 L2464.6071,1138.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="50"
+                  x="2476.8383" y="1137.1543">RelSpec
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2442.2383" x2="2534.2383" y1="1149" y2="1149"/>
+            <ellipse cx="2452.2383" cy="1160" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="41"
+                  x="2461.2383" y="1163.2104">key: int
+            </text>
+            <ellipse cx="2452.2383" cy="1172.8047" fill="none" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="52" x="2461.2383" y="1176.0151">outer: int
+            </text>
+            <ellipse cx="2452.2383" cy="1185.6094" fill="none" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="68" x="2461.2383" y="1188.8198">innerRel: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2442.2383" x2="2534.2383" y1="1195.4141"
+                  y2="1195.4141"/>
+            <ellipse cx="2452.2383" cy="1206.4141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="67"
+                  x="2461.2383" y="1209.6245">RelSpec(int)
+            </text>
+        </a><!--MD5=[02b6416304bcb0f13187427713719ed6]
+class iterator.NestedLoopsJoins-->
+        <a href="../iterator/NestedLoopsJoins.html" target="_top" title="../iterator/NestedLoopsJoins.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/NestedLoopsJoins.html" xlink:show="new"
+           xlink:title="../iterator/NestedLoopsJoins.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="86.4141" id="iterator.NestedLoopsJoins"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="725" x="2320.7383" y="653"/>
+            <ellipse cx="2623.4883" cy="669" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2626.4571,674.6406 Q2625.8789,674.9375 2625.2383,675.0781 Q2624.5977,675.2344 2623.8946,675.2344 Q2621.3946,675.2344 2620.0664,673.5938 Q2618.7539,671.9375 2618.7539,668.8125 Q2618.7539,665.6875 2620.0664,664.0313 Q2621.3946,662.375 2623.8946,662.375 Q2624.5977,662.375 2625.2383,662.5313 Q2625.8946,662.6875 2626.4571,662.9844 L2626.4571,665.7031 Q2625.8321,665.125 2625.2383,664.8594 Q2624.6446,664.5781 2624.0196,664.5781 Q2622.6758,664.5781 2621.9883,665.6563 Q2621.3008,666.7188 2621.3008,668.8125 Q2621.3008,670.9063 2621.9883,671.9844 Q2622.6758,673.0469 2624.0196,673.0469 Q2624.6446,673.0469 2625.2383,672.7813 Q2625.8321,672.5 2626.4571,671.9219 L2626.4571,674.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="111" x="2643.9883" y="673.1543">NestedLoopsJoins
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2321.7383" x2="3044.7383" y1="685" y2="685"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2321.7383" x2="3044.7383" y1="693" y2="693"/>
+            <ellipse cx="2331.7383" cy="704" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="699" x="2340.7383" y="707.2104">NestedLoopsJoins(AttrType[], int, short[], AttrType[],
+                int, short[], int, Iterator, String, CondExpr[], CondExpr[], FldSpec[], int)
+            </text>
+            <ellipse cx="2331.7383" cy="716.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95"
+                  x="2340.7383" y="720.0151">get_next(): Tuple
+            </text>
+            <ellipse cx="2331.7383" cy="729.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69"
+                  x="2340.7383" y="732.8198">close(): void
+            </text>
+        </a><!--MD5=[b0189ef754fda6496e7069bc69e22d17]
+class iterator.FldSpec-->
+        <a href="../iterator/FldSpec.html" target="_top" title="../iterator/FldSpec.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/FldSpec.html" xlink:show="new" xlink:title="../iterator/FldSpec.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.FldSpec"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="145" x="2415.7383" y="904"/>
+            <ellipse cx="2459.5383" cy="920" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2462.5071,925.6406 Q2461.9289,925.9375 2461.2883,926.0781 Q2460.6477,926.2344 2459.9446,926.2344 Q2457.4446,926.2344 2456.1164,924.5938 Q2454.8039,922.9375 2454.8039,919.8125 Q2454.8039,916.6875 2456.1164,915.0313 Q2457.4446,913.375 2459.9446,913.375 Q2460.6477,913.375 2461.2883,913.5313 Q2461.9446,913.6875 2462.5071,913.9844 L2462.5071,916.7031 Q2461.8821,916.125 2461.2883,915.8594 Q2460.6946,915.5781 2460.0696,915.5781 Q2458.7258,915.5781 2458.0383,916.6563 Q2457.3508,917.7188 2457.3508,919.8125 Q2457.3508,921.9063 2458.0383,922.9844 Q2458.7258,924.0469 2460.0696,924.0469 Q2460.6946,924.0469 2461.2883,923.7813 Q2461.8821,923.5 2462.5071,922.9219 L2462.5071,925.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49"
+                  x="2479.9383" y="924.1543">FldSpec
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2416.7383" x2="2559.7383" y1="936" y2="936"/>
+            <ellipse cx="2426.7383" cy="947" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="55"
+                  x="2435.7383" y="950.2104">offset: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2416.7383" x2="2559.7383" y1="956.8047"
+                  y2="956.8047"/>
+            <ellipse cx="2426.7383" cy="967.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="119" x="2435.7383" y="971.0151">FldSpec(RelSpec, int)
+            </text>
+        </a><!--MD5=[63ec6ac9ec73f84d5447010e01ad3b53]
+class iterator.PredEval-->
+        <a href="../iterator/PredEval.html" target="_top" title="../iterator/PredEval.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/PredEval.html" xlink:show="new" xlink:title="../iterator/PredEval.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="60.8047" id="iterator.PredEval"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="376" x="6427.2383" y="367.5"/>
+            <ellipse cx="6583.9883" cy="383.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M6586.9571,389.1406 Q6586.3789,389.4375 6585.7383,389.5781 Q6585.0977,389.7344 6584.3946,389.7344 Q6581.8946,389.7344 6580.5664,388.0938 Q6579.2539,386.4375 6579.2539,383.3125 Q6579.2539,380.1875 6580.5664,378.5313 Q6581.8946,376.875 6584.3946,376.875 Q6585.0977,376.875 6585.7383,377.0313 Q6586.3946,377.1875 6586.9571,377.4844 L6586.9571,380.2031 Q6586.3321,379.625 6585.7383,379.3594 Q6585.1446,379.0781 6584.5196,379.0781 Q6583.1758,379.0781 6582.4883,380.1563 Q6581.8008,381.2188 6581.8008,383.3125 Q6581.8008,385.4063 6582.4883,386.4844 Q6583.1758,387.5469 6584.5196,387.5469 Q6585.1446,387.5469 6585.7383,387.2813 Q6586.3321,387 6586.9571,386.4219 L6586.9571,389.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="54"
+                  x="6604.4883" y="387.6543">PredEval
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="6428.2383" x2="6802.2383" y1="399.5" y2="399.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="6428.2383" x2="6802.2383" y1="407.5" y2="407.5"/>
+            <ellipse cx="6438.2383" cy="418.5" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="350" x="6447.2383" y="421.7104">Eval(CondExpr[], Tuple, Tuple,
+                AttrType[], AttrType[]): boolean
+            </text>
+        </a><!--MD5=[392788df770d0fde4f8514b5c637c64f]
+class iterator.Operand-->
+        <a href="../iterator/Operand.html" target="_top" title="../iterator/Operand.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/Operand.html" xlink:show="new" xlink:title="../iterator/Operand.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="86.4141" id="iterator.Operand"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="101" x="3530.7383" y="653"/>
+            <ellipse cx="3552.4883" cy="669" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M3555.4571,674.6406 Q3554.8789,674.9375 3554.2383,675.0781 Q3553.5977,675.2344 3552.8946,675.2344 Q3550.3946,675.2344 3549.0664,673.5938 Q3547.7539,671.9375 3547.7539,668.8125 Q3547.7539,665.6875 3549.0664,664.0313 Q3550.3946,662.375 3552.8946,662.375 Q3553.5977,662.375 3554.2383,662.5313 Q3554.8946,662.6875 3555.4571,662.9844 L3555.4571,665.7031 Q3554.8321,665.125 3554.2383,664.8594 Q3553.6446,664.5781 3553.0196,664.5781 Q3551.6758,664.5781 3550.9883,665.6563 Q3550.3008,666.7188 3550.3008,668.8125 Q3550.3008,670.9063 3550.9883,671.9844 Q3551.6758,673.0469 3553.0196,673.0469 Q3553.6446,673.0469 3554.2383,672.7813 Q3554.8321,672.5 3555.4571,671.9219 L3555.4571,674.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="54"
+                  x="3567.9883" y="673.1543">Operand
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3531.7383" x2="3630.7383" y1="685" y2="685"/>
+            <ellipse cx="3541.7383" cy="696" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="75"
+                  x="3550.7383" y="699.2104">string: String
+            </text>
+            <ellipse cx="3541.7383" cy="708.8047" fill="none" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="62"
+                  x="3550.7383" y="712.0151">integer: int
+            </text>
+            <ellipse cx="3541.7383" cy="721.6094" fill="none" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="55"
+                  x="3550.7383" y="724.8198">real: float
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3531.7383" x2="3630.7383" y1="731.4141"
+                  y2="731.4141"/>
+        </a><!--MD5=[67541019b769c6e46fe5bb76fe99d45d]
+class iterator.SpoofIbuf-->
+        <a href="../iterator/SpoofIbuf.html" target="_top" title="../iterator/SpoofIbuf.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/SpoofIbuf.html" xlink:show="new" xlink:title="../iterator/SpoofIbuf.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="99.2188" id="iterator.SpoofIbuf"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="234" x="393.2383" y="348.5"/>
+            <ellipse cx="476.4883" cy="364.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M479.4571,370.1406 Q478.8789,370.4375 478.2383,370.5781 Q477.5977,370.7344 476.8946,370.7344 Q474.3946,370.7344 473.0664,369.0938 Q471.7539,367.4375 471.7539,364.3125 Q471.7539,361.1875 473.0664,359.5313 Q474.3946,357.875 476.8946,357.875 Q477.5977,357.875 478.2383,358.0313 Q478.8946,358.1875 479.4571,358.4844 L479.4571,361.2031 Q478.8321,360.625 478.2383,360.3594 Q477.6446,360.0781 477.0196,360.0781 Q475.6758,360.0781 474.9883,361.1563 Q474.3008,362.2188 474.3008,364.3125 Q474.3008,366.4063 474.9883,367.4844 Q475.6758,368.5469 477.0196,368.5469 Q477.6446,368.5469 478.2383,368.2813 Q478.8321,368 479.4571,367.4219 L479.4571,370.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="59"
+                  x="496.9883" y="368.6543">SpoofIbuf
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="394.2383" x2="626.2383" y1="380.5" y2="380.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="394.2383" x2="626.2383" y1="388.5" y2="388.5"/>
+            <ellipse cx="404.2383" cy="399.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93"
+                  x="413.2383" y="402.7104">SpoofIbuf(): void
+            </text>
+            <ellipse cx="404.2383" cy="412.3047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="208" x="413.2383" y="415.5151">init(Heapfile, byte[], int, int, int): void
+            </text>
+            <ellipse cx="404.2383" cy="425.1094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98"
+                  x="413.2383" y="428.3198">Get(Tuple): Tuple
+            </text>
+            <ellipse cx="404.2383" cy="437.9141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="413.2383" y="441.1245">empty(): boolean
+            </text>
+        </a><!--MD5=[f9b6daa03bbf03f1734871efbf47abcb]
+class iterator.CondExpr-->
+        <a href="../iterator/CondExpr.html" target="_top" title="../iterator/CondExpr.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/CondExpr.html" xlink:show="new" xlink:title="../iterator/CondExpr.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="86.4141" id="iterator.CondExpr"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="119" x="3502.7383" y="355"/>
+            <ellipse cx="3530.3383" cy="371" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M3533.3071,376.6406 Q3532.7289,376.9375 3532.0883,377.0781 Q3531.4477,377.2344 3530.7446,377.2344 Q3528.2446,377.2344 3526.9164,375.5938 Q3525.6039,373.9375 3525.6039,370.8125 Q3525.6039,367.6875 3526.9164,366.0313 Q3528.2446,364.375 3530.7446,364.375 Q3531.4477,364.375 3532.0883,364.5313 Q3532.7446,364.6875 3533.3071,364.9844 L3533.3071,367.7031 Q3532.6821,367.125 3532.0883,366.8594 Q3531.4946,366.5781 3530.8696,366.5781 Q3529.5258,366.5781 3528.8383,367.6563 Q3528.1508,368.7188 3528.1508,370.8125 Q3528.1508,372.9063 3528.8383,373.9844 Q3529.5258,375.0469 3530.8696,375.0469 Q3531.4946,375.0469 3532.0883,374.7813 Q3532.6821,374.5 3533.3071,373.9219 L3533.3071,376.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="59"
+                  x="3547.1383" y="375.1543">CondExpr
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3503.7383" x2="3620.7383" y1="387" y2="387"/>
+            <ellipse cx="3513.7383" cy="398" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93"
+                  x="3522.7383" y="401.2104">op: AttrOperator
+            </text>
+            <ellipse cx="3513.7383" cy="410.8047" fill="none" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="86"
+                  x="3522.7383" y="414.0151">type1: AttrType
+            </text>
+            <ellipse cx="3513.7383" cy="423.6094" fill="none" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="86"
+                  x="3522.7383" y="426.8198">type2: AttrType
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3503.7383" x2="3620.7383" y1="433.4141"
+                  y2="433.4141"/>
+        </a><!--MD5=[4b3e71e16a78547070951a661fc6f6f1]
+class iterator.JoinsException-->
+        <a href="../iterator/JoinsException.html" target="_top" title="../iterator/JoinsException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/JoinsException.html" xlink:show="new"
+           xlink:title="../iterator/JoinsException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.JoinsException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="211" x="1538.7383" y="361"/>
+            <ellipse cx="1594.9883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1597.9571,382.6406 Q1597.3789,382.9375 1596.7383,383.0781 Q1596.0977,383.2344 1595.3946,383.2344 Q1592.8946,383.2344 1591.5664,381.5938 Q1590.2539,379.9375 1590.2539,376.8125 Q1590.2539,373.6875 1591.5664,372.0313 Q1592.8946,370.375 1595.3946,370.375 Q1596.0977,370.375 1596.7383,370.5313 Q1597.3946,370.6875 1597.9571,370.9844 L1597.9571,373.7031 Q1597.3321,373.125 1596.7383,372.8594 Q1596.1446,372.5781 1595.5196,372.5781 Q1594.1758,372.5781 1593.4883,373.6563 Q1592.8008,374.7188 1592.8008,376.8125 Q1592.8008,378.9063 1593.4883,379.9844 Q1594.1758,381.0469 1595.5196,381.0469 Q1596.1446,381.0469 1596.7383,380.7813 Q1597.3321,380.5 1597.9571,379.9219 L1597.9571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="90"
+                  x="1615.4883" y="381.1543">JoinsException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1539.7383" x2="1748.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1539.7383" x2="1748.7383" y1="401" y2="401"/>
+            <ellipse cx="1549.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="123" x="1558.7383" y="415.2104">JoinsException(String)
+            </text>
+            <ellipse cx="1549.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="185" x="1558.7383" y="428.0151">JoinsException(Exception, String)
+            </text>
+        </a><!--MD5=[7a512106340eab93943034ab6c897c26]
+class iterator.pnodeSplayPQ-->
+        <a href="../iterator/pnodeSplayPQ.html" target="_top" title="../iterator/pnodeSplayPQ.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/pnodeSplayPQ.html" xlink:show="new"
+           xlink:title="../iterator/pnodeSplayPQ.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="99.2188" id="iterator.pnodeSplayPQ"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="257" x="3080.7383" y="646.5"/>
+            <ellipse cx="3159.9883" cy="662.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M3162.9571,668.1406 Q3162.3789,668.4375 3161.7383,668.5781 Q3161.0977,668.7344 3160.3946,668.7344 Q3157.8946,668.7344 3156.5664,667.0938 Q3155.2539,665.4375 3155.2539,662.3125 Q3155.2539,659.1875 3156.5664,657.5313 Q3157.8946,655.875 3160.3946,655.875 Q3161.0977,655.875 3161.7383,656.0313 Q3162.3946,656.1875 3162.9571,656.4844 L3162.9571,659.2031 Q3162.3321,658.625 3161.7383,658.3594 Q3161.1446,658.0781 3160.5196,658.0781 Q3159.1758,658.0781 3158.4883,659.1563 Q3157.8008,660.2188 3157.8008,662.3125 Q3157.8008,664.4063 3158.4883,665.4844 Q3159.1758,666.5469 3160.5196,666.5469 Q3161.1446,666.5469 3161.7383,666.2813 Q3162.3321,666 3162.9571,665.4219 L3162.9571,668.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="90"
+                  x="3180.4883" y="666.6543">pnodeSplayPQ
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3081.7383" x2="3336.7383" y1="678.5" y2="678.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3081.7383" x2="3336.7383" y1="686.5" y2="686.5"/>
+            <ellipse cx="3091.7383" cy="697.5" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="90"
+                  x="3100.7383" y="700.7104">pnodeSplayPQ()
+            </text>
+            <ellipse cx="3091.7383" cy="710.3047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="231" x="3100.7383" y="713.5151">pnodeSplayPQ(int, AttrType, TupleOrder)
+            </text>
+            <ellipse cx="3091.7383" cy="723.1094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95"
+                  x="3100.7383" y="726.3198">enq(pnode): void
+            </text>
+            <ellipse cx="3091.7383" cy="735.9141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="72"
+                  x="3100.7383" y="739.1245">deq(): pnode
+            </text>
+        </a><!--MD5=[f8ec7151acdf117fbba72f991c728bcf]
+class iterator.InvalidRelation-->
+        <a href="../iterator/InvalidRelation.html" target="_top" title="../iterator/InvalidRelation.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/InvalidRelation.html" xlink:show="new"
+           xlink:title="../iterator/InvalidRelation.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.InvalidRelation"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="211" x="1784.7383" y="361"/>
+            <ellipse cx="1840.9883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M1843.9571,382.6406 Q1843.3789,382.9375 1842.7383,383.0781 Q1842.0977,383.2344 1841.3946,383.2344 Q1838.8946,383.2344 1837.5664,381.5938 Q1836.2539,379.9375 1836.2539,376.8125 Q1836.2539,373.6875 1837.5664,372.0313 Q1838.8946,370.375 1841.3946,370.375 Q1842.0977,370.375 1842.7383,370.5313 Q1843.3946,370.6875 1843.9571,370.9844 L1843.9571,373.7031 Q1843.3321,373.125 1842.7383,372.8594 Q1842.1446,372.5781 1841.5196,372.5781 Q1840.1758,372.5781 1839.4883,373.6563 Q1838.8008,374.7188 1838.8008,376.8125 Q1838.8008,378.9063 1839.4883,379.9844 Q1840.1758,381.0469 1841.5196,381.0469 Q1842.1446,381.0469 1842.7383,380.7813 Q1843.3321,380.5 1843.9571,379.9219 L1843.9571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="90"
+                  x="1861.4883" y="381.1543">InvalidRelation
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1785.7383" x2="1994.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="1785.7383" x2="1994.7383" y1="401" y2="401"/>
+            <ellipse cx="1795.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="123" x="1804.7383" y="415.2104">InvalidRelation(String)
+            </text>
+            <ellipse cx="1795.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="185" x="1804.7383" y="428.0151">InvalidRelation(Exception, String)
+            </text>
+        </a><!--MD5=[ee1d27c40e232ac62fd888027538ba63]
+class iterator.pnodeSplayNode-->
+        <a href="../iterator/pnodeSplayNode.html" target="_top" title="../iterator/pnodeSplayNode.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/pnodeSplayNode.html" xlink:show="new"
+           xlink:title="../iterator/pnodeSplayNode.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.pnodeSplayNode"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="370" x="2535.2383" y="361"/>
+            <ellipse cx="2662.9883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2665.9571,382.6406 Q2665.3789,382.9375 2664.7383,383.0781 Q2664.0977,383.2344 2663.3946,383.2344 Q2660.8946,383.2344 2659.5664,381.5938 Q2658.2539,379.9375 2658.2539,376.8125 Q2658.2539,373.6875 2659.5664,372.0313 Q2660.8946,370.375 2663.3946,370.375 Q2664.0977,370.375 2664.7383,370.5313 Q2665.3946,370.6875 2665.9571,370.9844 L2665.9571,373.7031 Q2665.3321,373.125 2664.7383,372.8594 Q2664.1446,372.5781 2663.5196,372.5781 Q2662.1758,372.5781 2661.4883,373.6563 Q2660.8008,374.7188 2660.8008,376.8125 Q2660.8008,378.9063 2661.4883,379.9844 Q2662.1758,381.0469 2663.5196,381.0469 Q2664.1446,381.0469 2664.7383,380.7813 Q2665.3321,380.5 2665.9571,379.9219 L2665.9571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="106" x="2683.4883" y="381.1543">pnodeSplayNode
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2536.2383" x2="2904.2383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2536.2383" x2="2904.2383" y1="401" y2="401"/>
+            <ellipse cx="2546.2383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="138" x="2555.2383" y="415.2104">pnodeSplayNode(pnode)
+            </text>
+            <ellipse cx="2546.2383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="344" x="2555.2383" y="428.0151">pnodeSplayNode(pnode, pnodeSplayNode, pnodeSplayNode)
+            </text>
+        </a><!--MD5=[1db84988d5a367c74e116e6f3a3f4135]
+class iterator.JoinLowMemory-->
+        <a href="../iterator/JoinLowMemory.html" target="_top" title="../iterator/JoinLowMemory.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/JoinLowMemory.html" xlink:show="new"
+           xlink:title="../iterator/JoinLowMemory.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.JoinLowMemory"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="217" x="2282.7383" y="361"/>
+            <ellipse cx="2340.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2343.4571,382.6406 Q2342.8789,382.9375 2342.2383,383.0781 Q2341.5977,383.2344 2340.8946,383.2344 Q2338.3946,383.2344 2337.0664,381.5938 Q2335.7539,379.9375 2335.7539,376.8125 Q2335.7539,373.6875 2337.0664,372.0313 Q2338.3946,370.375 2340.8946,370.375 Q2341.5977,370.375 2342.2383,370.5313 Q2342.8946,370.6875 2343.4571,370.9844 L2343.4571,373.7031 Q2342.8321,373.125 2342.2383,372.8594 Q2341.6446,372.5781 2341.0196,372.5781 Q2339.6758,372.5781 2338.9883,373.6563 Q2338.3008,374.7188 2338.3008,376.8125 Q2338.3008,378.9063 2338.9883,379.9844 Q2339.6758,381.0469 2341.0196,381.0469 Q2341.6446,381.0469 2342.2383,380.7813 Q2342.8321,380.5 2343.4571,379.9219 L2343.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="93"
+                  x="2360.9883" y="381.1543">JoinLowMemory
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2283.7383" x2="2498.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2283.7383" x2="2498.7383" y1="401" y2="401"/>
+            <ellipse cx="2293.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="129" x="2302.7383" y="415.2104">JoinLowMemory(String)
+            </text>
+            <ellipse cx="2293.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="191" x="2302.7383" y="428.0151">JoinLowMemory(Exception, String)
+            </text>
+        </a><!--MD5=[27c28733149601339b02a71781d920bb]
+class iterator.Projection-->
+        <a href="../iterator/Projection.html" target="_top" title="../iterator/Projection.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/Projection.html" xlink:show="new"
+           xlink:title="../iterator/Projection.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.Projection"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="402" x="6838.2383" y="361"/>
+            <ellipse cx="7003.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M7006.4571,382.6406 Q7005.8789,382.9375 7005.2383,383.0781 Q7004.5977,383.2344 7003.8946,383.2344 Q7001.3946,383.2344 7000.0664,381.5938 Q6998.7539,379.9375 6998.7539,376.8125 Q6998.7539,373.6875 7000.0664,372.0313 Q7001.3946,370.375 7003.8946,370.375 Q7004.5977,370.375 7005.2383,370.5313 Q7005.8946,370.6875 7006.4571,370.9844 L7006.4571,373.7031 Q7005.8321,373.125 7005.2383,372.8594 Q7004.6446,372.5781 7004.0196,372.5781 Q7002.6758,372.5781 7001.9883,373.6563 Q7001.3008,374.7188 7001.3008,376.8125 Q7001.3008,378.9063 7001.9883,379.9844 Q7002.6758,381.0469 7004.0196,381.0469 Q7004.6446,381.0469 7005.2383,380.7813 Q7005.8321,380.5 7006.4571,379.9219 L7006.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="63"
+                  x="7023.9883" y="381.1543">Projection
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="6839.2383" x2="7239.2383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="6839.2383" x2="7239.2383" y1="401" y2="401"/>
+            <ellipse cx="6849.2383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="376" x="6858.2383" y="415.2104">Join(Tuple, AttrType[], Tuple,
+                AttrType[], Tuple, FldSpec[], int): void
+            </text>
+            <ellipse cx="6849.2383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="293" x="6858.2383" y="428.0151">Project(Tuple, AttrType[],
+                Tuple, FldSpec[], int): void
+            </text>
+        </a><!--MD5=[ef0c96a0817c2db53017218655dd1a13]
+class iterator.pnodePQ-->
+        <a href="../iterator/pnodePQ.html" target="_top" title="../iterator/pnodePQ.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/pnodePQ.html" xlink:show="new" xlink:title="../iterator/pnodePQ.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="124.8281" id="iterator.pnodePQ"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="216" x="2031.2383" y="335.5"/>
+            <ellipse cx="2106.4883" cy="351.5" fill="#A9DCDF" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M2106.5977,346.8438 L2105.4414,351.9219 L2107.7696,351.9219 L2106.5977,346.8438 Z M2105.1133,344.6094 L2108.0977,344.6094 L2111.4571,357 L2109.0039,357 L2108.2383,353.9375 L2104.9571,353.9375 L2104.2071,357 L2101.7696,357 L2105.1133,344.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="57" x="2126.9883" y="355.6543">pnodePQ
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2032.2383" x2="2246.2383" y1="367.5" y2="367.5"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="2032.2383" x2="2246.2383" y1="375.5" y2="375.5"/>
+            <ellipse cx="2042.2383" cy="386.5" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="65"
+                  x="2051.2383" y="389.7104">length(): int
+            </text>
+            <ellipse cx="2042.2383" cy="399.3047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="2051.2383" y="402.5151">empty(): boolean
+            </text>
+            <ellipse cx="2042.2383" cy="412.1094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="95" x="2051.2383" y="415.3198">enq(pnode): void
+            </text>
+            <ellipse cx="2042.2383" cy="424.9141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="72" x="2051.2383" y="428.1245">deq(): pnode
+            </text>
+            <ellipse cx="2042.2383" cy="437.7188" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="167" x="2051.2383" y="440.9292">pnodeCMP(pnode, pnode): int
+            </text>
+            <ellipse cx="2042.2383" cy="450.5234" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="190" x="2051.2383" y="453.7339">pnodeEQ(pnode, pnode): boolean
+            </text>
+        </a><!--MD5=[a7f2d62aa90c84d8e97c0e37bdb768fe]
+class iterator.WrongPermat-->
+        <a href="../iterator/WrongPermat.html" target="_top" title="../iterator/WrongPermat.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/WrongPermat.html" xlink:show="new"
+           xlink:title="../iterator/WrongPermat.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.WrongPermat"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="206" x="3019.2383" y="361"/>
+            <ellipse cx="3075.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M3078.4571,382.6406 Q3077.8789,382.9375 3077.2383,383.0781 Q3076.5977,383.2344 3075.8946,383.2344 Q3073.3946,383.2344 3072.0664,381.5938 Q3070.7539,379.9375 3070.7539,376.8125 Q3070.7539,373.6875 3072.0664,372.0313 Q3073.3946,370.375 3075.8946,370.375 Q3076.5977,370.375 3077.2383,370.5313 Q3077.8946,370.6875 3078.4571,370.9844 L3078.4571,373.7031 Q3077.8321,373.125 3077.2383,372.8594 Q3076.6446,372.5781 3076.0196,372.5781 Q3074.6758,372.5781 3073.9883,373.6563 Q3073.3008,374.7188 3073.3008,376.8125 Q3073.3008,378.9063 3073.9883,379.9844 Q3074.6758,381.0469 3076.0196,381.0469 Q3076.6446,381.0469 3077.2383,380.7813 Q3077.8321,380.5 3078.4571,379.9219 L3078.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="85"
+                  x="3095.9883" y="381.1543">WrongPermat
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3020.2383" x2="3224.2383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3020.2383" x2="3224.2383" y1="401" y2="401"/>
+            <ellipse cx="3030.2383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="118" x="3039.2383" y="415.2104">WrongPermat(String)
+            </text>
+            <ellipse cx="3030.2383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="180" x="3039.2383" y="428.0151">WrongPermat(Exception, String)
+            </text>
+        </a><!--MD5=[cd569bd0662d2890ccd20db0dfd4450f]
+class iterator.TupleUtils-->
+        <a href="../iterator/TupleUtils.html" target="_top" title="../iterator/TupleUtils.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/TupleUtils.html" xlink:show="new"
+           xlink:title="../iterator/TupleUtils.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="137.6328" id="iterator.TupleUtils"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="604" x="6313.2383" y="627"/>
+            <ellipse cx="6580.4883" cy="643" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M6583.4571,648.6406 Q6582.8789,648.9375 6582.2383,649.0781 Q6581.5977,649.2344 6580.8946,649.2344 Q6578.3946,649.2344 6577.0664,647.5938 Q6575.7539,645.9375 6575.7539,642.8125 Q6575.7539,639.6875 6577.0664,638.0313 Q6578.3946,636.375 6580.8946,636.375 Q6581.5977,636.375 6582.2383,636.5313 Q6582.8946,636.6875 6583.4571,636.9844 L6583.4571,639.7031 Q6582.8321,639.125 6582.2383,638.8594 Q6581.6446,638.5781 6581.0196,638.5781 Q6579.6758,638.5781 6578.9883,639.6563 Q6578.3008,640.7188 6578.3008,642.8125 Q6578.3008,644.9063 6578.9883,645.9844 Q6579.6758,647.0469 6581.0196,647.0469 Q6581.6446,647.0469 6582.2383,646.7813 Q6582.8321,646.5 6583.4571,645.9219 L6583.4571,648.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="61"
+                  x="6600.9883" y="647.1543">TupleUtils
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="6314.2383" x2="6916.2383" y1="659" y2="659"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="6314.2383" x2="6916.2383" y1="667" y2="667"/>
+            <ellipse cx="6324.2383" cy="678" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="336" x="6333.2383" y="681.2104">
+                CompareTupleWithTuple(AttrType, Tuple, int, Tuple, int): int
+            </text>
+            <ellipse cx="6324.2383" cy="690.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="314" x="6333.2383" y="694.0151">
+                CompareTupleWithValue(AttrType, Tuple, int, Tuple): int
+            </text>
+            <ellipse cx="6324.2383" cy="703.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="247" x="6333.2383" y="706.8198">Equal(Tuple, Tuple,
+                AttrType[], int): boolean
+            </text>
+            <ellipse cx="6324.2383" cy="716.4141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="134" x="6333.2383" y="719.6245">Value(Tuple, int): String
+            </text>
+            <ellipse cx="6324.2383" cy="729.2188" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="236" x="6333.2383" y="732.4292">SetValue(Tuple, Tuple, int,
+                AttrType): void
+            </text>
+            <ellipse cx="6324.2383" cy="742.0234" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="578" x="6333.2383" y="745.2339">setup_op_tuple(Tuple,
+                AttrType[], AttrType[], int, AttrType[], int, short[], short[], FldSpec[], int): short[]
+            </text>
+            <ellipse cx="6324.2383" cy="754.8281" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="447" x="6333.2383" y="758.0386">setup_op_tuple(Tuple,
+                AttrType[], AttrType[], int, short[], FldSpec[], int): short[]
+            </text>
+        </a><!--MD5=[e4500f0d9b65fa1507bdebde3510f4fc]
+class iterator.JoinNewFailed-->
+        <a href="../iterator/JoinNewFailed.html" target="_top" title="../iterator/JoinNewFailed.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/JoinNewFailed.html" xlink:show="new"
+           xlink:title="../iterator/JoinNewFailed.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.JoinNewFailed"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="207" x="3260.7383" y="361"/>
+            <ellipse cx="3317.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M3320.4571,382.6406 Q3319.8789,382.9375 3319.2383,383.0781 Q3318.5977,383.2344 3317.8946,383.2344 Q3315.3946,383.2344 3314.0664,381.5938 Q3312.7539,379.9375 3312.7539,376.8125 Q3312.7539,373.6875 3314.0664,372.0313 Q3315.3946,370.375 3317.8946,370.375 Q3318.5977,370.375 3319.2383,370.5313 Q3319.8946,370.6875 3320.4571,370.9844 L3320.4571,373.7031 Q3319.8321,373.125 3319.2383,372.8594 Q3318.6446,372.5781 3318.0196,372.5781 Q3316.6758,372.5781 3315.9883,373.6563 Q3315.3008,374.7188 3315.3008,376.8125 Q3315.3008,378.9063 3315.9883,379.9844 Q3316.6758,381.0469 3318.0196,381.0469 Q3318.6446,381.0469 3319.2383,380.7813 Q3319.8321,380.5 3320.4571,379.9219 L3320.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="85"
+                  x="3337.9883" y="381.1543">JoinNewFailed
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3261.7383" x2="3466.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3261.7383" x2="3466.7383" y1="401" y2="401"/>
+            <ellipse cx="3271.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="119" x="3280.7383" y="415.2104">JoinNewFailed(String)
+            </text>
+            <ellipse cx="3271.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="181" x="3280.7383" y="428.0151">JoinNewFailed(Exception, String)
+            </text>
+        </a><!--MD5=[7e2b103980aea1e0af242525d83ba107]
+class iterator.pnode-->
+        <a href="../iterator/pnode.html" target="_top" title="../iterator/pnode.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/pnode.html" xlink:show="new" xlink:title="../iterator/pnode.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="99.2188" id="iterator.pnode"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="122" x="3373.2383" y="646.5"/>
+            <ellipse cx="3410.7383" cy="662.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M3413.7071,668.1406 Q3413.1289,668.4375 3412.4883,668.5781 Q3411.8477,668.7344 3411.1446,668.7344 Q3408.6446,668.7344 3407.3164,667.0938 Q3406.0039,665.4375 3406.0039,662.3125 Q3406.0039,659.1875 3407.3164,657.5313 Q3408.6446,655.875 3411.1446,655.875 Q3411.8477,655.875 3412.4883,656.0313 Q3413.1446,656.1875 3413.7071,656.4844 L3413.7071,659.2031 Q3413.0821,658.625 3412.4883,658.3594 Q3411.8946,658.0781 3411.2696,658.0781 Q3409.9258,658.0781 3409.2383,659.1563 Q3408.5508,660.2188 3408.5508,662.3125 Q3408.5508,664.4063 3409.2383,665.4844 Q3409.9258,666.5469 3411.2696,666.5469 Q3411.8946,666.5469 3412.4883,666.2813 Q3413.0821,666 3413.7071,665.4219 L3413.7071,668.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="40"
+                  x="3429.7383" y="666.6543">pnode
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3374.2383" x2="3494.2383" y1="678.5" y2="678.5"/>
+            <ellipse cx="3384.2383" cy="689.5" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="72"
+                  x="3393.2383" y="692.7104">run_num: int
+            </text>
+            <ellipse cx="3384.2383" cy="702.3047" fill="none" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="67"
+                  x="3393.2383" y="705.5151">tuple: Tuple
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3374.2383" x2="3494.2383" y1="712.1094"
+                  y2="712.1094"/>
+            <ellipse cx="3384.2383" cy="723.1094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="43"
+                  x="3393.2383" y="726.3198">pnode()
+            </text>
+            <ellipse cx="3384.2383" cy="735.9141" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="3393.2383" y="739.1245">pnode(int, Tuple)
+            </text>
+        </a><!--MD5=[2b4126459ba3905e832a7b32ad8c423c]
+class iterator.LowMemException-->
+        <a href="../iterator/LowMemException.html" target="_top" title="../iterator/LowMemException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/LowMemException.html" xlink:show="new"
+           xlink:title="../iterator/LowMemException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.LowMemException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="233" x="3714.7383" y="361"/>
+            <ellipse cx="3770.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M3773.4571,382.6406 Q3772.8789,382.9375 3772.2383,383.0781 Q3771.5977,383.2344 3770.8946,383.2344 Q3768.3946,383.2344 3767.0664,381.5938 Q3765.7539,379.9375 3765.7539,376.8125 Q3765.7539,373.6875 3767.0664,372.0313 Q3768.3946,370.375 3770.8946,370.375 Q3771.5977,370.375 3772.2383,370.5313 Q3772.8946,370.6875 3773.4571,370.9844 L3773.4571,373.7031 Q3772.8321,373.125 3772.2383,372.8594 Q3771.6446,372.5781 3771.0196,372.5781 Q3769.6758,372.5781 3768.9883,373.6563 Q3768.3008,374.7188 3768.3008,376.8125 Q3768.3008,378.9063 3768.9883,379.9844 Q3769.6758,381.0469 3771.0196,381.0469 Q3771.6446,381.0469 3772.2383,380.7813 Q3772.8321,380.5 3773.4571,379.9219 L3773.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="113" x="3790.9883" y="381.1543">LowMemException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3715.7383" x2="3946.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3715.7383" x2="3946.7383" y1="401" y2="401"/>
+            <ellipse cx="3725.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="145" x="3734.7383" y="415.2104">LowMemException(String)
+            </text>
+            <ellipse cx="3725.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="207" x="3734.7383" y="428.0151">LowMemException(Exception, String)
+            </text>
+        </a><!--MD5=[3b999c31b6ee022cd475b15dc785a077]
+class iterator.NoOutputBuffer-->
+        <a href="../iterator/NoOutputBuffer.html" target="_top" title="../iterator/NoOutputBuffer.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/NoOutputBuffer.html" xlink:show="new"
+           xlink:title="../iterator/NoOutputBuffer.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.NoOutputBuffer"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="218" x="3983.2383" y="361"/>
+            <ellipse cx="4039.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M4042.4571,382.6406 Q4041.8789,382.9375 4041.2383,383.0781 Q4040.5977,383.2344 4039.8946,383.2344 Q4037.3946,383.2344 4036.0664,381.5938 Q4034.7539,379.9375 4034.7539,376.8125 Q4034.7539,373.6875 4036.0664,372.0313 Q4037.3946,370.375 4039.8946,370.375 Q4040.5977,370.375 4041.2383,370.5313 Q4041.8946,370.6875 4042.4571,370.9844 L4042.4571,373.7031 Q4041.8321,373.125 4041.2383,372.8594 Q4040.6446,372.5781 4040.0196,372.5781 Q4038.6758,372.5781 4037.9883,373.6563 Q4037.3008,374.7188 4037.3008,376.8125 Q4037.3008,378.9063 4037.9883,379.9844 Q4038.6758,381.0469 4040.0196,381.0469 Q4040.6446,381.0469 4041.2383,380.7813 Q4041.8321,380.5 4042.4571,379.9219 L4042.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="97"
+                  x="4059.9883" y="381.1543">NoOutputBuffer
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3984.2383" x2="4200.2383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="3984.2383" x2="4200.2383" y1="401" y2="401"/>
+            <ellipse cx="3994.2383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="130" x="4003.2383" y="415.2104">NoOutputBuffer(String)
+            </text>
+            <ellipse cx="3994.2383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="192" x="4003.2383" y="428.0151">NoOutputBuffer(Exception, String)
+            </text>
+        </a><!--MD5=[299001530dd6ca0625e8087c01e54d41]
+class iterator.TupleUtilsException-->
+        <a href="../iterator/TupleUtilsException.html" target="_top" title="../iterator/TupleUtilsException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/TupleUtilsException.html" xlink:show="new"
+           xlink:title="../iterator/TupleUtilsException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.TupleUtilsException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="240" x="4236.2383" y="361"/>
+            <ellipse cx="4290.9883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M4293.9571,382.6406 Q4293.3789,382.9375 4292.7383,383.0781 Q4292.0977,383.2344 4291.3946,383.2344 Q4288.8946,383.2344 4287.5664,381.5938 Q4286.2539,379.9375 4286.2539,376.8125 Q4286.2539,373.6875 4287.5664,372.0313 Q4288.8946,370.375 4291.3946,370.375 Q4292.0977,370.375 4292.7383,370.5313 Q4293.3946,370.6875 4293.9571,370.9844 L4293.9571,373.7031 Q4293.3321,373.125 4292.7383,372.8594 Q4292.1446,372.5781 4291.5196,372.5781 Q4290.1758,372.5781 4289.4883,373.6563 Q4288.8008,374.7188 4288.8008,376.8125 Q4288.8008,378.9063 4289.4883,379.9844 Q4290.1758,381.0469 4291.5196,381.0469 Q4292.1446,381.0469 4292.7383,380.7813 Q4293.3321,380.5 4293.9571,379.9219 L4293.9571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="122" x="4311.4883" y="381.1543">TupleUtilsException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="4237.2383" x2="4475.2383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="4237.2383" x2="4475.2383" y1="401" y2="401"/>
+            <ellipse cx="4247.2383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="152" x="4256.2383" y="415.2104">TupleUtilsException(String)
+            </text>
+            <ellipse cx="4247.2383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="214" x="4256.2383" y="428.0151">TupleUtilsException(Exception, String)
+            </text>
+        </a><!--MD5=[7e8b3b47cd59ffa690c6d09e20ab00f8]
+class iterator.PredEvalException-->
+        <a href="../iterator/PredEvalException.html" target="_top" title="../iterator/PredEvalException.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/PredEvalException.html" xlink:show="new"
+           xlink:title="../iterator/PredEvalException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="iterator.PredEvalException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="233" x="4511.7383" y="361"/>
+            <ellipse cx="4566.4883" cy="377" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M4569.4571,382.6406 Q4568.8789,382.9375 4568.2383,383.0781 Q4567.5977,383.2344 4566.8946,383.2344 Q4564.3946,383.2344 4563.0664,381.5938 Q4561.7539,379.9375 4561.7539,376.8125 Q4561.7539,373.6875 4563.0664,372.0313 Q4564.3946,370.375 4566.8946,370.375 Q4567.5977,370.375 4568.2383,370.5313 Q4568.8946,370.6875 4569.4571,370.9844 L4569.4571,373.7031 Q4568.8321,373.125 4568.2383,372.8594 Q4567.6446,372.5781 4567.0196,372.5781 Q4565.6758,372.5781 4564.9883,373.6563 Q4564.3008,374.7188 4564.3008,376.8125 Q4564.3008,378.9063 4564.9883,379.9844 Q4565.6758,381.0469 4567.0196,381.0469 Q4567.6446,381.0469 4568.2383,380.7813 Q4568.8321,380.5 4569.4571,379.9219 L4569.4571,382.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs"
+                  textLength="115" x="4586.9883" y="381.1543">PredEvalException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="4512.7383" x2="4743.7383" y1="393" y2="393"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="4512.7383" x2="4743.7383" y1="401" y2="401"/>
+            <ellipse cx="4522.7383" cy="412" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="145" x="4531.7383" y="415.2104">PredEvalException(String)
+            </text>
+            <ellipse cx="4522.7383" cy="424.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="207" x="4531.7383" y="428.0151">PredEvalException(Exception, String)
+            </text>
+        </a><!--MD5=[ed4423af0e2a5660adafeb412df6b08e]
+class iterator.OBuf-->
+        <a href="../iterator/OBuf.html" target="_top" title="../iterator/OBuf.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/OBuf.html" xlink:show="new" xlink:title="../iterator/OBuf.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="86.4141" id="iterator.OBuf"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="265" x="662.7383" y="355"/>
+            <ellipse cx="776.4883" cy="371" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M779.4571,376.6406 Q778.8789,376.9375 778.2383,377.0781 Q777.5977,377.2344 776.8946,377.2344 Q774.3946,377.2344 773.0664,375.5938 Q771.7539,373.9375 771.7539,370.8125 Q771.7539,367.6875 773.0664,366.0313 Q774.3946,364.375 776.8946,364.375 Q777.5977,364.375 778.2383,364.5313 Q778.8946,364.6875 779.4571,364.9844 L779.4571,367.7031 Q778.8321,367.125 778.2383,366.8594 Q777.6446,366.5781 777.0196,366.5781 Q775.6758,366.5781 774.9883,367.6563 Q774.3008,368.7188 774.3008,370.8125 Q774.3008,372.9063 774.9883,373.9844 Q775.6758,375.0469 777.0196,375.0469 Q777.6446,375.0469 778.2383,374.7813 Q778.8321,374.5 779.4571,373.9219 L779.4571,376.6406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="29"
+                  x="796.9883" y="375.1543">OBuf
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="663.7383" x2="926.7383" y1="387" y2="387"/>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="663.7383" x2="926.7383" y1="395" y2="395"/>
+            <ellipse cx="673.7383" cy="406" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="239" x="682.7383" y="409.2104">init(byte[], int, int, Heapfile, boolean): void
+            </text>
+            <ellipse cx="673.7383" cy="418.8047" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="682.7383" y="422.0151">Put(Tuple): Tuple
+            </text>
+            <ellipse cx="673.7383" cy="431.6094" fill="#84BE84" rx="3" ry="3"
+                     style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="68"
+                  x="682.7383" y="434.8198">flush(): long
+            </text>
+        </a><!--MD5=[2a7cd8221fe6583b4d4c6786e4469311]
+class chainexception.ChainException-->
+        <a href="../chainexception/ChainException.html" target="_top" title="../chainexception/ChainException.html"
+           xlink:actuate="onRequest" xlink:href="../chainexception/ChainException.html" xlink:show="new"
+           xlink:title="../chainexception/ChainException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="60.8047" id="chainexception.ChainException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="128" x="4160.2383" y="119.5"/>
+            <ellipse cx="4175.2383" cy="135.5" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M4178.2071,141.1406 Q4177.6289,141.4375 4176.9883,141.5781 Q4176.3477,141.7344 4175.6446,141.7344 Q4173.1446,141.7344 4171.8164,140.0938 Q4170.5039,138.4375 4170.5039,135.3125 Q4170.5039,132.1875 4171.8164,130.5313 Q4173.1446,128.875 4175.6446,128.875 Q4176.3477,128.875 4176.9883,129.0313 Q4177.6446,129.1875 4178.2071,129.4844 L4178.2071,132.2031 Q4177.5821,131.625 4176.9883,131.3594 Q4176.3946,131.0781 4175.7696,131.0781 Q4174.4258,131.0781 4173.7383,132.1563 Q4173.0508,133.2188 4173.0508,135.3125 Q4173.0508,137.4063 4173.7383,138.4844 Q4174.4258,139.5469 4175.7696,139.5469 Q4176.3946,139.5469 4176.9883,139.2813 Q4177.5821,139 4178.2071,138.4219 L4178.2071,141.1406 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="4189.2383" y="139.6543">ChainException
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="4161.2383" x2="4287.2383" y1="151.5" y2="151.5"/>
+            <ellipse cx="4171.2383" cy="162.5" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="87"
+                  x="4180.2383" y="165.7104">prev: Exception
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="4161.2383" x2="4287.2383" y1="172.3047"
+                  y2="172.3047"/>
+        </a><!--MD5=[349d101bc5b57a3de1b8b252b2bcdd93]
+class global.GlobalConst-->
+        <a href="../global/GlobalConst.html" target="_top" title="../global/GlobalConst.html" xlink:actuate="onRequest"
+           xlink:href="../global/GlobalConst.html" xlink:show="new" xlink:title="../global/GlobalConst.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="214.4609" id="global.GlobalConst"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="265" x="231.7383" y="43"/>
+            <ellipse cx="322.4883" cy="59" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M318.4102,54.7656 L318.4102,52.6094 L325.8008,52.6094 L325.8008,54.7656 L323.3321,54.7656 L323.3321,62.8438 L325.8008,62.8438 L325.8008,65 L318.4102,65 L318.4102,62.8438 L320.8789,62.8438 L320.8789,54.7656 L318.4102,54.7656 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="75" x="342.9883" y="63.1543">GlobalConst
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="232.7383" x2="495.7383" y1="75" y2="75"/>
+            <ellipse cx="242.7383" cy="86" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="152" x="251.7383" y="89.2104">MINIBASE_MAXARRSIZE: int
+            </text>
+            <ellipse cx="242.7383" cy="98.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="69" x="251.7383" y="102.0151">NUMBUF: int
+            </text>
+            <ellipse cx="242.7383" cy="111.6094" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="138" x="251.7383" y="114.8198">MINIBASE_PAGESIZE: int
+            </text>
+            <ellipse cx="242.7383" cy="124.4141" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="193" x="251.7383" y="127.6245">MINIBASE_BUFFER_POOL_SIZE: int
+            </text>
+            <ellipse cx="242.7383" cy="137.2188" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="88" x="251.7383" y="140.4292">MAX_SPACE: int
+            </text>
+            <ellipse cx="242.7383" cy="150.0234" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="130" x="251.7383" y="153.2339">MINIBASE_DB_SIZE: int
+            </text>
+            <ellipse cx="242.7383" cy="162.8281" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="197" x="251.7383" y="166.0386">MINIBASE_MAX_TRANSACTIONS: int
+            </text>
+            <ellipse cx="242.7383" cy="175.6328" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="239" x="251.7383" y="178.8433">
+                MINIBASE_DEFAULT_SHAREDMEM_SIZE: int
+            </text>
+            <ellipse cx="242.7383" cy="188.4375" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="98" x="251.7383" y="191.6479">MAXFILENAME: int
+            </text>
+            <ellipse cx="242.7383" cy="201.2422" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="109" x="251.7383" y="204.4526">MAXINDEXNAME: int
+            </text>
+            <ellipse cx="242.7383" cy="214.0469" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="104" x="251.7383" y="217.2573">MAXATTRNAME: int
+            </text>
+            <ellipse cx="242.7383" cy="226.8516" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="82" x="251.7383" y="230.062">MAX_NAME: int
+            </text>
+            <ellipse cx="242.7383" cy="239.6563" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="100" x="251.7383" y="242.8667">INVALID_PAGE: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="232.7383" x2="495.7383" y1="249.4609" y2="249.4609"/>
+        </a><!--MD5=[f419cf2c77e6f912aad533062758033e]
+class global.Flags-->
+        <a href="../global/Flags.html" target="_top" title="../global/Flags.html" xlink:actuate="onRequest"
+           xlink:href="../global/Flags.html" xlink:show="new" xlink:title="../global/Flags.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f6nagfzvb8g6j)" height="73.6094" id="global.Flags"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="119" x="531.7383" y="113"/>
+            <ellipse cx="571.0383" cy="129" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M566.9602,124.7656 L566.9602,122.6094 L574.3508,122.6094 L574.3508,124.7656 L571.882,124.7656 L571.882,132.8438 L574.3508,132.8438 L574.3508,135 L566.9602,135 L566.9602,132.8438 L569.4289,132.8438 L569.4289,124.7656 L566.9602,124.7656 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="33" x="590.4383" y="133.1543">Flags
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="532.7383" x2="649.7383" y1="145" y2="145"/>
+            <ellipse cx="542.7383" cy="156" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="82" x="551.7383" y="159.2104">TEST: boolean
+            </text>
+            <ellipse cx="542.7383" cy="168.8047" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="93" x="551.7383" y="172.0151">DEBUG: boolean
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="532.7383" x2="649.7383" y1="178.6094" y2="178.6094"/>
+        </a><!--MD5=[6529f566d0b3b5646bff37ec04527b5b]
+reverse link chainexception.ChainException to iterator.SortException-->
+        <path d="M4308.4497,161.3661 C4417.9641,178.6552 4612.8926,218.1216 4762.2383,296 C4794.3065,312.7224 4825.5014,339.0398 4848.3194,360.7535 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.SortException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4307.0864,168.2391,4288.3748,158.2954,4309.2033,154.4001,4307.0864,168.2391"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[135a5b5681fbb5057746d66e70c48c8d]
+reverse link global.GlobalConst to iterator.IoBuf-->
+        <path d="M307.5225,275.5848 C300.2047,291.7885 292.9032,307.9562 286.118,322.9807 " fill="none"
+              id="global.GlobalConst&lt;-iterator.IoBuf"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="301.1534,272.6803,315.7648,257.334,313.9126,278.4426,301.1534,272.6803"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[056688c8c20b62280c77342228339f5b]
+reverse link global.Flags to iterator.Iterator-->
+        <path d="M669.8685,177.4263 C742.946,204.073 853.9365,247.5248 945.2383,296 C970.5884,309.4592 997.0361,325.9746 1020.7156,341.7642 "
+              fill="none" id="global.Flags&lt;-iterator.Iterator"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="667.2028,183.9062,650.7688,170.5299,671.9574,170.7383,667.2028,183.9062"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[96bf47a38586e113985ef3482f32dfd5]
+reverse link chainexception.ChainException to iterator.UnknownKeyTypeException-->
+        <path d="M4308.3738,155.0242 C4454.9188,166.0808 4764.4512,199.7312 5006.2383,296 C5042.7907,310.5536 5079.9392,334.0056 5109.0239,354.7545 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.UnknownKeyTypeException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4307.8258,162.0029,4288.3817,153.5809,4308.8339,148.0392,4307.8258,162.0029"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4d7c56e2478e4b0a34b9df814d58bcd1]
+reverse link iterator.Iterator to iterator.DuplElim-->
+        <path d="M1222.8638,463.4359 C1331.7256,521.0572 1487.141,603.3197 1580.9862,652.9927 " fill="none"
+              id="iterator.Iterator&lt;-iterator.DuplElim" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1219.5361,469.5947,1205.1343,454.0515,1226.0855,457.2211,1219.5361,469.5947"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[392c9dca6e58d6a21999171cc6a5fb2a]
+reverse link iterator.Iterator to iterator.SortMerge-->
+        <path d="M985.9449,464.3289 C887.6029,521.9044 748.1038,603.5758 663.697,652.9927 " fill="none"
+              id="iterator.Iterator&lt;-iterator.SortMerge" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="982.703,458.1155,1003.4993,454.0515,989.7764,470.1972,982.703,458.1155"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[7b21bd7e508cfbb9ee55c2b4b475dc77]
+reverse link global.GlobalConst to iterator.SortMerge-->
+        <path d="M212.3101,183.3787 C156.9079,203.6872 99.8924,235.9765 67.2383,287 C-7.0299,403.0472 -20.6598,490.9026 67.2383,597 C87.062,620.9283 132.5622,639.1167 188.8806,652.9298 "
+              fill="none" id="global.GlobalConst&lt;-iterator.SortMerge"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="210.2078,176.6994,231.3972,176.8126,214.7621,189.9379,210.2078,176.6994"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1ec692cedb54d6693934f786bab30570]
+reverse link iterator.Iterator to iterator.Sort-->
+        <path d="M1139.3396,471.7667 C1170.2735,528.6697 1211.9963,605.4191 1237.7335,652.7628 " fill="none"
+              id="iterator.Iterator&lt;-iterator.Sort" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1133.1115,474.9663,1129.7092,454.0515,1145.4115,468.2796,1133.1115,474.9663"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[03bffca7c43464e4707734d0c67e4dfd]
+reverse link global.GlobalConst to iterator.Sort-->
+        <path d="M214.3674,211.8593 C180.4344,233.2896 148.7061,260.9861 129.2383,296 C91.0109,364.754 78.4007,412.9668 129.2383,473 C263.4801,631.5237 849.5382,577.3242 1051.2383,627 C1080.5824,634.227 1111.745,643.5371 1140.8305,652.9648 "
+              fill="none" id="global.GlobalConst&lt;-iterator.Sort"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="210.942,205.7519,231.7066,201.5288,218.1077,217.7791,210.942,205.7519"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6a042b653f4e912c716ddc4133dd3007]
+reverse link iterator.Iterator to iterator.FileScan-->
+        <path d="M1226.0521,462.2142 C1235.1654,466.0687 1244.2888,469.7106 1253.2383,473 C1511.6467,567.9781 1588.2281,552.3987 1853.2383,627 C1874.8695,633.0893 1897.5915,639.7469 1919.9372,646.4477 "
+              fill="none" id="iterator.Iterator&lt;-iterator.FileScan" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1222.9273,468.4876,1207.4187,454.0486,1228.5466,455.6648,1222.9273,468.4876"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4861889db1cd3e7dd1e34e7c3f2c346e]
+link iterator.FileScan to iterator.FldSpec-->
+        <path d="M2161.2079,745.5794 C2237.9107,791.414 2350.4491,858.6626 2421.4954,901.1171 " fill="none"
+              id="iterator.FileScan-&gt;iterator.FldSpec" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036"
+                 points="2426.1143,903.8771,2420.4406,895.8267,2421.8223,901.3122,2416.3368,902.694,2426.1143,903.8771"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="67"
+              x="2324.2383" y="839.0669">perm_mat
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="7"
+              x="2407.425" y="893.0422">*
+        </text><!--MD5=[a6edf61d252bb868c07749bcf4046762]
+reverse link chainexception.ChainException to iterator.FileScanException-->
+        <path d="M4308.4286,155.5437 C4532.5135,171.1876 5138.9628,219.5716 5323.2383,296 C5359.2558,310.9383 5394.0077,338.1847 5418.9507,360.7613 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.FileScanException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4307.7446,162.5133,4288.2738,154.1533,4308.7082,148.5465,4307.7446,162.5133"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[34ce3d385c2b3fa75f704ae0559eabfc]
+reverse link chainexception.ChainException to iterator.UnknowAttrType-->
+        <path d="M4308.7526,152.8794 C4569.0302,162.7044 5354.9857,199.7932 5589.2383,296 C5624.7225,310.5733 5658.3776,338.1416 5682.265,360.9466 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.UnknowAttrType"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4308.1555,159.8622,4288.428,152.1277,4308.6731,145.8718,4308.1555,159.8622"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[08643ebe96f50e4132edce624f067a7a]
+reverse link chainexception.ChainException to iterator.IteratorBMException-->
+        <path d="M4308.8775,151.6571 C4600.2443,158.282 5559.5232,187.9851 5845.2383,296 C5883.0358,310.2894 5919.6235,337.8733 5945.7661,360.7564 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.IteratorBMException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4308.5155,158.6509,4288.675,151.2107,4308.8248,144.6543,4308.5155,158.6509"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2bc0172617ea8e39c54bbc7982ac4b78]
+reverse link chainexception.ChainException to iterator.NestedLoopException-->
+        <path d="M4309.0192,150.5139 C4631.7334,153.3902 5782.3873,172.2901 6123.2383,296 C6162.0796,310.0972 6199.866,337.8471 6226.8325,360.8475 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.NestedLoopException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4308.4819,157.5097,4288.5409,150.3433,4308.5986,143.5102,4308.4819,157.5097"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e652fadae4f026b6e84b8d53a7204182]
+reverse link chainexception.ChainException to iterator.DuplElimException-->
+        <path d="M4139.9897,151.6071 C3710.1525,160.1993 1772.0055,203.8103 1521.2383,296 C1483.9182,309.72 1448.4323,337.6496 1423.3646,360.819 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.DuplElimException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4140.0329,144.605,4160.1676,151.2074,4140.3102,158.6022,4140.0329,144.605"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[95ad80e8685719585e25735b6bc59ebd]
+reverse link iterator.Iterator to iterator.NestedLoopsJoins-->
+        <path d="M1222.0795,461.8855 C1232.4666,466.0372 1242.9378,469.8203 1253.2383,473 C1478.5755,542.5609 2070.5203,588.817 2303.2383,627 C2351.8705,634.9793 2403.9013,644.0645 2453.3702,652.9629 "
+              fill="none" id="iterator.Iterator&lt;-iterator.NestedLoopsJoins"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1219.2387,468.2845,1203.5288,454.0648,1224.6773,455.3841,1219.2387,468.2845"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[700a4d8e3d79f900efdbcbbba1936a52]
+link iterator.FldSpec to iterator.RelSpec-->
+        <path d="M2488.2383,978.2367 C2488.2383,1014.5857 2488.2383,1070.3133 2488.2383,1111.7165 " fill="none"
+              id="iterator.FldSpec-&gt;iterator.RelSpec" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036"
+                 points="2488.2383,1116.9477,2492.2383,1107.9477,2488.2383,1111.9477,2484.2383,1107.9477,2488.2383,1116.9477"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="48"
+              x="2489.2383" y="1052.0669">relation
+        </text><!--MD5=[f1c23533e4dba3ad98875144619b5d1c]
+link iterator.Operand to iterator.FldSpec-->
+        <path d="M3546.9991,739.0889 C3537.1095,749.0114 3525.6115,758.5368 3513.2383,765 C3346.9907,851.8406 2775.4791,913.648 2565.998,933.8577 "
+              fill="none" id="iterator.Operand-&gt;iterator.FldSpec" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036"
+                 points="2560.8143,934.3565,2570.1561,937.4759,2565.7913,933.8775,2569.3897,929.5127,2560.8143,934.3565"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="46"
+              x="3315.2383" y="839.0669">symbol
+        </text><!--MD5=[d800f0446f3ceaa9dbb5bb6a15043af3]
+reverse link global.GlobalConst to iterator.SpoofIbuf-->
+        <path d="M437.7561,274.8796 C453.1058,300.9531 468.4249,326.9746 480.9987,348.3328 " fill="none"
+              id="global.GlobalConst&lt;-iterator.SpoofIbuf"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="431.5411,278.1204,427.4269,257.334,443.6057,271.0179,431.5411,278.1204"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[905f8d7e5d5efa6da5a466b9400874bc]
+link iterator.CondExpr to iterator.Operand-->
+        <path d="M3564.9807,441.0135 C3568.4822,495.931 3574.523,590.6758 3578.1728,647.921 " fill="none"
+              id="iterator.CondExpr-&gt;iterator.Operand" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036"
+                 points="3578.4966,652.9995,3581.9158,643.7632,3578.1785,648.0096,3573.932,644.2723,3578.4966,652.9995"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61"
+              x="3573.2383" y="547.0669">operand1
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61"
+              x="3573.2383" y="562.1997">operand2
+        </text><!--MD5=[155e4e1462ad2297b8efc3e0cc1d3242]
+link iterator.CondExpr to iterator.CondExpr-->
+        <path d="M3621.7615,378.5012 C3641.2334,378.602 3656.7383,385.1016 3656.7383,398 C3656.7383,409.6892 3644.0043,416.1231 3627.1238,417.3017 "
+              fill="none" id="iterator.CondExpr-&gt;iterator.CondExpr" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036"
+                 points="3621.7615,417.4988,3630.9024,421.1654,3626.7581,417.3151,3630.6084,413.1708,3621.7615,417.4988"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="28"
+              x="3662.7383" y="402.5669">next
+        </text><!--MD5=[2fdd234339a95f142376d17a6073efb1]
+reverse link chainexception.ChainException to iterator.JoinsException-->
+        <path d="M4139.9139,151.9002 C3734.0128,161.4631 1991.7709,207.3992 1767.2383,296 C1732.1435,309.8484 1699.623,337.77 1676.8464,360.9036 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.JoinsException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4139.9727,144.897,4160.1308,151.428,4140.2997,158.8932,4139.9727,144.897"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[25e77a4026cddc78997eb1819a310679]
+reverse link iterator.pnodePQ to iterator.pnodeSplayPQ-->
+        <path d="M2255.5221,469.0808 C2258.7657,470.4597 2262.0079,471.7701 2265.2383,473 C2602.8114,601.5204 2719.9199,514.7254 3063.2383,627 C3079.7592,632.4028 3096.8414,639.2358 3113.244,646.4893 "
+              fill="none" id="iterator.pnodePQ&lt;-iterator.pnodeSplayPQ" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="2252.217,475.2648,2237.0011,460.5177,2258.0924,462.5573,2252.217,475.2648"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f717f71872b07dcaf419ebd443d5aaa8]
+reverse link chainexception.ChainException to iterator.InvalidRelation-->
+        <path d="M4139.9611,152.5159 C3759.8261,164.2742 2214.6605,216.6073 2014.2383,296 C1978.9925,309.9618 1946.1993,337.8763 1923.2001,360.9784 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.InvalidRelation"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4139.7943,145.5178,4159.9998,151.9004,4140.2242,159.5112,4139.7943,145.5178"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[660d6a9217a00cbe2d9d665114beb0b6]
+link iterator.pnodeSplayNode to iterator.pnode-->
+        <path d="M2870.2087,435.0287 C3003.4362,471.8013 3200.4639,535.8939 3355.2383,627 C3363.1829,631.6765 3371.0749,637.2018 3378.6242,643.0573 "
+              fill="none" id="iterator.pnodeSplayNode-&gt;iterator.pnode" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036"
+                 points="3382.7812,646.341,3378.1984,637.6233,3378.8577,643.2416,3373.2394,643.9009,3382.7812,646.341"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="29"
+              x="3238.2383" y="554.5669">item
+        </text><!--MD5=[c27e9cce96a190f155f7447d575a243c]
+link iterator.pnodeSplayNode to iterator.pnodeSplayNode-->
+        <path d="M2905.6139,381.4755 C2926.6225,384.5699 2940.2383,390.0781 2940.2383,398 C2940.2383,405.2411 2928.8622,410.4655 2910.8625,413.6733 "
+              fill="none" id="iterator.pnodeSplayNode-&gt;iterator.pnodeSplayNode"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036"
+                 points="2905.6139,414.5245,2915.1382,417.0319,2910.5494,413.7239,2913.8573,409.1351,2905.6139,414.5245"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8"
+              x="2966.7383" y="380.0669">lt
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="10"
+              x="2965.7383" y="395.1997">rt
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="21"
+              x="2960.2383" y="410.3325">par
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="49"
+              x="2946.2383" y="425.4653">dummy
+        </text><!--MD5=[d4c5e1c6b0fb7f8921f1674e06adf733]
+reverse link chainexception.ChainException to iterator.JoinLowMemory-->
+        <path d="M4140.0095,150.7619 C3838.9549,154.4748 2818.1827,175.8451 2518.2383,296 C2482.6676,310.2493 2449.1721,337.9902 2425.5203,360.9486 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.JoinLowMemory"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4139.933,143.7624,4160.0134,150.5284,4140.0965,157.7614,4139.933,143.7624"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[903e2d8dadd0cecbaf072684a7cd7cd1]
+reverse link chainexception.ChainException to iterator.WrongPermat-->
+        <path d="M4139.7876,156.6195 C3932.4343,173.8144 3403.4981,223.6481 3243.2383,296 C3209.6829,311.1491 3178.1034,338.3856 3155.625,360.9049 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.WrongPermat"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4139.4804,149.6213,4159.9855,154.9638,4140.6242,163.5745,4139.4804,149.6213"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[52567dfcc32458caedcc54764cd43ef7]
+reverse link chainexception.ChainException to iterator.JoinNewFailed-->
+        <path d="M4139.8446,153.046 C3997.9531,161.0686 3705.523,190.2072 3485.2383,296 C3452.2983,311.8196 3420.9256,338.7327 3398.3825,360.9426 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.JoinNewFailed"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4139.7305,146.0425,4160.0685,151.9894,4140.461,160.0234,4139.7305,146.0425"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[84d74162f54d18b21ac26da54fdca558]
+reverse link chainexception.ChainException to iterator.LowMemException-->
+        <path d="M4147.382,190.0367 C4095.2387,218.0309 4025.311,257.2126 3966.2383,296 C3935.6672,316.0731 3902.9018,340.7465 3877.3068,360.7981 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.LowMemException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4144.0959,183.856,4165.0371,180.6204,4150.6844,196.2088,4144.0959,183.856"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f75325b352577c07e5f44dd8556f4e5b]
+reverse link chainexception.ChainException to iterator.NoOutputBuffer-->
+        <path d="M4198.404,198.5371 C4173.057,246.1588 4134.9562,317.742 4111.9554,360.9557 " fill="none"
+              id="chainexception.ChainException&lt;-iterator.NoOutputBuffer"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4192.3438,195.0244,4207.9201,180.6584,4204.7023,201.6023,4192.3438,195.0244"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1957a4dc6d4ad2d87384ba15802b99dd]
+reverse link chainexception.ChainException to iterator.TupleUtilsException-->
+        <path d="M4250.0725,198.5371 C4275.4196,246.1588 4313.5203,317.742 4336.5211,360.9557 " fill="none"
+              id="chainexception.ChainException&lt;-iterator.TupleUtilsException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4243.7743,201.6023,4240.5565,180.6584,4256.1327,195.0244,4243.7743,201.6023"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e2cdcdc58c610115b3660b4feefe63de]
+reverse link chainexception.ChainException to iterator.PredEvalException-->
+        <path d="M4305.3353,189.6867 C4359.9523,217.4148 4432.927,256.4269 4494.2383,296 C4524.9438,315.8188 4557.6116,340.602 4583.0045,360.7764 "
+              fill="none" id="chainexception.ChainException&lt;-iterator.PredEvalException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="4301.9088,195.7987,4287.1962,180.5494,4308.2071,183.2954,4301.9088,195.7987"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d97c723ab628b9698f7d9af05f86a283]
+reverse link global.GlobalConst to iterator.OBuf-->
+        <path d="M515.8276,263.3469 C557.6368,276.8431 633.6612,290.9024 645.2383,296 C679.6804,311.1654 714.6525,334.3982 742.1548,354.8622 "
+              fill="none" id="global.GlobalConst&lt;-iterator.OBuf"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="513.1035,269.7989,496.9596,256.0738,518.1389,256.7358,513.1035,269.7989"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1a0c1fb5db2ad787c97239ffa5cf5353]
+link iterator.PredEval to iterator.Projection--><!--MD5=[4a021097715fb681d7cc54753ddf4889]
+link iterator.PredEval to iterator.TupleUtils-->
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="3544" y="1251.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[fcdb7bba4ff381b572f270045643bbbd]
+@startuml
+    namespace iterator {
+
+        class SortException [[../iterator/SortException.html]] {
+            +SortException(String)
+            +SortException(Exception, String)
+        }
+
+        class IoBuf [[../iterator/IoBuf.html]] {
+            {static} +WRITE_BUFFER: int
+            {static} +READ_BUFFER: int
+            +IoBuf(): void
+            +init(byte[], int, int, Heapfile): void
+            +Put(Tuple): void
+            +Get(Tuple): Tuple
+            +flush(): long
+            +reread(): void
+        }
+
+        abstract class Iterator [[../iterator/Iterator.html]] {
+            +closeFlag: boolean
+            {abstract} +get_next(): Tuple
+            {abstract} +close(): void
+            +get_buffer_pages(int, PageId[], byte[]): void
+            +free_buffer_pages(int, PageId[]): void
+        }
+
+        class UnknownKeyTypeException [[../iterator/UnknownKeyTypeException.html]] {
+            +UnknownKeyTypeException()
+            +UnknownKeyTypeException(String)
+            +UnknownKeyTypeException(Exception, String)
+        }
+
+        class DuplElim [[../iterator/DuplElim.html]] {
+            +DuplElim(AttrType[], short, short[], Iterator, int, boolean)
+            +get_next(): Tuple
+            +close(): void
+        }
+
+        class SortMerge [[../iterator/SortMerge.html]] {
+            +SortMerge(AttrType[], int, short[], AttrType[], int, short[], int, int, int, int, int, Iterator, Iterator, boolean, boolean, TupleOrder, CondExpr[], FldSpec[], int)
+            +get_next(): Tuple
+            +close(): void
+        }
+
+        class Sort [[../iterator/Sort.html]] {
+            +Sort(AttrType[], short, short[], Iterator, int, TupleOrder, int, int)
+            +get_next(): Tuple
+            +close(): void
+        }
+
+        class FileScan [[../iterator/FileScan.html]] {
+            +FileScan(String, AttrType[], short[], short, int, FldSpec[], CondExpr[])
+            +show(): FldSpec[]
+            +get_next(): Tuple
+            +close(): void
+        }
+
+        class FileScanException [[../iterator/FileScanException.html]] {
+            +FileScanException(String)
+            +FileScanException(Exception, String)
+        }
+
+        class UnknowAttrType [[../iterator/UnknowAttrType.html]] {
+            +UnknowAttrType(String)
+            +UnknowAttrType(Exception, String)
+        }
+
+        class IteratorBMException [[../iterator/IteratorBMException.html]] {
+            +IteratorBMException(String)
+            +IteratorBMException(Exception, String)
+        }
+
+        class NestedLoopException [[../iterator/NestedLoopException.html]] {
+            +NestedLoopException(String)
+            +NestedLoopException(Exception, String)
+        }
+
+        class DuplElimException [[../iterator/DuplElimException.html]] {
+            +DuplElimException(String)
+            +DuplElimException(Exception, String)
+        }
+
+        class RelSpec [[../iterator/RelSpec.html]] {
+            +key: int
+            {static} +outer: int
+            {static} +innerRel: int
+            +RelSpec(int)
+        }
+
+        class NestedLoopsJoins [[../iterator/NestedLoopsJoins.html]] {
+            +NestedLoopsJoins(AttrType[], int, short[], AttrType[], int, short[], int, Iterator, String, CondExpr[], CondExpr[], FldSpec[], int)
+            +get_next(): Tuple
+            +close(): void
+        }
+
+        class FldSpec [[../iterator/FldSpec.html]] {
+            +offset: int
+            +FldSpec(RelSpec, int)
+        }
+
+        class PredEval [[../iterator/PredEval.html]] {
+            {static} +Eval(CondExpr[], Tuple, Tuple, AttrType[], AttrType[]): boolean
+        }
+
+        class Operand [[../iterator/Operand.html]] {
+            +string: String
+            +integer: int
+            +real: float
+        }
+
+        class SpoofIbuf [[../iterator/SpoofIbuf.html]] {
+            +SpoofIbuf(): void
+            +init(Heapfile, byte[], int, int, int): void
+            +Get(Tuple): Tuple
+            +empty(): boolean
+        }
+
+        class CondExpr [[../iterator/CondExpr.html]] {
+            +op: AttrOperator
+            +type1: AttrType
+            +type2: AttrType
+        }
+
+        class JoinsException [[../iterator/JoinsException.html]] {
+            +JoinsException(String)
+            +JoinsException(Exception, String)
+        }
+
+        class pnodeSplayPQ [[../iterator/pnodeSplayPQ.html]] {
+            +pnodeSplayPQ()
+            +pnodeSplayPQ(int, AttrType, TupleOrder)
+            +enq(pnode): void
+            +deq(): pnode
+        }
+
+        class InvalidRelation [[../iterator/InvalidRelation.html]] {
+            +InvalidRelation(String)
+            +InvalidRelation(Exception, String)
+        }
+
+        class pnodeSplayNode [[../iterator/pnodeSplayNode.html]] {
+            +pnodeSplayNode(pnode)
+            +pnodeSplayNode(pnode, pnodeSplayNode, pnodeSplayNode)
+        }
+
+        class JoinLowMemory [[../iterator/JoinLowMemory.html]] {
+            +JoinLowMemory(String)
+            +JoinLowMemory(Exception, String)
+        }
+
+        class Projection [[../iterator/Projection.html]] {
+            {static} +Join(Tuple, AttrType[], Tuple, AttrType[], Tuple, FldSpec[], int): void
+            {static} +Project(Tuple, AttrType[], Tuple, FldSpec[], int): void
+        }
+
+        abstract class pnodePQ [[../iterator/pnodePQ.html]] {
+            +length(): int
+            +empty(): boolean
+            {abstract} +enq(pnode): void
+            {abstract} +deq(): pnode
+            +pnodeCMP(pnode, pnode): int
+            +pnodeEQ(pnode, pnode): boolean
+        }
+
+        class WrongPermat [[../iterator/WrongPermat.html]] {
+            +WrongPermat(String)
+            +WrongPermat(Exception, String)
+        }
+
+        class TupleUtils [[../iterator/TupleUtils.html]] {
+            {static} +CompareTupleWithTuple(AttrType, Tuple, int, Tuple, int): int
+            {static} +CompareTupleWithValue(AttrType, Tuple, int, Tuple): int
+            {static} +Equal(Tuple, Tuple, AttrType[], int): boolean
+            {static} +Value(Tuple, int): String
+            {static} +SetValue(Tuple, Tuple, int, AttrType): void
+            {static} +setup_op_tuple(Tuple, AttrType[], AttrType[], int, AttrType[], int, short[], short[], FldSpec[], int): short[]
+            {static} +setup_op_tuple(Tuple, AttrType[], AttrType[], int, short[], FldSpec[], int): short[]
+        }
+
+        class JoinNewFailed [[../iterator/JoinNewFailed.html]] {
+            +JoinNewFailed(String)
+            +JoinNewFailed(Exception, String)
+        }
+
+        class pnode [[../iterator/pnode.html]] {
+            +run_num: int
+            +tuple: Tuple
+            +pnode()
+            +pnode(int, Tuple)
+        }
+
+        class LowMemException [[../iterator/LowMemException.html]] {
+            +LowMemException(String)
+            +LowMemException(Exception, String)
+        }
+
+        class NoOutputBuffer [[../iterator/NoOutputBuffer.html]] {
+            +NoOutputBuffer(String)
+            +NoOutputBuffer(Exception, String)
+        }
+
+        class TupleUtilsException [[../iterator/TupleUtilsException.html]] {
+            +TupleUtilsException(String)
+            +TupleUtilsException(Exception, String)
+        }
+
+        class PredEvalException [[../iterator/PredEvalException.html]] {
+            +PredEvalException(String)
+            +PredEvalException(Exception, String)
+        }
+
+        class OBuf [[../iterator/OBuf.html]] {
+            +init(byte[], int, int, Heapfile, boolean): void
+            +Put(Tuple): Tuple
+            +flush(): long
+        }
+
+        chainexception.ChainException <|- - SortException
+        global.GlobalConst <|.. IoBuf
+        global.Flags <|.. Iterator
+        chainexception.ChainException <|- - UnknownKeyTypeException
+        Iterator <|- - DuplElim
+        Iterator <|- - SortMerge
+        global.GlobalConst <|.. SortMerge
+        Iterator <|- - Sort
+        global.GlobalConst <|.. Sort
+        Iterator <|- - FileScan
+        FileScan - -> "*" FldSpec: perm_mat
+        chainexception.ChainException <|- - FileScanException
+        chainexception.ChainException <|- - UnknowAttrType
+        chainexception.ChainException <|- - IteratorBMException
+        chainexception.ChainException <|- - NestedLoopException
+        chainexception.ChainException <|- - DuplElimException
+        Iterator <|- - NestedLoopsJoins
+        FldSpec - -> RelSpec: relation
+        Operand - -> FldSpec: symbol
+        global.GlobalConst <|.. SpoofIbuf
+        CondExpr - -> Operand: operand1\noperand2
+        CondExpr - -> CondExpr: next
+        chainexception.ChainException <|- - JoinsException
+        pnodePQ <|- - pnodeSplayPQ
+        chainexception.ChainException <|- - InvalidRelation
+        pnodeSplayNode - -> pnode: item
+        pnodeSplayNode - -> pnodeSplayNode: lt\nrt\npar\ndummy
+        chainexception.ChainException <|- - JoinLowMemory
+        chainexception.ChainException <|- - WrongPermat
+        chainexception.ChainException <|- - JoinNewFailed
+        chainexception.ChainException <|- - LowMemException
+        chainexception.ChainException <|- - NoOutputBuffer
+        chainexception.ChainException <|- - TupleUtilsException
+        chainexception.ChainException <|- - PredEvalException
+        global.GlobalConst <|.. OBuf
+    }
+
+    namespace chainexception {
+        class ChainException [[../chainexception/ChainException.html]] {
+            +prev: Exception
+        }
+    }
+
+    namespace global {
+        interface GlobalConst [[../global/GlobalConst.html]] {
+            {static} +MINIBASE_MAXARRSIZE: int
+            {static} +NUMBUF: int
+            {static} +MINIBASE_PAGESIZE: int
+            {static} +MINIBASE_BUFFER_POOL_SIZE: int
+            {static} +MAX_SPACE: int
+            {static} +MINIBASE_DB_SIZE: int
+            {static} +MINIBASE_MAX_TRANSACTIONS: int
+            {static} +MINIBASE_DEFAULT_SHAREDMEM_SIZE: int
+            {static} +MAXFILENAME: int
+            {static} +MAXINDEXNAME: int
+            {static} +MAXATTRNAME: int
+            {static} +MAX_NAME: int
+            {static} +INVALID_PAGE: int
+        }
+        interface Flags [[../global/Flags.html]] {
+            {static} +TEST: boolean
+            {static} +DEBUG: boolean
+        }
+    }
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

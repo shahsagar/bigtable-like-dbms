@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="640px" preserveAspectRatio="none"
+     style="width:373px;height:640px;" version="1.1" viewBox="0 0 373 640" width="373px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1kh3jjpnuapc8" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[44ab6431109e630d8022b44145accdff]
+class heap.HFPage-->
+        <a href="../heap/HFPage.html" target="_top" title="../heap/HFPage.html" xlink:actuate="onRequest"
+           xlink:href="../heap/HFPage.html" xlink:show="new" xlink:title="../heap/HFPage.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1kh3jjpnuapc8)" height="502.1016" id="heap.HFPage"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="174" x="74" y="106"/>
+            <ellipse cx="130.25" cy="124.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M133.2188,130.6094 Q132.6406,130.9063 132,131.0469 Q131.3594,131.2031 130.6563,131.2031 Q128.1563,131.2031 126.8281,129.5625 Q125.5156,127.9063 125.5156,124.7813 Q125.5156,121.6563 126.8281,120 Q128.1563,118.3438 130.6563,118.3438 Q131.3594,118.3438 132,118.5 Q132.6563,118.6563 133.2188,118.9531 L133.2188,121.6719 Q132.5938,121.0938 132,120.8281 Q131.4063,120.5469 130.7813,120.5469 Q129.4375,120.5469 128.75,121.625 Q128.0625,122.6875 128.0625,124.7813 Q128.0625,126.875 128.75,127.9531 Q129.4375,129.0156 130.7813,129.0156 Q131.4063,129.0156 132,128.75 Q132.5938,128.4688 133.2188,127.8906 L133.2188,130.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="53"
+                  x="150.75" y="123.9951">HFPage
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="24"
+                  x="165.25" y="136.5791">heap
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="75" x2="247" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="85" cy="154.9375" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="106" x="94" y="158.1479">SIZE_OF_SLOT: int
+            </text>
+            <ellipse cx="85" cy="167.7422" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="68" x="94" y="170.9526">DPFIXED: int
+            </text>
+            <ellipse cx="85" cy="180.5469" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="81" x="94" y="183.7573">SLOT_CNT: int
+            </text>
+            <ellipse cx="85" cy="193.3516" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="80" x="94" y="196.562">USED_PTR: int
+            </text>
+            <ellipse cx="85" cy="206.1563" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="92" x="94" y="209.3667">FREE_SPACE: int
+            </text>
+            <ellipse cx="85" cy="218.9609" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="50" x="94" y="222.1714">TYPE: int
+            </text>
+            <ellipse cx="85" cy="231.7656" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="86" x="94" y="234.9761">PREV_PAGE: int
+            </text>
+            <ellipse cx="85" cy="244.5703" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="87" x="94" y="247.7808">NEXT_PAGE: int
+            </text>
+            <ellipse cx="85" cy="257.375" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="81" x="94" y="260.5854">CUR_PAGE: int
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="75" x2="247" y1="267.1797" y2="267.1797"/>
+            <ellipse cx="85" cy="278.1797" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="50"
+                  x="94" y="281.3901">HFPage()
+            </text>
+            <ellipse cx="85" cy="290.9844" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="78"
+                  x="94" y="294.1948">HFPage(Page)
+            </text>
+            <ellipse cx="85" cy="303.7891" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="137" x="94" y="306.9995">openHFpage(Page): void
+            </text>
+            <ellipse cx="85" cy="316.5938" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="130" x="94" y="319.8042">init(PageId, Page): void
+            </text>
+            <ellipse cx="85" cy="329.3984" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="138" x="94" y="332.6089">getHFpageArray(): byte[]
+            </text>
+            <ellipse cx="85" cy="342.2031" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="99"
+                  x="94" y="345.4136">dumpPage(): void
+            </text>
+            <ellipse cx="85" cy="355.0078" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="125" x="94" y="358.2183">getPrevPage(): PageId
+            </text>
+            <ellipse cx="85" cy="367.8125" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="148" x="94" y="371.0229">setPrevPage(PageId): void
+            </text>
+            <ellipse cx="85" cy="380.6172" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="125" x="94" y="383.8276">getNextPage(): PageId
+            </text>
+            <ellipse cx="85" cy="393.4219" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="148" x="94" y="396.6323">setNextPage(PageId): void
+            </text>
+            <ellipse cx="85" cy="406.2266" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="120" x="94" y="409.437">getCurPage(): PageId
+            </text>
+            <ellipse cx="85" cy="419.0313" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="143" x="94" y="422.2417">setCurPage(PageId): void
+            </text>
+            <ellipse cx="85" cy="431.8359" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="91"
+                  x="94" y="435.0464">getType(): short
+            </text>
+            <ellipse cx="85" cy="444.6406" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="114" x="94" y="447.8511">setType(short): void
+            </text>
+            <ellipse cx="85" cy="457.4453" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="105" x="94" y="460.6558">getSlotCnt(): short
+            </text>
+            <ellipse cx="85" cy="470.25" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="137" x="94" y="473.4604">setSlot(int, int, int): void
+            </text>
+            <ellipse cx="85" cy="483.0547" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="138" x="94" y="486.2651">getSlotLength(int): short
+            </text>
+            <ellipse cx="85" cy="495.8594" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="135" x="94" y="499.0698">getSlotOffset(int): short
+            </text>
+            <ellipse cx="85" cy="508.6641" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="138" x="94" y="511.8745">insertRecord(byte[]): RID
+            </text>
+            <ellipse cx="85" cy="521.4688" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="131" x="94" y="524.6792">deleteRecord(RID): void
+            </text>
+            <ellipse cx="85" cy="534.2734" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="94" y="537.4839">firstRecord(): RID
+            </text>
+            <ellipse cx="85" cy="547.0781" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="115" x="94" y="550.2886">nextRecord(RID): RID
+            </text>
+            <ellipse cx="85" cy="559.8828" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="122" x="94" y="563.0933">getRecord(RID): Tuple
+            </text>
+            <ellipse cx="85" cy="572.6875" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="139" x="94" y="575.8979">returnRecord(RID): Tuple
+            </text>
+            <ellipse cx="85" cy="585.4922" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="120" x="94" y="588.7026">available_space(): int
+            </text>
+            <ellipse cx="85" cy="598.2969" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96"
+                  x="94" y="601.5073">empty(): boolean
+            </text>
+        </a><!--MD5=[7bd2969ac2e1365d6237604ccfb15f7f]
+class diskmgr.Page-->
+        <a href="../diskmgr/Page.html" target="_top" title="../diskmgr/Page.html" xlink:actuate="onRequest"
+           xlink:href="../diskmgr/Page.html" xlink:show="new" xlink:title="../diskmgr/Page.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1kh3jjpnuapc8)" height="37.9375" id="diskmgr.Page"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="70" x="6" y="8"/>
+            <ellipse cx="21" cy="26.9688" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M23.9688,32.6094 Q23.3906,32.9063 22.75,33.0469 Q22.1094,33.2031 21.4063,33.2031 Q18.9063,33.2031 17.5781,31.5625 Q16.2656,29.9063 16.2656,26.7813 Q16.2656,23.6563 17.5781,22 Q18.9063,20.3438 21.4063,20.3438 Q22.1094,20.3438 22.75,20.5 Q23.4063,20.6563 23.9688,20.9531 L23.9688,23.6719 Q23.3438,23.0938 22.75,22.8281 Q22.1563,22.5469 21.5313,22.5469 Q20.1875,22.5469 19.5,23.625 Q18.8125,24.6875 18.8125,26.7813 Q18.8125,28.875 19.5,29.9531 Q20.1875,31.0156 21.5313,31.0156 Q22.1563,31.0156 22.75,30.75 Q23.3438,30.4688 23.9688,29.8906 L23.9688,32.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="35"
+                  x="36.5" y="25.9951">Page
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="38"
+                  x="35" y="38.5791">diskmgr
+            </text>
+        </a><!--MD5=[e0be28bf9828a64e3b3cf4c3e6289ca8]
+class heap.ConstSlot-->
+        <rect fill="#FEFECE" filter="url(#f1kh3jjpnuapc8)" height="37.9375" id="heap.ConstSlot"
+              style="stroke: #A80036; stroke-width: 1.5;" width="99" x="111.5" y="8"/>
+        <ellipse cx="126.5" cy="26.9688" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M122.4219,22.7344 L122.4219,20.5781 L129.8125,20.5781 L129.8125,22.7344 L127.3438,22.7344 L127.3438,30.8125 L129.8125,30.8125 L129.8125,32.9688 L122.4219,32.9688 L122.4219,30.8125 L124.8906,30.8125 L124.8906,22.7344 L122.4219,22.7344 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs"
+              textLength="67" x="140.5" y="25.9951">ConstSlot
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" lengthAdjust="spacingAndGlyphs"
+              textLength="24" x="162" y="38.5791">heap
+        </text><!--MD5=[349d101bc5b57a3de1b8b252b2bcdd93]
+class global.GlobalConst-->
+        <a href="../global/GlobalConst.html" target="_top" title="../global/GlobalConst.html" xlink:actuate="onRequest"
+           xlink:href="../global/GlobalConst.html" xlink:show="new" xlink:title="../global/GlobalConst.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1kh3jjpnuapc8)" height="37.9375" id="global.GlobalConst"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="116" x="246" y="8"/>
+            <ellipse cx="261" cy="26.9688" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M256.9219,22.7344 L256.9219,20.5781 L264.3125,20.5781 L264.3125,22.7344 L261.8438,22.7344 L261.8438,30.8125 L264.3125,30.8125 L264.3125,32.9688 L256.9219,32.9688 L256.9219,30.8125 L259.3906,30.8125 L259.3906,22.7344 L256.9219,22.7344 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="84" x="275" y="25.9951">GlobalConst
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="28" x="303" y="38.5791">global
+            </text>
+        </a><!--MD5=[656beaa19ac6be706e55e166de11d6bf]
+reverse link diskmgr.Page to heap.HFPage-->
+        <path d="M54.8422,65.066 C60.1782,79.74 66.7438,97.7956 73.971,117.6702 " fill="none"
+              id="diskmgr.Page&lt;-heap.HFPage" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="48.2268,67.3567,47.9704,46.1686,61.3839,62.5722,48.2268,67.3567"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a91cef12ac1b3ee04c30ea95bad53183]
+reverse link heap.ConstSlot to heap.HFPage-->
+        <path d="M161,66.1692 C161,77.6708 161,91.18 161,105.9695 " fill="none" id="heap.ConstSlot&lt;-heap.HFPage"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="154.0001,66.1686,161,46.1686,168.0001,66.1685,154.0001,66.1686"
+                 style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[53fb1bbc05b594f41d09ea3abbc4a03b]
+reverse link global.GlobalConst to heap.HFPage-->
+        <path d="M287.7389,64.5255 C277.4637,88.2375 263.2962,120.9319 248.1429,155.901 " fill="none"
+              id="global.GlobalConst&lt;-heap.HFPage"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="281.3185,61.7364,295.6936,46.1686,294.1643,67.303,281.3185,61.7364"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="97" y="627.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[4ee2faca1f072a95ce99fa2dda9cde85]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>HFPage\n<size:10>heap" as heap.HFPage [[../heap/HFPage.html]] {
+        {static} +SIZE_OF_SLOT: int
+        {static} +DPFIXED: int
+        {static} +SLOT_CNT: int
+        {static} +USED_PTR: int
+        {static} +FREE_SPACE: int
+        {static} +TYPE: int
+        {static} +PREV_PAGE: int
+        {static} +NEXT_PAGE: int
+        {static} +CUR_PAGE: int
+        +HFPage()
+        +HFPage(Page)
+        +openHFpage(Page): void
+        +init(PageId, Page): void
+        +getHFpageArray(): byte[]
+        +dumpPage(): void
+        +getPrevPage(): PageId
+        +setPrevPage(PageId): void
+        +getNextPage(): PageId
+        +setNextPage(PageId): void
+        +getCurPage(): PageId
+        +setCurPage(PageId): void
+        +getType(): short
+        +setType(short): void
+        +getSlotCnt(): short
+        +setSlot(int, int, int): void
+        +getSlotLength(int): short
+        +getSlotOffset(int): short
+        +insertRecord(byte[]): RID
+        +deleteRecord(RID): void
+        +firstRecord(): RID
+        +nextRecord(RID): RID
+        +getRecord(RID): Tuple
+        +returnRecord(RID): Tuple
+        +available_space(): int
+        +empty(): boolean
+    }
+
+    class "<size:14>Page\n<size:10>diskmgr" as diskmgr.Page [[../diskmgr/Page.html]]
+    interface "<size:14>ConstSlot\n<size:10>heap" as heap.ConstSlot
+    interface "<size:14>GlobalConst\n<size:10>global" as global.GlobalConst [[../global/GlobalConst.html]]
+
+    diskmgr.Page <|- - heap.HFPage
+    heap.ConstSlot <|.. heap.HFPage
+    global.GlobalConst <|.. heap.HFPage
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

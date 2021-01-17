@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="172px" preserveAspectRatio="none"
+     style="width:622px;height:172px;" version="1.1" viewBox="0 0 622 172" width="622px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1nzntrxnxds8z" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[cd569bd0662d2890ccd20db0dfd4450f]
+class iterator.TupleUtils-->
+        <a href="../iterator/TupleUtils.html" target="_top" title="../iterator/TupleUtils.html"
+           xlink:actuate="onRequest" xlink:href="../iterator/TupleUtils.html" xlink:show="new"
+           xlink:title="../iterator/TupleUtils.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1nzntrxnxds8z)" height="135.5703" id="iterator.TupleUtils"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="604" x="7" y="7"/>
+            <ellipse cx="270.75" cy="25.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M273.7188,31.6094 Q273.1406,31.9063 272.5,32.0469 Q271.8594,32.2031 271.1563,32.2031 Q268.6563,32.2031 267.3281,30.5625 Q266.0156,28.9063 266.0156,25.7813 Q266.0156,22.6563 267.3281,21 Q268.6563,19.3438 271.1563,19.3438 Q271.8594,19.3438 272.5,19.5 Q273.1563,19.6563 273.7188,19.9531 L273.7188,22.6719 Q273.0938,22.0938 272.5,21.8281 Q271.9063,21.5469 271.2813,21.5469 Q269.9375,21.5469 269.25,22.625 Q268.5625,23.6875 268.5625,25.7813 Q268.5625,27.875 269.25,28.9531 Q269.9375,30.0156 271.2813,30.0156 Q271.9063,30.0156 272.5,29.75 Q273.0938,29.4688 273.7188,28.8906 L273.7188,31.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68"
+                  x="291.25" y="24.9951">TupleUtils
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="36"
+                  x="307.25" y="37.5791">iterator
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="8" x2="610" y1="44.9375" y2="44.9375"/>
+            <ellipse cx="18" cy="55.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="336" x="27" y="59.1479">CompareTupleWithTuple(AttrType, Tuple,
+                int, Tuple, int): int
+            </text>
+            <ellipse cx="18" cy="68.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="314" x="27" y="71.9526">CompareTupleWithValue(AttrType, Tuple,
+                int, Tuple): int
+            </text>
+            <ellipse cx="18" cy="81.5469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="247" x="27" y="84.7573">Equal(Tuple, Tuple, AttrType[], int):
+                boolean
+            </text>
+            <ellipse cx="18" cy="94.3516" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="134" x="27" y="97.562">Value(Tuple, int): String
+            </text>
+            <ellipse cx="18" cy="107.1563" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="236" x="27" y="110.3667">SetValue(Tuple, Tuple, int,
+                AttrType): void
+            </text>
+            <ellipse cx="18" cy="119.9609" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="578" x="27" y="123.1714">setup_op_tuple(Tuple, AttrType[],
+                AttrType[], int, AttrType[], int, short[], short[], FldSpec[], int): short[]
+            </text>
+            <ellipse cx="18" cy="132.7656" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  text-decoration="underline" textLength="447" x="27" y="135.9761">setup_op_tuple(Tuple, AttrType[],
+                AttrType[], int, short[], FldSpec[], int): short[]
+            </text>
+        </a>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="216" y="158.8525">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[7b77d1633047070a7cd33d80006ca50d]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>TupleUtils\n<size:10>iterator" as iterator.TupleUtils [[../iterator/TupleUtils.html]] {
+        {static} +CompareTupleWithTuple(AttrType, Tuple, int, Tuple, int): int
+        {static} +CompareTupleWithValue(AttrType, Tuple, int, Tuple): int
+        {static} +Equal(Tuple, Tuple, AttrType[], int): boolean
+        {static} +Value(Tuple, int): String
+        {static} +SetValue(Tuple, Tuple, int, AttrType): void
+        {static} +setup_op_tuple(Tuple, AttrType[], AttrType[], int, AttrType[], int, short[], short[], FldSpec[], int): short[]
+        {static} +setup_op_tuple(Tuple, AttrType[], AttrType[], int, short[], FldSpec[], int): short[]
+    }
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

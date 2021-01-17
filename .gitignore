@@ -1,0 +1,7 @@
+.idea/
+
+# Ignore all Java class files
+*.class
+
+# Ignore javadoc in other folders
+javaminibase/javadoc

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="256px" preserveAspectRatio="none"
+     style="width:289px;height:256px;" version="1.1" viewBox="0 0 289 256" width="289px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="frnqkms0n3fgv" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[b0ecc7d2f56746be8636affc17cd54d4]
+class iterator.Iterator-->
+        <a href="../iterator/Iterator.html" target="_top" title="../iterator/Iterator.html" xlink:actuate="onRequest"
+           xlink:href="../iterator/Iterator.html" xlink:show="new" xlink:title="../iterator/Iterator.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#frnqkms0n3fgv)" height="117.9609" id="iterator.Iterator"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="272" x="6" y="106"/>
+            <ellipse cx="113.25" cy="124.9688" fill="#A9DCDF" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M113.3594,120.3125 L112.2031,125.3906 L114.5313,125.3906 L113.3594,120.3125 Z M111.875,118.0781 L114.8594,118.0781 L118.2188,130.4688 L115.7656,130.4688 L115,127.4063 L111.7188,127.4063 L110.9688,130.4688 L108.5313,130.4688 L111.875,118.0781 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="49" x="133.75" y="123.9951">Iterator
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="36" x="140.25" y="136.5791">iterator
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="277" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="17" cy="154.9375" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="106" x="26" y="158.1479">closeFlag: boolean
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="277" y1="164.7422" y2="164.7422"/>
+            <ellipse cx="17" cy="175.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="95" x="26" y="178.9526">get_next(): Tuple
+            </text>
+            <ellipse cx="17" cy="188.5469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="69" x="26" y="191.7573">close(): void
+            </text>
+            <ellipse cx="17" cy="201.3516" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="246" x="26" y="204.562">get_buffer_pages(int, PageId[], byte[]): void
+            </text>
+            <ellipse cx="17" cy="214.1563" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="211" x="26" y="217.3667">free_buffer_pages(int, PageId[]): void
+            </text>
+        </a><!--MD5=[f419cf2c77e6f912aad533062758033e]
+class global.Flags-->
+        <a href="../global/Flags.html" target="_top" title="../global/Flags.html" xlink:actuate="onRequest"
+           xlink:href="../global/Flags.html" xlink:show="new" xlink:title="../global/Flags.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#frnqkms0n3fgv)" height="37.9375" id="global.Flags"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="68" x="108" y="8"/>
+            <ellipse cx="123" cy="26.9688" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M118.9219,22.7344 L118.9219,20.5781 L126.3125,20.5781 L126.3125,22.7344 L123.8438,22.7344 L123.8438,30.8125 L126.3125,30.8125 L126.3125,32.9688 L118.9219,32.9688 L118.9219,30.8125 L121.3906,30.8125 L121.3906,22.7344 L118.9219,22.7344 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="36" x="137" y="25.9951">Flags
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="28" x="141" y="38.5791">global
+            </text>
+        </a><!--MD5=[056688c8c20b62280c77342228339f5b]
+reverse link global.Flags to iterator.Iterator-->
+        <path d="M142,66.2842 C142,78.6422 142,92.5722 142,105.9877 " fill="none"
+              id="global.Flags&lt;-iterator.Iterator"
+              style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/>
+        <polygon fill="none" points="135.0001,66.1883,142,46.1883,149.0001,66.1883,135.0001,66.1883"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="55" y="243.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[54560e10c497929fadc3ed96dc336709]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    abstract class "<size:14>Iterator\n<size:10>iterator" as iterator.Iterator [[../iterator/Iterator.html]] {
+        +closeFlag: boolean
+        {abstract} +get_next(): Tuple
+        {abstract} +close(): void
+        +get_buffer_pages(int, PageId[], byte[]): void
+        +free_buffer_pages(int, PageId[]): void
+    }
+
+    interface "<size:14>Flags\n<size:10>global" as global.Flags [[../global/Flags.html]]
+
+    global.Flags <|.. iterator.Iterator
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

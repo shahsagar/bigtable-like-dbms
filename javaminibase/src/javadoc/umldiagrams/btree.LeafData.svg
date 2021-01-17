@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="210px" preserveAspectRatio="none"
+     style="width:198px;height:210px;" version="1.1" viewBox="0 0 198 210" width="198px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f106g6ngzezthw" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[0ad8bf7f2ecb64768b6ce971e83fb692]
+class btree.LeafData-->
+        <a href="../btree/LeafData.html" target="_top" title="../btree/LeafData.html" xlink:actuate="onRequest"
+           xlink:href="../btree/LeafData.html" xlink:show="new" xlink:title="../btree/LeafData.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f106g6ngzezthw)" height="71.5469" id="btree.LeafData"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="127" x="23.5" y="106"/>
+            <ellipse cx="54.25" cy="124.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M57.2188,130.6094 Q56.6406,130.9063 56,131.0469 Q55.3594,131.2031 54.6563,131.2031 Q52.1563,131.2031 50.8281,129.5625 Q49.5156,127.9063 49.5156,124.7813 Q49.5156,121.6563 50.8281,120 Q52.1563,118.3438 54.6563,118.3438 Q55.3594,118.3438 56,118.5 Q56.6563,118.6563 57.2188,118.9531 L57.2188,121.6719 Q56.5938,121.0938 56,120.8281 Q55.4063,120.5469 54.7813,120.5469 Q53.4375,120.5469 52.75,121.625 Q52.0625,122.6875 52.0625,124.7813 Q52.0625,126.875 52.75,127.9531 Q53.4375,129.0156 54.7813,129.0156 Q55.4063,129.0156 56,128.75 Q56.5938,128.4688 57.2188,127.8906 L57.2188,130.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="60"
+                  x="71.75" y="123.9951">LeafData
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="26"
+                  x="88.75" y="136.5791">btree
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="24.5" x2="149.5" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="34.5" cy="154.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="78"
+                  x="43.5" y="158.1479">getData(): RID
+            </text>
+            <ellipse cx="34.5" cy="167.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="101" x="43.5" y="170.9526">setData(RID): void
+            </text>
+        </a><!--MD5=[619f0b0e126f5b9b41d25570e970d3fa]
+class btree.DataClass-->
+        <a href="../btree/DataClass.html" target="_top" title="../btree/DataClass.html" xlink:actuate="onRequest"
+           xlink:href="../btree/DataClass.html" xlink:show="new" xlink:title="../btree/DataClass.html"
+           xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f106g6ngzezthw)" height="37.9375" id="btree.DataClass"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="101" x="36.5" y="8"/>
+            <ellipse cx="51.5" cy="26.9688" fill="#A9DCDF" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M51.6094,22.3125 L50.4531,27.3906 L52.7813,27.3906 L51.6094,22.3125 Z M50.125,20.0781 L53.1094,20.0781 L56.4688,32.4688 L54.0156,32.4688 L53.25,29.4063 L49.9688,29.4063 L49.2188,32.4688 L46.7813,32.4688 L50.125,20.0781 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="69" x="65.5" y="25.9951">DataClass
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic"
+                  lengthAdjust="spacingAndGlyphs" textLength="26" x="87" y="38.5791">btree
+            </text>
+        </a><!--MD5=[f6f73e936f7acf30ca05d790625aab0f]
+reverse link btree.DataClass to btree.LeafData-->
+        <path d="M87,66.5888 C87,79.3573 87,93.4348 87,105.935 " fill="none" id="btree.DataClass&lt;-btree.LeafData"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="80.0001,66.2484,87,46.2484,94.0001,66.2484,80.0001,66.2484"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="0" y="197.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[752d14606448c7283804564ca30aeeb7]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>LeafData\n<size:10>btree" as btree.LeafData [[../btree/LeafData.html]] {
+        +getData(): RID
+        +setData(RID): void
+    }
+
+    abstract class "<size:14>DataClass\n<size:10>btree" as btree.DataClass [[../btree/DataClass.html]]
+
+    btree.DataClass <|- - btree.LeafData
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

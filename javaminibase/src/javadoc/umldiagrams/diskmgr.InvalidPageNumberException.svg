@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="197px" preserveAspectRatio="none"
+     style="width:310px;height:197px;" version="1.1" viewBox="0 0 310 197" width="310px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="fdnkbwhyf9265" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[8673352ea553623c420dbb768be1c70c]
+class diskmgr.InvalidPageNumberException-->
+        <a href="../diskmgr/InvalidPageNumberException.html" target="_top"
+           title="../diskmgr/InvalidPageNumberException.html" xlink:actuate="onRequest"
+           xlink:href="../diskmgr/InvalidPageNumberException.html" xlink:show="new"
+           xlink:title="../diskmgr/InvalidPageNumberException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fdnkbwhyf9265)" height="58.7422" id="diskmgr.InvalidPageNumberException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="293" x="6" y="106"/>
+            <ellipse cx="48.45" cy="124.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M51.4188,130.6094 Q50.8406,130.9063 50.2,131.0469 Q49.5594,131.2031 48.8563,131.2031 Q46.3563,131.2031 45.0281,129.5625 Q43.7156,127.9063 43.7156,124.7813 Q43.7156,121.6563 45.0281,120 Q46.3563,118.3438 48.8563,118.3438 Q49.5594,118.3438 50.2,118.5 Q50.8563,118.6563 51.4188,118.9531 L51.4188,121.6719 Q50.7938,121.0938 50.2,120.8281 Q49.6063,120.5469 48.9813,120.5469 Q47.6375,120.5469 46.95,121.625 Q46.2625,122.6875 46.2625,124.7813 Q46.2625,126.875 46.95,127.9531 Q47.6375,129.0156 48.9813,129.0156 Q49.6063,129.0156 50.2,128.75 Q50.7938,128.4688 51.4188,127.8906 L51.4188,130.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="200" x="68.55" y="123.9951">InvalidPageNumberException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="38"
+                  x="149.55" y="136.5791">diskmgr
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="298" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="17" cy="154.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="267" x="26" y="158.1479">InvalidPageNumberException(Exception, String)
+            </text>
+        </a><!--MD5=[2a7cd8221fe6583b4d4c6786e4469311]
+class chainexception.ChainException-->
+        <a href="../chainexception/ChainException.html" target="_top" title="../chainexception/ChainException.html"
+           xlink:actuate="onRequest" xlink:href="../chainexception/ChainException.html" xlink:show="new"
+           xlink:title="../chainexception/ChainException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#fdnkbwhyf9265)" height="37.9375" id="chainexception.ChainException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="139" x="83" y="8"/>
+            <ellipse cx="98" cy="26.9688" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M100.9688,32.6094 Q100.3906,32.9063 99.75,33.0469 Q99.1094,33.2031 98.4063,33.2031 Q95.9063,33.2031 94.5781,31.5625 Q93.2656,29.9063 93.2656,26.7813 Q93.2656,23.6563 94.5781,22 Q95.9063,20.3438 98.4063,20.3438 Q99.1094,20.3438 99.75,20.5 Q100.4063,20.6563 100.9688,20.9531 L100.9688,23.6719 Q100.3438,23.0938 99.75,22.8281 Q99.1563,22.5469 98.5313,22.5469 Q97.1875,22.5469 96.5,23.625 Q95.8125,24.6875 95.8125,26.7813 Q95.8125,28.875 96.5,29.9531 Q97.1875,31.0156 98.5313,31.0156 Q99.1563,31.0156 99.75,30.75 Q100.3438,30.4688 100.9688,29.8906 L100.9688,32.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="107" x="112" y="25.9951">ChainException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="72"
+                  x="129.5" y="38.5791">chainexception
+            </text>
+        </a><!--MD5=[2143e359963f0c41009cd58e38b4f5f4]
+reverse link chainexception.ChainException to diskmgr.InvalidPageNumberException-->
+        <path d="M152.5,66.3533 C152.5,79.4123 152.5,93.7197 152.5,105.9146 " fill="none"
+              id="chainexception.ChainException&lt;-diskmgr.InvalidPageNumberException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="145.5001,66.1479,152.5,46.1479,159.5001,66.1478,145.5001,66.1479"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="65.5" y="184.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[cdc47ba05e8268126d230d420705ebe1]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>InvalidPageNumberException\n<size:10>diskmgr" as diskmgr.InvalidPageNumberException [[../diskmgr/InvalidPageNumberException.html]] {
+        +InvalidPageNumberException(Exception, String)
+    }
+
+    class "<size:14>ChainException\n<size:10>chainexception" as chainexception.ChainException [[../chainexception/ChainException.html]]
+
+    chainexception.ChainException <|- - diskmgr.InvalidPageNumberException
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

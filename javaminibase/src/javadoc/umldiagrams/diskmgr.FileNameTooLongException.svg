@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="197px" preserveAspectRatio="none"
+     style="width:301px;height:197px;" version="1.1" viewBox="0 0 301 197" width="301px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1jjask5ykt1zp" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[43b302d6fc5211223bf51957bdb46554]
+class diskmgr.FileNameTooLongException-->
+        <a href="../diskmgr/FileNameTooLongException.html" target="_top"
+           title="../diskmgr/FileNameTooLongException.html" xlink:actuate="onRequest"
+           xlink:href="../diskmgr/FileNameTooLongException.html" xlink:show="new"
+           xlink:title="../diskmgr/FileNameTooLongException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1jjask5ykt1zp)" height="58.7422" id="diskmgr.FileNameTooLongException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="284" x="6" y="106"/>
+            <ellipse cx="48" cy="124.9688" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M50.9688,130.6094 Q50.3906,130.9063 49.75,131.0469 Q49.1094,131.2031 48.4063,131.2031 Q45.9063,131.2031 44.5781,129.5625 Q43.2656,127.9063 43.2656,124.7813 Q43.2656,121.6563 44.5781,120 Q45.9063,118.3438 48.4063,118.3438 Q49.1094,118.3438 49.75,118.5 Q50.4063,118.6563 50.9688,118.9531 L50.9688,121.6719 Q50.3438,121.0938 49.75,120.8281 Q49.1563,120.5469 48.5313,120.5469 Q47.1875,120.5469 46.5,121.625 Q45.8125,122.6875 45.8125,124.7813 Q45.8125,126.875 46.5,127.9531 Q47.1875,129.0156 48.5313,129.0156 Q49.1563,129.0156 49.75,128.75 Q50.3438,128.4688 50.9688,127.8906 L50.9688,130.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="192" x="68" y="123.9951">FileNameTooLongException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="38"
+                  x="145" y="136.5791">diskmgr
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="289" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="17" cy="154.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="258" x="26" y="158.1479">FileNameTooLongException(Exception, String)
+            </text>
+        </a><!--MD5=[2a7cd8221fe6583b4d4c6786e4469311]
+class chainexception.ChainException-->
+        <a href="../chainexception/ChainException.html" target="_top" title="../chainexception/ChainException.html"
+           xlink:actuate="onRequest" xlink:href="../chainexception/ChainException.html" xlink:show="new"
+           xlink:title="../chainexception/ChainException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1jjask5ykt1zp)" height="37.9375" id="chainexception.ChainException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="139" x="78.5" y="8"/>
+            <ellipse cx="93.5" cy="26.9688" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M96.4688,32.6094 Q95.8906,32.9063 95.25,33.0469 Q94.6094,33.2031 93.9063,33.2031 Q91.4063,33.2031 90.0781,31.5625 Q88.7656,29.9063 88.7656,26.7813 Q88.7656,23.6563 90.0781,22 Q91.4063,20.3438 93.9063,20.3438 Q94.6094,20.3438 95.25,20.5 Q95.9063,20.6563 96.4688,20.9531 L96.4688,23.6719 Q95.8438,23.0938 95.25,22.8281 Q94.6563,22.5469 94.0313,22.5469 Q92.6875,22.5469 92,23.625 Q91.3125,24.6875 91.3125,26.7813 Q91.3125,28.875 92,29.9531 Q92.6875,31.0156 94.0313,31.0156 Q94.6563,31.0156 95.25,30.75 Q95.8438,30.4688 96.4688,29.8906 L96.4688,32.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="107" x="107.5" y="25.9951">ChainException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="72"
+                  x="125" y="38.5791">chainexception
+            </text>
+        </a><!--MD5=[51e57079ec1c7ed9ecac75588661d7fb]
+reverse link chainexception.ChainException to diskmgr.FileNameTooLongException-->
+        <path d="M148,66.3533 C148,79.4123 148,93.7197 148,105.9146 " fill="none"
+              id="chainexception.ChainException&lt;-diskmgr.FileNameTooLongException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="141.0001,66.1479,148,46.1479,155.0001,66.1478,141.0001,66.1479"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="61" y="184.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[a0615e66a3fec9b647e68ef843d8a293]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>FileNameTooLongException\n<size:10>diskmgr" as diskmgr.FileNameTooLongException [[../diskmgr/FileNameTooLongException.html]] {
+        +FileNameTooLongException(Exception, String)
+    }
+
+    class "<size:14>ChainException\n<size:10>chainexception" as chainexception.ChainException [[../chainexception/ChainException.html]]
+
+    chainexception.ChainException <|- - diskmgr.FileNameTooLongException
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>

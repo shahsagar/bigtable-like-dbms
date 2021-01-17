@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="222px" preserveAspectRatio="none"
+     style="width:289px;height:222px;" version="1.1" viewBox="0 0 289 222" width="289px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1ucqooeqtt5qa" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[d8dd9a92a933f2441d524597e72ec5f3]
+class index.InvalidSelectionException-->
+        <a href="../index/InvalidSelectionException.html" target="_top" title="../index/InvalidSelectionException.html"
+           xlink:actuate="onRequest" xlink:href="../index/InvalidSelectionException.html" xlink:show="new"
+           xlink:title="../index/InvalidSelectionException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1ucqooeqtt5qa)" height="84.3516" id="index.InvalidSelectionException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="272" x="6" y="106"/>
+            <ellipse cx="50.75" cy="124.9688" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M53.7188,130.6094 Q53.1406,130.9063 52.5,131.0469 Q51.8594,131.2031 51.1563,131.2031 Q48.6563,131.2031 47.3281,129.5625 Q46.0156,127.9063 46.0156,124.7813 Q46.0156,121.6563 47.3281,120 Q48.6563,118.3438 51.1563,118.3438 Q51.8594,118.3438 52.5,118.5 Q53.1563,118.6563 53.7188,118.9531 L53.7188,121.6719 Q53.0938,121.0938 52.5,120.8281 Q51.9063,120.5469 51.2813,120.5469 Q49.9375,120.5469 49.25,121.625 Q48.5625,122.6875 48.5625,124.7813 Q48.5625,126.875 49.25,127.9531 Q49.9375,129.0156 51.2813,129.0156 Q51.9063,129.0156 52.5,128.75 Q53.0938,128.4688 53.7188,127.8906 L53.7188,130.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="174" x="71.25" y="123.9951">InvalidSelectionException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="26"
+                  x="145.25" y="136.5791">index
+            </text>
+            <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="277" y1="143.9375" y2="143.9375"/>
+            <ellipse cx="17" cy="154.9375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="150" x="26" y="158.1479">InvalidSelectionException()
+            </text>
+            <ellipse cx="17" cy="167.7422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="184" x="26" y="170.9526">InvalidSelectionException(String)
+            </text>
+            <ellipse cx="17" cy="180.5469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs"
+                  textLength="246" x="26" y="183.7573">InvalidSelectionException(Exception, String)
+            </text>
+        </a><!--MD5=[2a7cd8221fe6583b4d4c6786e4469311]
+class chainexception.ChainException-->
+        <a href="../chainexception/ChainException.html" target="_top" title="../chainexception/ChainException.html"
+           xlink:actuate="onRequest" xlink:href="../chainexception/ChainException.html" xlink:show="new"
+           xlink:title="../chainexception/ChainException.html" xlink:type="simple">
+            <rect fill="#FEFECE" filter="url(#f1ucqooeqtt5qa)" height="37.9375" id="chainexception.ChainException"
+                  style="stroke: #A80036; stroke-width: 1.5;" width="139" x="72.5" y="8"/>
+            <ellipse cx="87.5" cy="26.9688" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+            <path d="M90.4688,32.6094 Q89.8906,32.9063 89.25,33.0469 Q88.6094,33.2031 87.9063,33.2031 Q85.4063,33.2031 84.0781,31.5625 Q82.7656,29.9063 82.7656,26.7813 Q82.7656,23.6563 84.0781,22 Q85.4063,20.3438 87.9063,20.3438 Q88.6094,20.3438 89.25,20.5 Q89.9063,20.6563 90.4688,20.9531 L90.4688,23.6719 Q89.8438,23.0938 89.25,22.8281 Q88.6563,22.5469 88.0313,22.5469 Q86.6875,22.5469 86,23.625 Q85.3125,24.6875 85.3125,26.7813 Q85.3125,28.875 86,29.9531 Q86.6875,31.0156 88.0313,31.0156 Q88.6563,31.0156 89.25,30.75 Q89.8438,30.4688 90.4688,29.8906 L90.4688,32.6094 Z "/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs"
+                  textLength="107" x="101.5" y="25.9951">ChainException
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="72"
+                  x="119" y="38.5791">chainexception
+            </text>
+        </a><!--MD5=[ec4f188eeabaeda1f84a31673f18e187]
+reverse link chainexception.ChainException to index.InvalidSelectionException-->
+        <path d="M142,66.259 C142,78.9194 142,93.0012 142,105.8605 " fill="none"
+              id="chainexception.ChainException&lt;-index.InvalidSelectionException"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="135.0001,66.1728,142,46.1728,149.0001,66.1728,135.0001,66.1728"
+                 style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186"
+              x="55" y="209.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12
+        </text><!--MD5=[d9c41947b565323217e88a51da27bed9]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>InvalidSelectionException\n<size:10>index" as index.InvalidSelectionException [[../index/InvalidSelectionException.html]] {
+        +InvalidSelectionException()
+        +InvalidSelectionException(String)
+        +InvalidSelectionException(Exception, String)
+    }
+
+    class "<size:14>ChainException\n<size:10>chainexception" as chainexception.ChainException [[../chainexception/ChainException.html]]
+
+    chainexception.ChainException <|- - index.InvalidSelectionException
+
+    center footer UMLDoclet 2.0.7, PlantUML 1.2019.12
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 03:24:54 MST 2019)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>
